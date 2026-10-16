@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,600;7..72,700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+{% feed_meta %}
+{% if site.adsense_client != "" %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}" crossorigin="anonymous"></script>{% endif %}
+</head>
+<body>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="{{ '/' | relative_url }}"><span class="mark" aria-hidden="true">$</span><span>Finanzas Hispanas <b>USA</b></span></a>
+    <nav aria-label="Principal">
+      <a href="{{ '/' | relative_url }}">Artículos</a>
+      <a href="{{ '/sobre-nosotros/' | relative_url }}">Sobre nosotros</a>
+      <a href="{{ '/contacto/' | relative_url }}">Contacto</a>
+    </nav>
+  </div>
+</header>
+<main id="contenido">
+{{ content }}
+</main>
+<footer class="site-footer">
+  <div class="wrap foot">
+    <div>
+      <p class="brand-foot">Finanzas Hispanas USA</p>
+      <p>{{ site.tagline }}. Información educativa; no es asesoría financiera, legal ni fiscal personalizada.</p>
+    </div>
+    <nav aria-label="Legal">
+      <a href="{{ '/sobre-nosotros/' | relative_url }}">Sobre nosotros</a>
+      <a href="{{ '/contacto/' | relative_url }}">Contacto</a>
+      <a href="{{ '/politica-de-privacidad/' | relative_url }}">Política de privacidad</a>
+      <a href="{{ '/terminos-y-condiciones/' | relative_url }}">Términos y condiciones</a>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </nav>
+  </div>
+  <div class="wrap copy">© {{ site.time | date: "%Y" }} Finanzas Hispanas USA</div>
+</footer>
+</body>
+</html>

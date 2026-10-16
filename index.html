@@ -1,0 +1,21 @@
+---
+layout: default
+title: Finanzas Hispanas USA
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="kicker">Guías en español</p>
+    <h1>Crédito, bancos, impuestos y ahorro en Estados Unidos, explicados claro.</h1>
+    <p class="lead">Para hispanos que quieren entender el sistema financiero de EE.UU. y hacer que su dinero rinda más.</p>
+  </div>
+</section>
+<section class="wrap grid-posts" aria-label="Artículos">
+{% for post in site.posts %}
+  <article class="card">
+    <p class="kicker">{{ post.category | default: "Guía" }}</p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.description }}</p>
+    <a class="more" href="{{ post.url | relative_url }}">Leer guía</a>
+  </article>
+{% endfor %}
+</section>

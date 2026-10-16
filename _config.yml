@@ -1,0 +1,23 @@
+title: Finanzas Hispanas USA
+tagline: Dinero claro para hispanos en Estados Unidos
+description: Guías prácticas en español sobre crédito, impuestos, bancos, ahorro y envío de dinero para hispanos que viven en Estados Unidos.
+url: https://finanzashispanasusa.com
+baseurl: ""
+lang: es
+locale: es_US
+timezone: America/New_York
+author: Equipo de Finanzas Hispanas USA
+contact_email: contacto@finanzashispanasusa.com
+# ID de editor de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = sin anuncios.
+adsense_client: "ca-pub-7854535344264296"
+permalink: /:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+defaults:
+  - scope: {path: "", type: posts}
+    values: {layout: post}
+  - scope: {path: ""}
+    values: {layout: page}
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]

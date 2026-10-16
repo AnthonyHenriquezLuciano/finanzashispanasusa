@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="wrap narrow post">
+  <p class="kicker">{{ page.category | default: "Guía" }}</p>
+  <h1>{{ page.title }}</h1>
+  <p class="lead">{{ page.description }}</p>
+  <p class="meta">Por {{ site.author }} · Actualizado el {{ page.last_modified_at | default: page.date | date: "%d/%m/%Y" }} · {{ content | number_of_words | divided_by: 200 | plus: 1 }} min de lectura</p>
+  {% include ad.html %}
+  <div class="prose">{{ content }}</div>
+  {% include ad.html %}
+  <aside class="note">Este artículo es informativo y general. Las reglas de bancos, el IRS y otras entidades cambian; confirma siempre en la fuente oficial antes de decidir.</aside>
+  {% assign rel = site.posts | where_exp: "p", "p.url != page.url" | slice: 0, 3 %}
+  {% if rel.size > 0 %}<section class="related"><h2>Sigue leyendo</h2><ul>{% for p in rel %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}</ul></section>{% endif %}
+</article>
