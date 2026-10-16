@@ -1,0 +1,12 @@
+<section class="tool" data-tool="emergencia" aria-labelledby="t-eme">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-eme" class="tool-title">Tu meta de fondo de emergencia</h2><p>Calcula cuánto necesitas según tu tipo de trabajo y cuándo lo tendrás.</p></header>
+  <div class="tool-grid">
+    <label>Gastos esenciales al mes (USD)<input name="gastos" inputmode="decimal" value="2100"></label>
+    <label>Tu situación<select name="situacion"><option value="3">Sueldo fijo, sin dependientes (3 meses)</option><option value="4">Familia que depende de mí (4 meses)</option><option value="6" selected>Ingreso variable o por cuenta propia (6 meses)</option></select></label>
+    <label>Ya tengo ahorrado (USD)<input name="actual" inputmode="decimal" value="400"></label>
+    <label>Puedo ahorrar al mes (USD)<input name="aporte" inputmode="decimal" value="250"></label>
+  </div>
+  <p class="ef-meta">Meta: <b data-out="meta">—</b> <span>Llevas <b data-out="prog">0 %</b></span></p>
+  <div class="ef-bar" aria-hidden="true"><div class="ef-fill"></div></div>
+  <p class="tool-result" data-out="tiempo" aria-live="polite"></p>
+</section>

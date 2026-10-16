@@ -1,21 +1,54 @@
 ---
 layout: default
 title: Finanzas Hispanas USA
+description: Guías y calculadoras gratis en español sobre crédito, bancos, impuestos, remesas y ahorro para hispanos que viven en Estados Unidos.
 ---
 <section class="hero">
-  <div class="wrap">
-    <p class="kicker">Guías en español</p>
-    <h1>Crédito, bancos, impuestos y ahorro en Estados Unidos, explicados claro.</h1>
-    <p class="lead">Para hispanos que quieren entender el sistema financiero de EE.UU. y hacer que su dinero rinda más.</p>
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="kicker">Guías y calculadoras en español</p>
+      <h1>Tu dinero en Estados Unidos, <em>explicado claro.</em></h1>
+      <p class="lead">Crédito, bancos, impuestos, remesas y ahorro para la comunidad hispana. Sin letra pequeña.</p>
+      <div class="search" data-search role="search">
+        <label for="q" class="sr-only">Buscar una guía</label>
+        <input id="q" type="search" placeholder="¿Qué quieres resolver? Ej.: ITIN, crédito, enviar dinero" autocomplete="off">
+        <ul class="sr" hidden></ul>
+      </div>
+      <div class="chips" aria-label="Temas populares">
+        <a href="/como-construir-credito-en-estados-unidos-desde-cero/">Construir crédito</a>
+        <a href="/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/">Sacar el ITIN</a>
+        <a href="/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/">Cuenta sin SSN</a>
+        <a href="/como-enviar-dinero-a-latinoamerica-mas-barato/">Enviar dinero</a>
+      </div>
+    </div>
+    <a class="hero-quiz" href="/herramientas/test-salud-financiera/">
+      <span class="hq-tag">Test gratis · 2 min</span>
+      <span class="hq-score" aria-hidden="true"><svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="50" class="hq-track"/><circle cx="60" cy="60" r="50" class="hq-arc"/></svg><b>?</b></span>
+      <b class="hq-title">¿Qué tan sanas están tus finanzas?</b>
+      <span>8 preguntas, tu puntuación de 0 a 100 y un plan con tus próximos pasos.</span>
+      <span class="btn">Hacer el test →</span>
+    </a>
   </div>
 </section>
-<section class="wrap grid-posts" aria-label="Artículos">
-{% for post in site.posts %}
-  <article class="card">
-    <p class="kicker">{{ post.category | default: "Guía" }}</p>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p>{{ post.description }}</p>
-    <a class="more" href="{{ post.url | relative_url }}">Leer guía</a>
-  </article>
-{% endfor %}
+
+<section class="wrap block">
+  <div class="block-h"><h2>Calculadoras gratis</h2><a href="/herramientas/">Ver todas →</a></div>
+  {% include tools-grid.html exclude="quiz" %}
+</section>
+
+<section class="wrap block">
+  <div class="block-h"><h2>Guías por tema</h2></div>
+  <div class="cats">{% for c in site.data.categorias %}{% assign n = site.posts | where: "category", c.nombre | size %}<a class="cat" href="/categoria/{{ c.slug }}/"><b>{{ c.nombre }}</b><small>{{ c.desc }}</small><span>{{ n }} guía{% if n != 1 %}s{% endif %}</span></a>{% endfor %}</div>
+</section>
+
+<section class="wrap block">
+  <div class="block-h"><h2>Últimas guías</h2></div>
+  <div class="grid-posts">{% for post in site.posts limit:9 %}{% include card.html %}{% endfor %}</div>
+</section>
+
+<section class="wrap block">
+  <a class="promo" href="https://payhip.com/b/uMcUx" rel="noopener">
+    <span><span class="kicker">Plantilla en Excel</span><b>Planificador de Finanzas Personales</b><span>Presupuesto 50/30/20, control de gastos y metas de ahorro que se calculan solos. Pago único de $9.</span></span>
+    <span class="btn">Ver la plantilla →</span>
+  </a>
 </section>

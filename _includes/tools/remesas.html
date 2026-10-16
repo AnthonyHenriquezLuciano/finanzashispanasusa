@@ -1,0 +1,21 @@
+<section class="tool" data-tool="remesas" aria-labelledby="t-rem">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-rem" class="tool-title">¿Cuánto recibe tu familia?</h2><p>Compara dos servicios de envío con el costo real: comisión, tipo de cambio e impuesto del 1 %.</p></header>
+  <div class="tool-grid">
+    <label>Monto a enviar (USD)<input name="monto" inputmode="decimal" value="300"></label>
+    <label>Cómo pagas<select name="metodo"><option value="cuenta">Desde cuenta bancaria o tarjeta</option><option value="efectivo">En efectivo o money order</option></select></label>
+    <label>Tipo de cambio de mercado <small>(opcional)</small><input name="mercado" inputmode="decimal" value="18.00"></label>
+  </div>
+  <div class="rm-cols">
+    <div class="rm-col" data-k="a"><p class="rm-name">Opción A</p>
+      <label>Comisión (USD)<input name="fee_a" inputmode="decimal" value="0"></label>
+      <label>Tipo de cambio que ofrece<input name="rate_a" inputmode="decimal" value="17.40"></label>
+      <p class="rm-out">Recibe <b data-out="recibe_a">—</b><span>Pagas <b data-out="paga_a">—</b></span><span>Costo total <b data-out="costo_a">—</b></span></p>
+    </div>
+    <div class="rm-col" data-k="b"><p class="rm-name">Opción B</p>
+      <label>Comisión (USD)<input name="fee_b" inputmode="decimal" value="4.99"></label>
+      <label>Tipo de cambio que ofrece<input name="rate_b" inputmode="decimal" value="17.90"></label>
+      <p class="rm-out">Recibe <b data-out="recibe_b">—</b><span>Pagas <b data-out="paga_b">—</b></span><span>Costo total <b data-out="costo_b">—</b></span></p>
+    </div>
+  </div>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

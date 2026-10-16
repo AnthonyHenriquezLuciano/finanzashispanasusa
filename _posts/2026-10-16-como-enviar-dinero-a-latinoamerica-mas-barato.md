@@ -1,8 +1,26 @@
 ---
-title: "Cómo enviar dinero a Latinoamérica pagando menos: la guía completa"
-description: "Cómo calcular el costo real de una remesa, cuál es el impuesto del 1 % vigente desde 2026, qué derechos tienes por ley y siete trucos para que llegue más dinero a tu familia."
+title: 'Cómo enviar dinero a Latinoamérica pagando menos: la guía completa'
+description: Cómo calcular el costo real de una remesa, cuál es el impuesto del 1 % vigente desde 2026, qué derechos tienes por ley y siete trucos para que llegue más dinero a tu familia.
 date: 2026-10-16 09:00:00 -0400
 category: Remesas
+herramienta: remesas
+keywords:
+- enviar dinero
+- remesas
+- tipo de cambio
+- impuesto remesas 1%
+- envio de dinero a mexico
+resumen:
+- 'Compara **lo que recibe tu familia**, no la comisión anunciada: el tipo de cambio esconde parte del costo.'
+- Desde 2026 las remesas pagadas en **efectivo o money order** pagan un impuesto del **1 %**; desde cuenta bancaria o tarjeta, no.
+- Por ley tienes **30 minutos para cancelar** y **180 días para reclamar** errores.
+faq:
+- q: ¿Cuál es el servicio más barato para enviar dinero?
+  a: Cambia según el país, el monto y el día. Usa nuestra calculadora con los datos que te muestra cada servicio hoy y elige el que entrega más dinero por cada dólar que pagas.
+- q: ¿Quién paga el impuesto del 1 % a las remesas?
+  a: Quien envía dinero pagando en efectivo, money order, cheque de caja u otro instrumento físico similar. Los envíos pagados desde una cuenta bancaria o con tarjeta de débito o crédito de EE.UU. están exentos.
+- q: ¿Qué hago si el dinero no llegó?
+  a: Reclama a la empresa dentro de los 180 días siguientes a la fecha de entrega prometida. Si no lo resuelve, presenta una queja en consumerfinance.gov.
 ---
 Enviar dinero a la familia es uno de los gastos más importantes de millones de hispanos en Estados Unidos. Una diferencia de pocos dólares por envío, repetida cada mes, suma cientos de dólares al año. Esta guía te enseña a comparar bien y a proteger tu dinero.
 

@@ -1,8 +1,29 @@
 ---
-title: "ITIN vs. SSN: diferencias y cómo solicitar el ITIN paso a paso"
-description: "Para qué sirve cada número, quién puede tener un ITIN, qué documentos pide el Formulario W-7 y cómo evitar que tu ITIN caduque."
+title: 'ITIN vs. SSN: diferencias y cómo solicitar el ITIN paso a paso'
+description: Para qué sirve cada número, quién puede tener un ITIN, qué documentos pide el Formulario W-7 y cómo evitar que tu ITIN caduque.
 date: 2026-10-16 08:30:00 -0400
 category: Impuestos
+keywords:
+- ITIN
+- numero ITIN
+- formulario W-7
+- SSN
+- seguro social
+- IRS
+resumen:
+- El **SSN** lo emite el Seguro Social; el **ITIN** lo emite el IRS para quien debe declarar impuestos y no puede tener SSN.
+- El ITIN **no autoriza a trabajar** ni da beneficios del Seguro Social.
+- Se solicita con el **Formulario W-7**, normalmente junto con la declaración de impuestos.
+- Si no lo usas en una declaración durante 3 años seguidos, **caduca**.
+faq:
+- q: ¿Cuánto tarda el IRS en dar el ITIN?
+  a: Alrededor de 7 semanas, y más durante la temporada de impuestos (enero a abril).
+- q: ¿Tengo que enviar mi pasaporte original por correo?
+  a: No necesariamente. Con un Agente Certificador (CAA) o en un Centro de Asistencia del IRS con cita, verifican tus documentos en persona.
+- q: ¿Con el ITIN puedo abrir una cuenta bancaria?
+  a: En muchas entidades sí. Bancos comunitarios y cooperativas de crédito suelen aceptarlo; confírmalo antes de ir.
+- q: ¿El ITIN me sirve para el Crédito por Ingreso del Trabajo (EITC)?
+  a: No. El EITC exige un SSN válido para trabajar.
 ---
 Dos números de nueve dígitos generan muchas dudas en la comunidad hispana: el **SSN** (Número de Seguro Social) y el **ITIN** (Número de Identificación Personal del Contribuyente). Se parecen, pero sirven para cosas distintas.
 

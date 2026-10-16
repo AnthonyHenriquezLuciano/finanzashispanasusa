@@ -1,0 +1,1 @@
+<div class="tools-grid">{% for t in site.data.herramientas %}{% unless t.include == include.exclude %}<a class="tool-card" href="/herramientas/{{ t.slug }}/"><span class="ti" aria-hidden="true">{{ t.icono }}</span><b>{{ t.titulo }}</b><small>{{ t.corto }}</small></a>{% endunless %}{% endfor %}</div>

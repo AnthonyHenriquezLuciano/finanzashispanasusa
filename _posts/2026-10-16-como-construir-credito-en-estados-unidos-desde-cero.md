@@ -1,8 +1,29 @@
 ---
-title: "Cómo construir crédito en Estados Unidos desde cero: guía paso a paso"
-description: "Qué es el puntaje de crédito, qué lo sube y lo baja, y cinco caminos probados para empezar tu historial aunque acabes de llegar."
+title: 'Cómo construir crédito en Estados Unidos desde cero: guía paso a paso'
+description: Qué es el puntaje de crédito, qué lo sube y lo baja, y cinco caminos probados para empezar tu historial aunque acabes de llegar.
 date: 2026-10-16 08:00:00 -0400
 category: Crédito
+herramienta: credito
+keywords:
+- puntaje de credito
+- credit score
+- tarjeta asegurada
+- historial de credito
+- FICO
+resumen:
+- El puntaje FICO va de 300 a 850 y lo deciden sobre todo tus **pagos a tiempo (35 %)** y cuánto usas de tu límite **(30 %)**.
+- Empieza con una **tarjeta asegurada** o un **credit-builder loan**; algunos aceptan ITIN.
+- Mantén la utilización por debajo del 30 %, idealmente del 10 %.
+- Con 6 meses de actividad reportada ya se genera un puntaje.
+faq:
+- q: ¿Puedo tener crédito en EE.UU. sin Seguro Social?
+  a: Sí. Algunos bancos y cooperativas de crédito aceptan el ITIN para abrir tarjetas aseguradas y préstamos. Pregunta antes de solicitar, porque cada entidad decide.
+- q: ¿Cuánto tarda en aparecer mi primer puntaje?
+  a: Normalmente se necesitan al menos 6 meses de actividad reportada a los burós para que se genere un FICO Score.
+- q: ¿Revisar mi propio crédito baja el puntaje?
+  a: No. Consultar tu propio reporte, por ejemplo en AnnualCreditReport.com, es una consulta suave y no afecta tu puntaje.
+- q: ¿Qué utilización de crédito es la ideal?
+  a: Por debajo del 30 % de tu límite total, y mejor aún por debajo del 10 %. Calcula la tuya con nuestra calculadora de utilización.
 ---
 En Estados Unidos casi todo pasa por el crédito: alquilar un apartamento, financiar un carro, conseguir mejores tasas de seguro e incluso algunos empleos revisan tu historial. Si acabas de llegar, no tienes un puntaje malo; simplemente **no tienes puntaje**. La buena noticia es que se puede construir en pocos meses si sigues un método.
 

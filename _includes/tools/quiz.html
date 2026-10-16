@@ -1,0 +1,18 @@
+<section class="tool quiz" data-tool="quiz" aria-labelledby="t-quiz">
+  <header class="tool-h"><p class="tool-tag">Test de 2 minutos</p><h2 id="t-quiz" class="tool-title">¿Qué tan sanas están tus finanzas en EE.UU.?</h2><p data-out="paso" aria-live="polite"></p></header>
+  <div class="qz-bar" aria-hidden="true"><div class="qz-fill"></div></div>
+  <div class="qz-q" data-tema="banco"><p>¿Tienes una cuenta bancaria o en una cooperativa de crédito?</p><button data-pts="2">Sí, y recibo mi pago por depósito directo</button><button data-pts="1">Sí, pero casi no la uso</button><button data-pts="0">No</button></div>
+  <div class="qz-q" data-tema="credito" hidden><p>¿Tienes historial de crédito en EE.UU.?</p><button data-pts="2">Sí, y conozco mi puntaje</button><button data-pts="1">Tengo una tarjeta, pero no sé mi puntaje</button><button data-pts="0">No tengo crédito</button></div>
+  <div class="qz-q" data-tema="credito" hidden><p>¿Cómo pagas tus tarjetas?</p><button data-pts="2">El total, cada mes</button><button data-pts="1">El mínimo o un poco más</button><button data-pts="0">A veces me atraso / no tengo</button></div>
+  <div class="qz-q" data-tema="presupuesto" hidden><p>¿Sabes cuánto gastas cada mes?</p><button data-pts="2">Sí, llevo un presupuesto</button><button data-pts="1">Más o menos</button><button data-pts="0">No tengo idea</button></div>
+  <div class="qz-q" data-tema="emergencia" hidden><p>Si mañana no pudieras trabajar, ¿cuánto tiempo aguantarías con tus ahorros?</p><button data-pts="2">3 meses o más</button><button data-pts="1">Unas semanas</button><button data-pts="0">Nada</button></div>
+  <div class="qz-q" data-tema="remesas" hidden><p>Cuando envías dinero a tu país, ¿comparas lo que recibe tu familia?</p><button data-pts="2">Sí, comparo el monto final</button><button data-pts="1">Miro solo la comisión</button><button data-pts="0">Siempre uso el mismo sin comparar</button></div>
+  <div class="qz-q" data-tema="impuestos" hidden><p>¿Presentas tu declaración de impuestos cada año?</p><button data-pts="2">Sí, con SSN o ITIN</button><button data-pts="1">Algunos años</button><button data-pts="0">No</button></div>
+  <div class="qz-q" data-tema="emergencia" hidden><p>¿Ahorras algo cada vez que cobras?</p><button data-pts="2">Sí, automáticamente</button><button data-pts="1">Cuando sobra</button><button data-pts="0">No me alcanza</button></div>
+  <div class="qz-res" hidden aria-live="polite">
+    <p class="qz-score"><b data-out="score">0</b><span>/100</span></p>
+    <p class="qz-label" data-out="label"></p>
+    <p>Tus próximos pasos:</p><ul class="qz-recs"></ul>
+    <button type="button" class="btn-ghost qz-again">Repetir el test</button>
+  </div>
+</section>

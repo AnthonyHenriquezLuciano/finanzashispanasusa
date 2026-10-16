@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<section class="cat-hero"><div class="wrap">
+  <nav class="crumbs" aria-label="Ruta"><a href="/">Inicio</a> <span>›</span> {{ page.nombre }}</nav>
+  <h1>{{ page.nombre }}</h1><p class="lead">{{ page.description }}</p>
+</div></section>
+<section class="wrap grid-posts list" aria-label="Guías de {{ page.nombre }}">
+{% assign ps = site.posts | where: "category", page.nombre %}
+{% for post in ps %}{% include card.html %}{% endfor %}
+{% if ps.size == 0 %}<p>Pronto publicaremos guías en esta sección.</p>{% endif %}
+</section>
+<section class="wrap related"><h2>Calculadoras gratis</h2>{% include tools-grid.html %}</section>

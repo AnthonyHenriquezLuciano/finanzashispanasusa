@@ -1,0 +1,25 @@
+- slug: calculadora-remesas
+  include: remesas
+  titulo: Calculadora de remesas
+  corto: Compara cuánto recibe tu familia con cada servicio.
+  icono: "⇄"
+- slug: calculadora-presupuesto-50-30-20
+  include: presupuesto
+  titulo: Calculadora de presupuesto 50/30/20
+  corto: Reparte tu sueldo entre necesidades, deseos y ahorro.
+  icono: "◔"
+- slug: calculadora-utilizacion-credito
+  include: credito
+  titulo: Calculadora de utilización de crédito
+  corto: Descubre cuánto pagar para subir tu puntaje.
+  icono: "▲"
+- slug: calculadora-fondo-de-emergencia
+  include: emergencia
+  titulo: Calculadora de fondo de emergencia
+  corto: Tu meta exacta y la fecha en que la alcanzarás.
+  icono: "◆"
+- slug: test-salud-financiera
+  include: quiz
+  titulo: Test de salud financiera
+  corto: 8 preguntas y un plan personalizado.
+  icono: "✓"

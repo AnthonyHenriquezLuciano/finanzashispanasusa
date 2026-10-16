@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
 {% feed_meta %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Finanzas Hispanas USA","url":"{{ site.url }}","logo":"{{ site.url }}/assets/img/favicon.svg","email":"{{ site.contact_email }}"}</script>
 {% if site.adsense_client != "" %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}" crossorigin="anonymous"></script>{% endif %}
 </head>
 <body>
@@ -18,12 +19,16 @@
   <div class="wrap bar">
     <a class="brand" href="{{ '/' | relative_url }}"><span class="mark" aria-hidden="true">$</span><span>Finanzas Hispanas <b>USA</b></span></a>
     <nav aria-label="Principal">
-      <a href="{{ '/' | relative_url }}">Artículos</a>
-      <a href="{{ '/sobre-nosotros/' | relative_url }}">Sobre nosotros</a>
-      <a href="{{ '/contacto/' | relative_url }}">Contacto</a>
+      <a href="{{ '/categoria/credito/' | relative_url }}">Crédito</a>
+      <a href="{{ '/categoria/bancos/' | relative_url }}">Bancos</a>
+      <a href="{{ '/categoria/impuestos/' | relative_url }}">Impuestos</a>
+      <a href="{{ '/categoria/remesas/' | relative_url }}">Remesas</a>
+      <a href="{{ '/categoria/ahorro/' | relative_url }}">Ahorro</a>
+      <a class="nav-cta" href="{{ '/herramientas/' | relative_url }}">Calculadoras</a>
     </nav>
   </div>
 </header>
+{% if page.layout == "post" %}<div class="progress" aria-hidden="true"><span></span></div>{% endif %}
 <main id="contenido">
 {{ content }}
 </main>
@@ -34,6 +39,7 @@
       <p>{{ site.tagline }}. Información educativa; no es asesoría financiera, legal ni fiscal personalizada.</p>
     </div>
     <nav aria-label="Legal">
+      <a href="{{ '/herramientas/' | relative_url }}">Calculadoras gratis</a>
       <a href="{{ '/sobre-nosotros/' | relative_url }}">Sobre nosotros</a>
       <a href="{{ '/contacto/' | relative_url }}">Contacto</a>
       <a href="{{ '/politica-de-privacidad/' | relative_url }}">Política de privacidad</a>
@@ -43,5 +49,6 @@
   </div>
   <div class="wrap copy">© {{ site.time | date: "%Y" }} Finanzas Hispanas USA</div>
 </footer>
+<script src="{{ '/assets/js/tools.js' | relative_url }}" defer></script>
 </body>
 </html>

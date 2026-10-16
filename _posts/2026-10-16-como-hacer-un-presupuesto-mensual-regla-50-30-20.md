@@ -1,8 +1,25 @@
 ---
-title: "Cómo hacer un presupuesto mensual que sí funcione (regla 50/30/20)"
-description: "Un método simple en cuatro pasos para saber a dónde va tu dinero, con un ejemplo real en dólares y cómo adaptarlo si envías remesas."
+title: Cómo hacer un presupuesto mensual que sí funcione (regla 50/30/20)
+description: Un método simple en cuatro pasos para saber a dónde va tu dinero, con un ejemplo real en dólares y cómo adaptarlo si envías remesas.
 date: 2026-10-16 10:00:00 -0400
 category: Ahorro
+herramienta: presupuesto
+keywords:
+- presupuesto mensual
+- regla 50 30 20
+- como ahorrar dinero
+- control de gastos
+resumen:
+- 'Reparte tu ingreso neto: **50 % necesidades, 30 % deseos, 20 % ahorro y deudas**.'
+- Si envías remesas, usa una versión **50/20/10/20** con una categoría para tu familia.
+- Registra tus gastos 30 días y revisa el presupuesto cada semana.
+faq:
+- q: ¿La regla 50/30/20 se calcula sobre el sueldo bruto o neto?
+  a: 'Sobre el neto: lo que realmente recibes después de impuestos y descuentos.'
+- q: ¿Qué hago si mi renta es más del 50 % de mi ingreso?
+  a: Recorta primero en deseos para no dejar de ahorrar, y busca aumentar ingresos o reducir el costo de vivienda a medio plazo.
+- q: ¿Cómo hago presupuesto si mi ingreso cambia cada semana?
+  a: Usa como base tu mes más bajo de los últimos tres. Lo que entre de más va directo al ahorro.
 ---
 Si llegas a fin de mes sin saber en qué se fue el sueldo, no es falta de disciplina: es falta de un plan. Un presupuesto es simplemente decidir **antes** a dónde va cada dólar. Aquí tienes un método que funciona aunque tus ingresos cambien de semana a semana.
 

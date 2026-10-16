@@ -1,8 +1,25 @@
 ---
-title: "Fondo de emergencia: cuánto ahorrar y dónde guardarlo en EE.UU."
-description: "Cuántos meses de gastos necesitas según tu tipo de trabajo, dónde guardar el dinero para que gane intereses sin riesgo y un plan para juntarlo empezando con poco."
+title: 'Fondo de emergencia: cuánto ahorrar y dónde guardarlo en EE.UU.'
+description: Cuántos meses de gastos necesitas según tu tipo de trabajo, dónde guardar el dinero para que gane intereses sin riesgo y un plan para juntarlo empezando con poco.
 date: 2026-10-16 10:30:00 -0400
 category: Ahorro
+herramienta: emergencia
+keywords:
+- fondo de emergencia
+- cuanto ahorrar
+- cuenta de ahorro alto rendimiento
+- high yield savings
+resumen:
+- 'Meta: **3 a 6 meses de gastos esenciales**, más si tu ingreso es variable.'
+- Empieza con un primer hito de **$1,000**.
+- Guárdalo en una **cuenta de ahorro de alto rendimiento** asegurada por la FDIC, separada de tu cuenta diaria.
+faq:
+- q: ¿Dónde guardo mi fondo de emergencia?
+  a: En una cuenta de ahorro de alto rendimiento o money market asegurada por la FDIC o la NCUA. No en efectivo en casa ni en inversiones que puedan bajar.
+- q: ¿Debo pagar deudas antes de ahorrar para emergencias?
+  a: Lo habitual es juntar primero un colchón pequeño (unos $1,000) y después atacar las deudas con interés alto, sin dejar de ahorrar un poco.
+- q: ¿Cuánto necesito si trabajo por cuenta propia?
+  a: Al menos 6 meses de gastos esenciales, porque tus ingresos pueden variar mucho de un mes a otro.
 ---
 Un carro que se daña, una semana sin trabajo o una visita al médico pueden convertirse en una deuda de tarjeta de crédito si no tienes un colchón. El **fondo de emergencia** es el dinero que guardas solo para imprevistos, y es la base de cualquier plan financiero.
 
