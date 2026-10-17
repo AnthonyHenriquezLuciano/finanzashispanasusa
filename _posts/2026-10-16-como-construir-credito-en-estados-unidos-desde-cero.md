@@ -77,7 +77,7 @@ Suelen aprobar con historial corto. Úsalas para compras pequeñas y paga el sal
 2. **Mantén la utilización baja.** Si tu límite es $500, intenta que el saldo reportado no pase de $150.
 3. **No abras muchas cuentas a la vez.** Cada solicitud genera una consulta que resta unos puntos por un tiempo.
 4. **No cierres tu primera tarjeta** aunque ya tengas otras: su antigüedad ayuda.
-5. **Revisa tu reporte.** Puedes obtenerlo gratis en [AnnualCreditReport.com](https://www.annualcreditreport.com), el sitio oficial autorizado por la ley federal. Si ves un error, disputarlo con el buró es gratis.
+5. **Revisa tu reporte.** Puedes obtenerlo gratis en [AnnualCreditReport.com](https://www.annualcreditreport.com), el sitio oficial autorizado por la ley federal. Si ves un error, disputarlo con el buró es gratis: sigue nuestra guía para [leer tu reporte de crédito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/).
 
 ## ¿Cuánto tarda?
 
