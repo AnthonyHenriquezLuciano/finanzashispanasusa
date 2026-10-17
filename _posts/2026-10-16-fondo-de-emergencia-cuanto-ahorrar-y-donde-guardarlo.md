@@ -48,7 +48,7 @@ Esa cifra puede asustar. Hazlo por etapas:
 
 El fondo debe estar **seguro, disponible en uno o dos días y separado** de tu cuenta del día a día.
 
-- **Cuenta de ahorro de alto rendimiento (high-yield savings):** la opción más usada. Muchos bancos en línea pagan bastante más interés que una cuenta de ahorro tradicional. Comprueba que esté asegurada por la **FDIC** (o la **NCUA** si es una cooperativa).
+- **Cuenta de ahorro de alto rendimiento (high-yield savings):** la opción más usada ([cómo elegir la mejor](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/)). Muchos bancos en línea pagan bastante más interés que una cuenta de ahorro tradicional. Comprueba que esté asegurada por la **FDIC** (o la **NCUA** si es una cooperativa).
 - **Cuenta del mercado monetario (money market account):** parecida, a veces con cheques o tarjeta.
 - **Certificados de depósito (CD):** pagan interés fijo, pero penalizan si retiras antes. Úsalos solo para la parte que seguramente no tocarás.
 

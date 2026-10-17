@@ -44,7 +44,7 @@ Dos números de nueve dígitos generan muchas dudas en la comunidad hispana: el 
 
 Según el IRS, el ITIN es para personas que tienen una obligación o motivo para presentar documentos de impuestos federales y no son elegibles para un SSN. Por ejemplo:
 
-- Personas que trabajan por cuenta propia o reciben ingresos en EE.UU. y no tienen SSN.
+- Personas que trabajan por cuenta propia o reciben ingresos en EE.UU. y no tienen SSN (mira [cómo pagan impuestos los independientes](/impuestos-para-trabajadores-independientes-en-estados-unidos/)).
 - Cónyuges o dependientes que aparecen en una declaración de impuestos.
 - Extranjeros no residentes con ingresos de fuente estadounidense.
 
