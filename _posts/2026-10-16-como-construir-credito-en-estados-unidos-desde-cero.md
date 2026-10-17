@@ -92,3 +92,5 @@ Por lo general necesitas al menos **6 meses** de actividad reportada para que se
 ## Resumen
 
 Empieza con una tarjeta asegurada o un credit-builder loan, paga siempre a tiempo, usa menos del 30 % de tu límite y revisa tu reporte. Con paciencia, en un año tendrás un historial sólido.
+
+**Sigue leyendo:** [cómo funciona una tarjeta de crédito asegurada](/tarjeta-de-credito-asegurada-como-funciona/) y [cómo alquilar un apartamento sin crédito](/como-alquilar-un-apartamento-sin-credito/).

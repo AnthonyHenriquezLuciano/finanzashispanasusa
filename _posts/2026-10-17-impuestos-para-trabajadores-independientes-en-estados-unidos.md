@@ -124,3 +124,5 @@ Puedes cumplir con tus impuestos usando un **ITIN**. Declarar te ayuda a tener u
 ## Resumen
 
 Como independiente pagas 15.3 % de impuesto de trabajo por cuenta propia más el impuesto sobre la renta. Aparta el 25 %–30 % de cada cobro, deduce tus gastos con recibos y paga los estimados cada trimestre para evitar multas.
+
+**Sigue leyendo:** [cómo declarar impuestos gratis](/como-declarar-impuestos-gratis/) y [ahorrar para el retiro siendo independiente](/como-ahorrar-para-el-retiro-sin-401k-ira/).

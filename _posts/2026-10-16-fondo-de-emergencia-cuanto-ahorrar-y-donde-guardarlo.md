@@ -77,3 +77,5 @@ No: vacaciones, ofertas, regalos o compras planeadas. Para eso crea un ahorro ap
 ## Resumen
 
 Junta primero $1,000, después de 3 a 6 meses de gastos esenciales, guárdalo en una cuenta de ahorro de alto rendimiento asegurada por la FDIC y automatiza el ahorro. Es el seguro que te evita endeudarte cuando algo sale mal.
+
+**Sigue leyendo:** [cómo usar bien tu reembolso de impuestos](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/) y [cómo ahorrar para el retiro sin 401(k)](/como-ahorrar-para-el-retiro-sin-401k-ira/).

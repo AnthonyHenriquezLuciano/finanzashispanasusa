@@ -109,3 +109,5 @@ Si todavía estás empezando, lee [cómo construir crédito desde cero](/como-co
 ## Resumen
 
 Descarga tus tres reportes gratis en AnnualCreditReport.com, revisa cada sección, marca lo que esté mal y dispútalo tú mismo con pruebas. Es gratis, y un solo error corregido puede subir tu puntaje lo suficiente para conseguir una mejor tasa.
+
+**Sigue leyendo:** [plan para salir de deudas de tarjetas](/como-salir-de-deudas-de-tarjetas-de-credito/) y [tarjeta de crédito asegurada](/tarjeta-de-credito-asegurada-como-funciona/).

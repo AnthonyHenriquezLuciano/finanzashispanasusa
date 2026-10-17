@@ -78,3 +78,5 @@ Si prefieres no armar la hoja desde cero, nuestro [Planificador de Finanzas Pers
 ## Resumen
 
 Calcula tu ingreso neto, separa necesidades, deseos y ahorro, registra tus gastos un mes y revisa cada semana. El mejor presupuesto es el que puedes mantener.
+
+**Sigue leyendo:** [cómo salir de deudas de tarjetas](/como-salir-de-deudas-de-tarjetas-de-credito/) y [cómo ahorrar para el retiro con una IRA](/como-ahorrar-para-el-retiro-sin-401k-ira/).

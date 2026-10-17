@@ -166,3 +166,16 @@ nav a:hover{color:var(--brand)}
 .copy{padding-block:0 24px;font-size:14px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}html{scroll-behavior:auto}}
 @media (max-width:760px){.site-header{position:static}}
+
+/* deudas */
+.dd-list{display:grid;gap:12px;margin:8px 0 16px}
+.dd-row{display:grid;grid-template-columns:1.4fr 1fr .8fr .8fr;gap:10px}
+@media (max-width:600px){.dd-row{grid-template-columns:1fr 1fr;padding-bottom:12px;border-bottom:1px solid var(--line)}}
+.dd-cmp{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:18px 0 6px}
+@media (max-width:600px){.dd-cmp{grid-template-columns:1fr}}
+.dd-card{border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.dd-card p{margin:4px 0}
+.dd-card.win{border-color:var(--brand);box-shadow:0 0 0 2px var(--brand-soft)}
+.dd-k{font-weight:700}.dd-k span{font-weight:400;color:var(--muted);font-size:14px}
+.dd-v{font:700 26px var(--serif)}
+.dd-o{color:var(--muted);font-size:14px}

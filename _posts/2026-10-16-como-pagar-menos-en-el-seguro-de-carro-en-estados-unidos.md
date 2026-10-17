@@ -78,3 +78,5 @@ El seguro de carro es una **necesidad** dentro de la regla 50/30/20. Usa la calc
 ## Resumen
 
 Conoce los mínimos de tu estado, compara al menos tres cotizaciones con los mismos límites, pide todos los descuentos y ajusta el deducible a lo que tengas ahorrado. Revisarlo una vez al año puede ahorrarte cientos de dólares.
+
+**Sigue leyendo:** [cómo financiar un carro sin pagar de más](/como-financiar-un-carro-en-estados-unidos/).

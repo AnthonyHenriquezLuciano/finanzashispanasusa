@@ -1,0 +1,14 @@
+<section class="tool" data-tool="deudas" aria-labelledby="t-deu">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-deu" class="tool-title">Tu plan para salir de deudas</h2><p>Compara el método avalancha y el método bola de nieve con tus deudas reales.</p></header>
+  <div class="dd-list">
+    <div class="dd-row"><label>Deuda<input name="n1" value="Tarjeta A"></label><label>Saldo (USD)<input name="s1" inputmode="decimal" value="3200"></label><label>APR %<input name="r1" inputmode="decimal" value="27.9"></label><label>Mínimo<input name="m1" inputmode="decimal" value="96"></label></div>
+    <div class="dd-row"><label>Deuda<input name="n2" value="Tarjeta B"></label><label>Saldo (USD)<input name="s2" inputmode="decimal" value="900"></label><label>APR %<input name="r2" inputmode="decimal" value="22.5"></label><label>Mínimo<input name="m2" inputmode="decimal" value="35"></label></div>
+    <div class="dd-row"><label>Deuda<input name="n3" value="Tienda"></label><label>Saldo (USD)<input name="s3" inputmode="decimal" value="1800"></label><label>APR %<input name="r3" inputmode="decimal" value="29.9"></label><label>Mínimo<input name="m3" inputmode="decimal" value="55"></label></div>
+  </div>
+  <div class="tool-grid"><label>Pago extra que puedes sumar al mes (USD)<input name="extra" inputmode="decimal" value="150"></label></div>
+  <div class="dd-cmp">
+    <div class="dd-card" data-m="av"><p class="dd-k">Avalancha <span>(interés más alto primero)</span></p><p class="dd-v" data-out="av_t">—</p><p data-out="av_i"></p><p class="dd-o" data-out="av_o"></p></div>
+    <div class="dd-card" data-m="bn"><p class="dd-k">Bola de nieve <span>(saldo más pequeño primero)</span></p><p class="dd-v" data-out="bn_t">—</p><p data-out="bn_i"></p><p class="dd-o" data-out="bn_o"></p></div>
+  </div>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

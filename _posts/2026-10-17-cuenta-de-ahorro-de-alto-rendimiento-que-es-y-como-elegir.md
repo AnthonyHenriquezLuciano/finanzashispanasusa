@@ -88,3 +88,5 @@ No es para inversiones de largo plazo, como el retiro, donde otras opciones suel
 ## Resumen
 
 Una cuenta de ahorro de alto rendimiento asegurada por la FDIC o la NCUA hace que tu dinero gane mucho más sin riesgo. Compara por APY, evita cuotas, automatiza el ahorro y úsala para tu fondo de emergencia.
+
+**Sigue leyendo:** [cómo ahorrar para el retiro con una IRA](/como-ahorrar-para-el-retiro-sin-401k-ira/) y [cómo usar tu reembolso de impuestos](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/).

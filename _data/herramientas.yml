@@ -23,3 +23,8 @@
   titulo: Test de salud financiera
   corto: 8 preguntas y un plan personalizado.
   icono: "✓"
+- slug: calculadora-salir-de-deudas
+  include: deudas
+  titulo: Calculadora para salir de deudas
+  corto: Avalancha vs. bola de nieve con tus deudas reales.
+  icono: "↓"

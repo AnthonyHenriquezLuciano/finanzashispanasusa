@@ -112,6 +112,47 @@
       });
     },
 
+    deudas: function (root) {
+      function sim(ds, extra, order) {
+        ds = ds.map(function (d) { return { n: d.n, s: d.s, r: d.r, m: d.m }; });
+        var months = 0, interest = 0, done = [];
+        while (ds.some(function (d) { return d.s > 0.005; }) && months < 600) {
+          months++;
+          var pool = extra;
+          ds.forEach(function (d) { if (d.s > 0) { var i = d.s * d.r / 1200; d.s += i; interest += i; } });
+          ds.forEach(function (d) { if (d.s > 0) { var p = Math.min(d.m, d.s); d.s -= p; } else pool += d.m; });
+          var live = ds.filter(function (d) { return d.s > 0.005; }).sort(order);
+          live.forEach(function (d) { var p = Math.min(pool, d.s); d.s -= p; pool -= p; });
+          ds.forEach(function (d) { if (d.s <= 0.005 && done.indexOf(d.n) < 0) { d.s = 0; done.push(d.n); } });
+        }
+        return { months: months, interest: interest, done: done, stuck: months >= 600 };
+      }
+      function fecha(m) { var d = new Date(); d.setMonth(d.getMonth() + m); return d.toLocaleDateString("es-US", { month: "long", year: "numeric" }); }
+      function plazo(m) { var a = Math.floor(m / 12), r = m % 12; return (a ? a + (a > 1 ? " años" : " año") + (r ? " y " : "") : "") + (r ? r + (r > 1 ? " meses" : " mes") : ""); }
+      bind(root, function () {
+        var ds = [1, 2, 3].map(function (k) { return { n: $(root, '[name="n' + k + '"]').value || "Deuda " + k, s: val(root, "s" + k), r: val(root, "r" + k), m: val(root, "m" + k) }; }).filter(function (d) { return d.s > 0; });
+        var out = $(root, '[data-out="veredicto"]');
+        if (!ds.length) { out.textContent = "Escribe el saldo de al menos una deuda."; return; }
+        var extra = val(root, "extra");
+        var av = sim(ds, extra, function (a, b) { return b.r - a.r; }), bn = sim(ds, extra, function (a, b) { return a.s - b.s; });
+        [["av", av], ["bn", bn]].forEach(function (x) {
+          var k = x[0], r = x[1];
+          $(root, '[data-out="' + k + '_t"]').textContent = r.stuck ? "No termina" : plazo(r.months);
+          $(root, '[data-out="' + k + '_i"]').innerHTML = r.stuck ? "Los pagos no cubren los intereses." : "Intereses: <b>" + usd.format(r.interest) + "</b> · libre en " + fecha(r.months);
+          $(root, '[data-out="' + k + '_o"]').textContent = r.stuck ? "" : "Orden: " + r.done.join(" → ");
+        });
+        $$(root, ".dd-card").forEach(function (c) { c.classList.remove("win"); });
+        if (av.stuck) { out.innerHTML = "Con estos pagos la deuda no baja. Sube el pago extra o pide a tu banco una tasa más baja."; return; }
+        var ahorro = bn.interest - av.interest;
+        $(root, '.dd-card[data-m="av"]').classList.add("win");
+        var base = sim(ds, 0, function (a, b) { return b.r - a.r; });
+        var msg = ahorro > 1 ? "La <b>avalancha</b> te ahorra <b>" + usd.format(ahorro) + "</b> en intereses. Si necesitas motivación rápida, la bola de nieve paga primero la deuda más pequeña." : "Con tus deudas ambos métodos cuestan casi lo mismo: elige la <b>bola de nieve</b> para ver resultados antes.";
+        if (extra > 0 && !base.stuck) msg += " Tu pago extra de " + usd.format(extra) + " te ahorra <b>" + usd.format(base.interest - av.interest) + "</b> y " + (base.months - av.months) + " meses frente a pagar solo los mínimos.";
+        out.innerHTML = msg;
+        track("deudas");
+      });
+    },
+
     quiz: function (root) {
       var qs = $$(root, ".qz-q"), i = 0, score = 0, weak = [];
       var bar = $(root, ".qz-fill"), step = $(root, '[data-out="paso"]');
@@ -131,7 +172,7 @@
           });
         });
       });
-      var guides = { credito: ["Construye tu crédito", "/como-construir-credito-en-estados-unidos-desde-cero/"], banco: ["Abre tu cuenta bancaria", "/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/"], emergencia: ["Arma tu fondo de emergencia", "/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/"], presupuesto: ["Haz tu presupuesto", "/como-hacer-un-presupuesto-mensual-regla-50-30-20/"], remesas: ["Envía dinero pagando menos", "/como-enviar-dinero-a-latinoamerica-mas-barato/"], impuestos: ["Pon en orden tus impuestos", "/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/"] };
+      var guides = { credito: ["Construye tu crédito", "/como-construir-credito-en-estados-unidos-desde-cero/"], banco: ["Abre tu cuenta bancaria", "/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/"], emergencia: ["Arma tu fondo de emergencia", "/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/"], presupuesto: ["Haz tu presupuesto", "/como-hacer-un-presupuesto-mensual-regla-50-30-20/"], remesas: ["Envía dinero pagando menos", "/como-enviar-dinero-a-latinoamerica-mas-barato/"], impuestos: ["Pon en orden tus impuestos", "/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/"], deudas: ["Sal de deudas con un plan", "/como-salir-de-deudas-de-tarjetas-de-credito/"] };
       function finish() {
         qs.forEach(function (q) { q.hidden = true; });
         bar.style.width = "100%"; step.textContent = "Resultado";
