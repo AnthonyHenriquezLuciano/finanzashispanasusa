@@ -79,3 +79,5 @@ Si te preocupa una llamada o mensaje del "IRS", lee nuestra guía de [estafas fi
 ## Resumen
 
 Antes de pagar a un preparador, revisa si calificas para VITA o IRS Free File. Lleva todos tus documentos, exige que el reembolso llegue a tu cuenta y nunca firmes algo que no entiendas.
+
+**Sigue leyendo:** [crédito tributario por hijos y EITC](/credito-tributario-por-hijos-y-eitc/).
