@@ -28,3 +28,8 @@
   titulo: Calculadora para salir de deudas
   corto: Avalancha vs. bola de nieve con tus deudas reales.
   icono: "↓"
+- slug: calculadora-prestamo-de-auto
+  include: prestamo
+  titulo: Calculadora de préstamo de auto
+  corto: Tu cuota mensual y cuánto cuesta alargar el plazo.
+  icono: "◉"

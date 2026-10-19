@@ -153,6 +153,28 @@
       });
     },
 
+    prestamo: function (root) {
+      function pago(P, apr, n) { var r = apr / 1200; return r ? P * r / (1 - Math.pow(1 + r, -n)) : P / n; }
+      bind(root, function () {
+        var precio = val(root, "precio"), eng = val(root, "enganche"), tax = val(root, "tax"), apr = val(root, "apr"), n = val(root, "plazo"), ing = val(root, "ingreso");
+        var P = Math.max(0, precio * (1 + tax / 100) - eng), out = $(root, '[data-out="veredicto"]');
+        if (!P) { out.textContent = "Escribe el precio del carro."; return; }
+        var c = pago(P, apr, n), it = c * n - P;
+        $(root, '[data-out="cuota"]').textContent = usd.format(c);
+        $(root, '[data-out="interes"]').textContent = usd.format(it);
+        $(root, '[data-out="monto"]').textContent = usd.format(P);
+        var tb = $(root, '[data-out="tabla"]'), rows = "", max = 0, data = [36, 48, 60, 72, 84].map(function (m) { var q = pago(P, apr, m), i = q * m - P; max = Math.max(max, i); return [m, q, i]; });
+        data.forEach(function (d) { rows += '<tr' + (d[0] === n ? ' class="on"' : "") + "><td>" + d[0] + " meses</td><td>" + usd.format(d[1]) + '</td><td><span class="pl-bar" style="width:' + (max ? d[2] / max * 100 : 0) + '%"></span>' + usd.format(d[2]) + "</td></tr>"; });
+        tb.innerHTML = rows;
+        var msg = "", corto = pago(P, apr, 48) * 48 - P;
+        if (n > 48) msg += "A " + n + " meses pagas <b>" + usd.format(it - corto) + "</b> más de intereses que a 48 meses. ";
+        if (eng < precio * 0.1) msg += "Un enganche de al menos el 10 % (" + usd.format(precio * 0.1) + ") baja la cuota y evita deber más de lo que vale el carro. ";
+        if (ing) { var pct = c / ing * 100; msg += "La cuota es el <b>" + Math.round(pct) + " %</b> de tu ingreso neto" + (pct > 10 ? ": es alta; con seguro y gasolina podrías pasar del 15 % recomendado." : ": está en un rango sano. Suma el seguro y la gasolina antes de decidir."); }
+        out.innerHTML = msg || "Buen plan: plazo corto y enganche sólido.";
+        track("prestamo");
+      });
+    },
+
     quiz: function (root) {
       var qs = $$(root, ".qz-q"), i = 0, score = 0, weak = [];
       var bar = $(root, ".qz-fill"), step = $(root, '[data-out="paso"]');

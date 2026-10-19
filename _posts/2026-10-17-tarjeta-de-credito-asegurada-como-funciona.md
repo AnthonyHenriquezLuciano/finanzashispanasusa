@@ -80,3 +80,5 @@ Combina la tarjeta asegurada con los demás hábitos de [cómo construir crédit
 ## Resumen
 
 Deposita una garantía, usa la tarjeta para compras pequeñas, paga el total cada mes y mantén la utilización bajo el 30 %. En un año puedes tener un puntaje sólido y recuperar tu depósito.
+
+**Sigue leyendo:** [cómo subir tu puntaje de crédito rápido](/como-subir-tu-puntaje-de-credito-rapido/).

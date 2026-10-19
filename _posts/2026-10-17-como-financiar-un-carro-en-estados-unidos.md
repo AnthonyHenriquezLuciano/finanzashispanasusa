@@ -3,7 +3,7 @@ title: "Cómo financiar un carro en EE.UU. sin pagar de más (aunque tengas poco
 description: "Guía para comprar carro a crédito: cuánto puedes pagar, preaprobación, APR, plazo, enganche y trampas del concesionario. Incluye opciones con ITIN o historial corto."
 date: 2026-10-17 16:20:00 -0400
 category: Ahorro
-herramienta: presupuesto
+herramienta: prestamo
 keywords: [financiar un carro, prestamo de auto, comprar carro con ITIN, APR prestamo auto, comprar carro sin credito]
 resumen:
 - "Consigue una **preaprobación** en tu banco o cooperativa **antes** de ir al concesionario."
@@ -30,7 +30,7 @@ Mira el **costo total mensual**, no solo la cuota:
 - **Seguro** (puede subir mucho con un carro nuevo o financiado; aprende a [pagar menos en el seguro](/como-pagar-menos-en-el-seguro-de-carro-en-estados-unidos/))
 - Gasolina, mantenimiento y registro
 
-Regla práctica: que todo junto no pase del **10 % al 15 % de tu ingreso neto**. Usa la calculadora 50/30/20 de abajo para ver cuánto te queda en "necesidades".
+Regla práctica: que todo junto no pase del **10 % al 15 % de tu ingreso neto**. Usa la calculadora de préstamo de abajo para ver tu cuota y cuánto te cuesta cada plazo.
 
 ## Paso 2: revisa tu crédito
 

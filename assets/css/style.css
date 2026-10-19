@@ -179,3 +179,14 @@ nav a:hover{color:var(--brand)}
 .dd-k{font-weight:700}.dd-k span{font-weight:400;color:var(--muted);font-size:14px}
 .dd-v{font:700 26px var(--serif)}
 .dd-o{color:var(--muted);font-size:14px}
+
+/* prestamo */
+.pl-sum{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:18px 0}
+.pl-sum div{border:1px solid var(--line);border-radius:14px;padding:12px 14px}
+.pl-sum span{display:block;color:var(--muted);font-size:14px}.pl-sum b{font:700 24px var(--serif)}
+@media (max-width:600px){.pl-sum{grid-template-columns:1fr}}
+.pl-tab{width:100%;border-collapse:collapse;font-size:15px}
+.pl-tab th,.pl-tab td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line)}
+.pl-tab td:last-child{position:relative}
+.pl-tab tr.on td{font-weight:700;color:var(--brand)}
+.pl-bar{display:block;height:6px;border-radius:999px;background:linear-gradient(90deg,var(--brand),var(--brand-2));margin-bottom:4px}

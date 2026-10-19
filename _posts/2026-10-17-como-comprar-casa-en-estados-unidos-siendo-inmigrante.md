@@ -76,3 +76,5 @@ Tener un fondo de emergencia aparte es clave: la casa trae reparaciones inespera
 ## Resumen
 
 Prepara crédito, deudas y ahorro con tiempo, elige el préstamo según tu situación (FHA, convencional o ITIN), compara prestamistas y cuida cada paso del cierre. Mientras ahorras, aprende a [alquilar con o sin crédito](/como-alquilar-un-apartamento-sin-credito/).
+
+**Sigue leyendo:** [seguro de vida: cuánto necesitas](/seguro-de-vida-cuanto-necesitas-y-que-tipo-elegir/) y [cómo subir tu puntaje antes de pedir la hipoteca](/como-subir-tu-puntaje-de-credito-rapido/).

@@ -1,0 +1,18 @@
+<section class="tool" data-tool="prestamo" aria-labelledby="t-pre">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-pre" class="tool-title">Préstamo de auto: cuota e intereses</h2><p>Mira cuánto pagarás al mes y cuánto te cuesta alargar el plazo.</p></header>
+  <div class="tool-grid">
+    <label>Precio del carro (USD)<input name="precio" inputmode="decimal" value="25000"></label>
+    <label>Enganche (USD)<input name="enganche" inputmode="decimal" value="3000"></label>
+    <label>Impuesto y cargos (%)<input name="tax" inputmode="decimal" value="7"></label>
+    <label>APR (%)<input name="apr" inputmode="decimal" value="9"></label>
+    <label>Plazo<select name="plazo"><option value="36">36 meses</option><option value="48">48 meses</option><option value="60" selected>60 meses</option><option value="72">72 meses</option><option value="84">84 meses</option></select></label>
+    <label>Tu ingreso neto al mes (USD)<input name="ingreso" inputmode="decimal" value="3800"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Cuota mensual</span><b data-out="cuota">—</b></div>
+    <div><span>Intereses totales</span><b data-out="interes">—</b></div>
+    <div><span>Monto financiado</span><b data-out="monto">—</b></div>
+  </div>
+  <table class="pl-tab"><thead><tr><th>Plazo</th><th>Cuota</th><th>Intereses</th></tr></thead><tbody data-out="tabla"></tbody></table>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>
