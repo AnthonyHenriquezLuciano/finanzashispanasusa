@@ -85,3 +85,5 @@ Si una empresa no resuelve tu reclamo, puedes presentar una queja en [consumerfi
 Compara lo que recibe tu familia, no la comisión anunciada. Paga desde una cuenta bancaria para evitar el impuesto del 1 %, guarda tu recibo y recuerda que tienes 30 minutos para cancelar y 180 días para reclamar.
 
 **Sigue leyendo:** [cómo cambiar un cheque sin cuenta bancaria](/como-cambiar-un-cheque-sin-cuenta-bancaria/) y [estafas con remesas y apps de pago](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+
+**Sigue leyendo:** [cómo enviar dinero a México pagando menos](/como-enviar-dinero-a-mexico/).
