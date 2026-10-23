@@ -94,3 +94,13 @@ Por lo general necesitas al menos **6 meses** de actividad reportada para que se
 Empieza con una tarjeta asegurada o un credit-builder loan, paga siempre a tiempo, usa menos del 30 % de tu límite y revisa tu reporte. Con paciencia, en un año tendrás un historial sólido.
 
 **Sigue leyendo:** [cómo funciona una tarjeta de crédito asegurada](/tarjeta-de-credito-asegurada-como-funciona/) , [cómo alquilar un apartamento sin crédito](/como-alquilar-un-apartamento-sin-credito/) y [cómo subir tu puntaje rápido](/como-subir-tu-puntaje-de-credito-rapido/).
+
+## Guías especializadas para seguir aprendiendo
+
+Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+
+- [fecha de corte vs fecha de pago tarjeta credito](/fecha-de-corte-vs-fecha-de-pago-tarjeta-credito/)
+- [congelar credito gratis estados unidos](/congelar-credito-gratis-estados-unidos/)
+- [fico vs vantagescore diferencias](/fico-vs-vantagescore-diferencias/)
+- [usuario autorizado tarjeta credito pros contras](/usuario-autorizado-tarjeta-credito-pros-contras/)
+- [cobrador deuda que no reconozco que hacer](/cobrador-deuda-que-no-reconozco-que-hacer/)

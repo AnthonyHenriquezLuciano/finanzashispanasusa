@@ -75,3 +75,13 @@ Este seguro protege tu dinero aunque el banco quiebre, y no depende de tu estatu
 Lleva pasaporte o matrícula consular, tu ITIN si lo tienes y un comprobante de domicilio. Empieza por una cooperativa de crédito o un banco comunitario, elige una cuenta sin cuota mensual y confirma que esté asegurada por la FDIC o la NCUA.
 
 **Sigue leyendo:** [cómo cambiar un cheque sin cuenta bancaria](/como-cambiar-un-cheque-sin-cuenta-bancaria/) , [las estafas financieras más comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [cómo abrir una LLC para tu negocio](/como-abrir-una-llc-siendo-inmigrante/).
+
+## Guías especializadas para seguir aprendiendo
+
+Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+
+- [cuenta corriente vs cuenta ahorros estados unidos](/cuenta-corriente-vs-cuenta-ahorros-estados-unidos/)
+- [evitar cargos sobregiro cuenta bancaria](/evitar-cargos-sobregiro-cuenta-bancaria/)
+- [transferencia ach vs wire diferencias](/transferencia-ach-vs-wire-diferencias/)
+- [fdic vs ncua seguro depositos](/fdic-vs-ncua-seguro-depositos/)
+- [cuenta bancaria conjunta riesgos ventajas](/cuenta-bancaria-conjunta-riesgos-ventajas/)

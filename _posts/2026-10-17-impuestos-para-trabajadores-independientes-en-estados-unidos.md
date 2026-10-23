@@ -128,3 +128,13 @@ Como independiente pagas 15.3 % de impuesto de trabajo por cuenta propia más el
 **Sigue leyendo:** [cómo declarar impuestos gratis](/como-declarar-impuestos-gratis/) y [ahorrar para el retiro siendo independiente](/como-ahorrar-para-el-retiro-sin-401k-ira/).
 
 **Sigue leyendo:** [cómo abrir una LLC siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/).
+
+## Guías especializadas para seguir aprendiendo
+
+Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+
+- [como llenar w4 retencion impuestos](/como-llenar-w4-retencion-impuestos/)
+- [w2 vs 1099 empleado contratista](/w2-vs-1099-empleado-contratista/)
+- [pagos trimestrales impuestos 1040 es](/pagos-trimestrales-impuestos-1040-es/)
+- [corregir declaracion impuestos 1040x](/corregir-declaracion-impuestos-1040x/)
+- [ip pin irs robo identidad impuestos](/ip-pin-irs-robo-identidad-impuestos/)

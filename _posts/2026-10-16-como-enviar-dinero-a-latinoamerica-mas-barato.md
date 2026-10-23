@@ -87,3 +87,13 @@ Compara lo que recibe tu familia, no la comisión anunciada. Paga desde una cuen
 **Sigue leyendo:** [cómo cambiar un cheque sin cuenta bancaria](/como-cambiar-un-cheque-sin-cuenta-bancaria/) y [estafas con remesas y apps de pago](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
 **Sigue leyendo:** [cómo enviar dinero a México pagando menos](/como-enviar-dinero-a-mexico/).
+
+## Guías especializadas para seguir aprendiendo
+
+Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+
+- [enviar dinero republica dominicana desde usa](/enviar-dinero-republica-dominicana-desde-usa/)
+- [enviar dinero colombia desde estados unidos](/enviar-dinero-colombia-desde-estados-unidos/)
+- [remesa equivocada no llego como reclamar](/remesa-equivocada-no-llego-como-reclamar/)
+- [tipo cambio remesas costo real comparar](/tipo-cambio-remesas-costo-real-comparar/)
+- [estafas remesas transferencias internacionales](/estafas-remesas-transferencias-internacionales/)
