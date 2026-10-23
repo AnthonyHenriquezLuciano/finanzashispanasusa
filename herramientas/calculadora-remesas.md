@@ -17,3 +17,9 @@ La calculadora te dice qué opción entrega más dinero por cada dólar que paga
 ## Por qué el método de pago importa
 
 Desde el 1 de enero de 2026 las remesas pagadas en **efectivo, money order o cheque de caja** pagan un impuesto federal del 1 %. Si envías desde tu cuenta bancaria o con una tarjeta de débito o crédito de EE.UU., no lo pagas.
+
+## Antes de comparar servicios
+
+El tipo de cambio anunciado puede diferir del tipo de cambio de referencia y de la tasa final que verá el destinatario. Introduce el mismo monto, país de destino y método de cobro en cada proveedor. Confirma si la oferta incluye promociones temporales y cuándo estará disponible el dinero. El resultado no es una cotización en vivo.
+
+Si envías a México, consulta [la guía específica para México](/como-enviar-dinero-a-mexico/); si tienes dudas sobre comisiones y derechos, revisa [cómo enviar dinero a Latinoamérica](/como-enviar-dinero-a-latinoamerica-mas-barato/).

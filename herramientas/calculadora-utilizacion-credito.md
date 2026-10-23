@@ -18,3 +18,9 @@ Es el porcentaje de tu límite total que estás usando. Si tienes $1,500 de lím
 ## El truco de la fecha de cierre
 
 Los bancos suelen reportar a los burós el saldo de tu **estado de cuenta**, no el del día que pagas. Si pagas antes de la fecha de cierre, el saldo reportado será más bajo y tu utilización mejorará ese mismo mes.
+
+## Cómo interpretar el resultado
+
+La utilización se calcula dividiendo el saldo reportado entre el límite disponible y multiplicando por 100. Por ejemplo, $600 reportados sobre un límite de $2,000 equivalen al 30 %. Ningún porcentaje garantiza un aumento concreto en el puntaje: también cuentan historial de pagos, antigüedad y otros factores. **Paga siempre al menos el mínimo antes del vencimiento**, aun cuando estés intentando reducir el saldo del corte.
+
+Consulta [la guía para mejorar tu puntaje](/como-subir-tu-puntaje-de-credito-rapido/) y [cómo interpretar tu reporte de crédito](/como-leer-tu-reporte-de-credito-y-disputar-errores/).

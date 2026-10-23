@@ -78,3 +78,13 @@ Tener un fondo de emergencia aparte es clave: la casa trae reparaciones inespera
 Prepara crédito, deudas y ahorro con tiempo, elige el préstamo según tu situación (FHA, convencional o ITIN), compara prestamistas y cuida cada paso del cierre. Mientras ahorras, aprende a [alquilar con o sin crédito](/como-alquilar-un-apartamento-sin-credito/).
 
 **Sigue leyendo:** [seguro de vida: cuánto necesitas](/seguro-de-vida-cuanto-necesitas-y-que-tipo-elegir/) y [cómo subir tu puntaje antes de pedir la hipoteca](/como-subir-tu-puntaje-de-credito-rapido/).
+
+## Guías especializadas para seguir aprendiendo
+
+Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+
+- [costo real comprar casa hipoteca impuestos seguro](/costo-real-comprar-casa-hipoteca-impuestos-seguro/)
+- [debt to income dti hipoteca como calcular](/debt-to-income-dti-hipoteca-como-calcular/)
+- [ayuda pago inicial comprar casa down payment](/ayuda-pago-inicial-comprar-casa-down-payment/)
+- [deposito seguridad alquiler derechos inquilino](/deposito-seguridad-alquiler-derechos-inquilino/)
+- [hipoteca tasa fija vs ajustable arm](/hipoteca-tasa-fija-vs-ajustable-arm/)

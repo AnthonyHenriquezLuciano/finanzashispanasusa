@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Todas las guías financieras en español"
+description: "Explora guías de crédito, bancos, impuestos, remesas, ahorro y vivienda para hispanos en Estados Unidos, con herramientas gratuitas."
+permalink: /guias/
+---
+<section class="cat-hero"><div class="wrap"><nav class="crumbs" aria-label="Ruta"><a href="/">Inicio</a> <span>›</span> Guías</nav><h1>Guías de finanzas personales en Estados Unidos</h1><p class="lead">Encuentra respuestas prácticas por tema, con ejemplos, fuentes oficiales y calculadoras gratuitas.</p></div></section>
+{% for cat in site.data.categorias %}
+<section class="wrap block" aria-labelledby="guias-{{ cat.slug }}">
+<div class="block-h"><h2 id="guias-{{ cat.slug }}">{{ cat.nombre }}</h2><a href="/categoria/{{ cat.slug }}/">Ver categoría →</a></div>
+<p>{{ cat.desc }}</p>
+<div class="grid-posts">
+{% assign found = site.posts | where: "category", cat.nombre %}
+{% for post in found %}{% include card.html %}{% endfor %}
+</div></section>
+{% endfor %}
+<section class="wrap block"><div class="block-h"><h2>Herramientas prácticas</h2><a href="/herramientas/">Ver calculadoras →</a></div>{% include tools-grid.html %}</section>

@@ -3,12 +3,12 @@ layout: default
 ---
 {% assign cat = site.data.categorias | where: "nombre", page.category | first %}
 <article class="wrap post-wrap">
-  <nav class="crumbs" aria-label="Ruta"><a href="/">Inicio</a> <span>›</span> <a href="/categoria/{{ cat.slug }}/">{{ page.category }}</a></nav>
+  <nav class="crumbs" aria-label="Ruta"><a href="/">Inicio</a> <span>›</span> <a href="/guias/">Guías</a> <span>›</span> <a href="/categoria/{{ cat.slug }}/">{{ page.category }}</a></nav>
   <header class="post-head">
     <p class="kicker">{{ page.category }}</p>
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.description }}</p>
-    <p class="meta"><span>Por {{ site.author }}</span><span>Revisado el {{ page.last_modified_at | default: page.date | date: "%d/%m/%Y" }}</span><span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min de lectura</span></p>
+    <p class="meta"><span>Por {{ site.author }}</span><span>{% if page.last_modified_at %}Actualizado el {{ page.last_modified_at | date: "%d/%m/%Y" }}{% else %}Publicado el {{ page.date | date: "%d/%m/%Y" }}{% endif %}</span><span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min de lectura</span></p>
   </header>
   <div class="post-grid">
     <aside class="toc" aria-label="En esta guía"><p>En esta guía</p><ol></ol></aside>
@@ -24,6 +24,7 @@ layout: default
       <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for f in page.faq %}{"@type":"Question","name":{{ f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | markdownify | strip_html | strip | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}</script>
       {% endif %}
       {% include ad.html %}
+      <p class="tool-link">Explora el <a href="/guias/">índice de todas nuestras guías financieras</a> y encuentra recursos relacionados.</p>
       <a class="cta-quiz" href="/herramientas/test-salud-financiera/"><span><b>¿Qué tan sanas están tus finanzas?</b> Haz el test de 2 minutos y recibe tu plan personalizado.</span><span class="arrow">→</span></a>
       <aside class="note">Este artículo es informativo y general. Las reglas de bancos, el IRS y otras entidades cambian; confirma siempre en la fuente oficial antes de decidir.</aside>
     </div>
@@ -33,4 +34,4 @@ layout: default
   {% assign rel = same | concat: other | slice: 0, 3 %}
   {% if rel.size > 0 %}<section class="related"><h2>Sigue leyendo</h2><div class="grid-posts">{% for post in rel %}{% include card.html %}{% endfor %}</div></section>{% endif %}
 </article>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":{{ page.category | jsonify }},"item":"{{ site.url }}/categoria/{{ cat.slug }}/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":"Guías","item":"{{ site.url }}/guias/"},{"@type":"ListItem","position":3,"name":{{ page.category | jsonify }},"item":"{{ site.url }}/categoria/{{ cat.slug }}/"},{"@type":"ListItem","position":4,"name":{{ page.title | jsonify }}}]}</script>
