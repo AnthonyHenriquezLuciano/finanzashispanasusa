@@ -34,4 +34,4 @@ layout: default
   {% assign rel = same | concat: other | slice: 0, 3 %}
   {% if rel.size > 0 %}<section class="related"><h2>Sigue leyendo</h2><div class="grid-posts">{% for post in rel %}{% include card.html %}{% endfor %}</div></section>{% endif %}
 </article>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":{{ page.category | jsonify }},"item":"{{ site.url }}/categoria/{{ cat.slug }}/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":"Guías","item":"{{ site.url }}/guias/"},{"@type":"ListItem","position":3,"name":{{ page.category | jsonify }},"item":"{{ site.url }}/categoria/{{ cat.slug }}/"},{"@type":"ListItem","position":4,"name":{{ page.title | jsonify }}}]}</script>
