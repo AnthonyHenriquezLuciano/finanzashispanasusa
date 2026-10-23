@@ -42,7 +42,7 @@ No toda oferta legítima barata es fraude; verifica empresas y condiciones con c
 Confirma el procedimiento en [FTC: reportar fraude y estafas](https://reportfraud.ftc.gov/). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/), [esta explicación complementaria](/como-enviar-dinero-a-latinoamerica-mas-barato/) y [otro recurso práctico](/como-enviar-dinero-a-mexico/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/calculadora-remesas/).
+Amplía la información con [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/), [como enviar dinero a latinoamerica mas barato](/como-enviar-dinero-a-latinoamerica-mas-barato/) y [como enviar dinero a mexico](/como-enviar-dinero-a-mexico/). Pon a prueba los números con nuestra [calculadora remesas](/herramientas/calculadora-remesas/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.

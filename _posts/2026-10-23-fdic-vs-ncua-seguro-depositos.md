@@ -42,7 +42,7 @@ Los límites no deben extrapolarse sin considerar beneficiarios, titulares y dif
 Consulta la información de [FDIC: calculadora de cobertura](https://edie.fdic.gov/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/), [este recurso práctico](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/) y [esta explicación complementaria](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-fondo-de-emergencia/).
+Para completar el contexto, lee [cuenta de ahorro de alto rendimiento que es y como elegir](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/), [como abrir una cuenta bancaria en estados unidos sin seguro social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [calculadora fondo de emergencia](/herramientas/calculadora-fondo-de-emergencia/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

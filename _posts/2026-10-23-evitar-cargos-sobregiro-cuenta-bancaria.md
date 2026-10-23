@@ -42,7 +42,7 @@ Cancelar la cobertura de sobregiro no protege frente a todo tipo de pago rechaza
 Consulta la información de [CFPB: opciones para evitar sobregiros](https://www.consumerfinance.gov/consumer-tools/bank-accounts/know-your-overdraft-options/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [este recurso práctico](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y [esta explicación complementaria](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-presupuesto-50-30-20/).
+Para completar el contexto, lee [como abrir una cuenta bancaria en estados unidos sin seguro social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

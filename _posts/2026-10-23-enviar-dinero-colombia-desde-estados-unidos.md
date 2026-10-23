@@ -42,7 +42,7 @@ Los valores de ejemplo no representan una tasa del día. Cuidado con enlaces que
 Confirma el procedimiento en [CFPB: información y derechos de remesas](https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/como-enviar-dinero-a-latinoamerica-mas-barato/), [esta explicación complementaria](/como-enviar-dinero-a-mexico/) y [otro recurso práctico](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/calculadora-remesas/).
+Amplía la información con [como enviar dinero a latinoamerica mas barato](/como-enviar-dinero-a-latinoamerica-mas-barato/), [como enviar dinero a mexico](/como-enviar-dinero-a-mexico/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Pon a prueba los números con nuestra [calculadora remesas](/herramientas/calculadora-remesas/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.

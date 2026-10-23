@@ -42,7 +42,7 @@ Los intervalos y ponderaciones exactas pueden variar según la versión. No exis
 Consulta la información de [CFPB: puntuaciones de crédito](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [este recurso práctico](/como-subir-tu-puntaje-de-credito-rapido/) y [esta explicación complementaria](/tarjeta-de-credito-asegurada-como-funciona/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-utilizacion-credito/).
+Para completar el contexto, lee [como leer tu reporte de credito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [como subir tu puntaje de credito rapido](/como-subir-tu-puntaje-de-credito-rapido/) y [tarjeta de credito asegurada como funciona](/tarjeta-de-credito-asegurada-como-funciona/). Si necesitas poner números a tu situación, utiliza la [calculadora utilizacion credito](/herramientas/calculadora-utilizacion-credito/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

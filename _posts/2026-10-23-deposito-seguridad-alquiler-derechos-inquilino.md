@@ -42,7 +42,7 @@ No existe un plazo nacional único de devolución aplicable a todos los alquiler
 Puedes revisar las orientaciones de [HUD: recursos de vivienda y alquiler](https://www.hud.gov/topics/rental_assistance) antes de actuar. Para cuestiones de impuestos, crédito, hipotecas, vivienda o comisiones, las condiciones vigentes y los documentos oficiales de tu caso prevalecen sobre cualquier ejemplo general. Evita tomar una decisión irreversible basada en una cifra de referencia.
 
 ## Sigue con estas guías
-Para completar tu plan consulta [esta guía](/como-alquilar-un-apartamento-sin-credito/), [este recurso](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y [esta explicación](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/). También puedes utilizar nuestra [herramienta financiera gratuita](/herramientas/calculadora-presupuesto-50-30-20/) para practicar los cálculos.
+Para completar tu plan consulta [como alquilar un apartamento sin credito](/como-alquilar-un-apartamento-sin-credito/), [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/). También puedes utilizar nuestra [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/) para practicar los cálculos.
 
 ## Resumen y siguiente paso
 Empieza por obtener información concreta: una cotización, un documento, un saldo o una fecha. Con esa evidencia podrás decidir mejor, medir el resultado y ajustar sin comprometer tus gastos esenciales.

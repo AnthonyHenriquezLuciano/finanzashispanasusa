@@ -42,7 +42,7 @@ No es correcto aplicar un límite universal a todos los programas ni deducir que
 Puedes revisar las orientaciones de [CFPB: guía para comparar préstamos hipotecarios](https://www.consumerfinance.gov/owning-a-home/) antes de actuar. Para cuestiones de impuestos, crédito, hipotecas, vivienda o comisiones, las condiciones vigentes y los documentos oficiales de tu caso prevalecen sobre cualquier ejemplo general. Evita tomar una decisión irreversible basada en una cifra de referencia.
 
 ## Sigue con estas guías
-Para completar tu plan consulta [esta guía](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/), [este recurso](/como-salir-de-deudas-de-tarjetas-de-credito/) y [esta explicación](/como-subir-tu-puntaje-de-credito-rapido/). También puedes utilizar nuestra [herramienta financiera gratuita](/herramientas/calculadora-salir-de-deudas/) para practicar los cálculos.
+Para completar tu plan consulta [como comprar casa en estados unidos siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/), [como salir de deudas de tarjetas de credito](/como-salir-de-deudas-de-tarjetas-de-credito/) y [como subir tu puntaje de credito rapido](/como-subir-tu-puntaje-de-credito-rapido/). También puedes utilizar nuestra [calculadora salir de deudas](/herramientas/calculadora-salir-de-deudas/) para practicar los cálculos.
 
 ## Resumen y siguiente paso
 Empieza por obtener información concreta: una cotización, un documento, un saldo o una fecha. Con esa evidencia podrás decidir mejor, medir el resultado y ajustar sin comprometer tus gastos esenciales.
