@@ -13,3 +13,9 @@ La regla 50/30/20 reparte tu ingreso **neto** así: 50 % para necesidades, 30 % 
 También te avisa si tu renta pasa del 40 % del ingreso, el punto en el que conviene recortar deseos para no dejar de ahorrar.
 
 ¿Quieres llevar el control todo el mes? El [Planificador de Finanzas Personales](https://payhip.com/b/uMcUx) hace estos cálculos solo en Excel.
+
+## ¿Y si el 50/30/20 no encaja en tu realidad?
+
+La regla es una guía, no una obligación. Si el alquiler y el transporte consumen más del 50 % de tu sueldo neto, comienza registrando gastos esenciales y reduce gradualmente los rubros que sí puedes modificar. Las remesas también deben tener una categoría fija para que el presupuesto no dependa del dinero que sobra.
+
+Antes de cambiar porcentajes, aprende [a preparar un presupuesto mensual](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y calcula [cuánto necesitas en tu fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/).
