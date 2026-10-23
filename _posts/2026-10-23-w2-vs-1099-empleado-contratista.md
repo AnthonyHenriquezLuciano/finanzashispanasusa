@@ -42,7 +42,7 @@ Tener una LLC o recibir un 1099 no demuestra por sí solo que seas contratista l
 Confirma el procedimiento en [IRS: empleado o contratista independiente](https://www.irs.gov/es/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/impuestos-para-trabajadores-independientes-en-estados-unidos/), [esta explicación complementaria](/como-declarar-impuestos-gratis/) y [otro recurso práctico](/como-abrir-una-llc-siendo-inmigrante/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/calculadora-presupuesto-50-30-20/).
+Amplía la información con [impuestos para trabajadores independientes en estados unidos](/impuestos-para-trabajadores-independientes-en-estados-unidos/), [como declarar impuestos gratis](/como-declarar-impuestos-gratis/) y [como abrir una llc siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/). Pon a prueba los números con nuestra [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.

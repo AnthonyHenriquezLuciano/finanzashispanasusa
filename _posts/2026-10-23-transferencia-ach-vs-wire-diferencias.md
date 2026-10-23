@@ -42,7 +42,7 @@ Una transferencia bancaria estadounidense no equivale a una remesa internacional
 Consulta la información de [CFPB: cuentas bancarias y pagos](https://www.consumerfinance.gov/consumer-tools/bank-accounts/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [este recurso práctico](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [esta explicación complementaria](/como-enviar-dinero-a-latinoamerica-mas-barato/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-remesas/).
+Para completar el contexto, lee [como abrir una cuenta bancaria en estados unidos sin seguro social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [como enviar dinero a latinoamerica mas barato](/como-enviar-dinero-a-latinoamerica-mas-barato/). Si necesitas poner números a tu situación, utiliza la [calculadora remesas](/herramientas/calculadora-remesas/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

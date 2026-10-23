@@ -42,7 +42,7 @@ El IRS no pide tu IP PIN por mensajes directos, llamadas inesperadas o redes soc
 Confirma el procedimiento en [IRS: guía de robo de identidad e IP PIN](https://www.irs.gov/es/identity-theft-central/identity-theft-guide-for-individuals). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/), [esta explicación complementaria](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [otro recurso práctico](/como-declarar-impuestos-gratis/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/test-salud-financiera/).
+Amplía la información con [itin vs ssn diferencias y como solicitar el itin](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/), [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [como declarar impuestos gratis](/como-declarar-impuestos-gratis/). Pon a prueba los números con nuestra [test salud financiera](/herramientas/test-salud-financiera/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.
