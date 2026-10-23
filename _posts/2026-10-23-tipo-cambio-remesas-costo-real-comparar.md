@@ -1,7 +1,7 @@
 ---
 title: "Tipo de cambio en remesas: calcula el costo real"
 description: "Aprende a comparar margen cambiario, comisión y monto recibido para identificar la mejor cotización al enviar dólares al extranjero."
-date: 2026-10-23 10:08:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["tipo de cambio remesas", "costo real enviar dinero", "margen cambiario money transfer"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No necesariamente; sirve de referencia y puede diferir de la tasa ofertada al público."
 - q: "¿Qué dato decide la mejor oferta?"
   a: "El monto neto recibido, junto con el gasto total, seguridad y plazo que necesitas."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 El costo de una remesa no depende únicamente de la comisión explícita. También importa cuánto vale cada dólar en la moneda de destino. Un tipo de cambio peor puede restar más dinero que una tarifa visible. La comparación correcta es entre ofertas para el mismo monto y método de pago.
 

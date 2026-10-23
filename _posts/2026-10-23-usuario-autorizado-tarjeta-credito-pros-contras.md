@@ -1,7 +1,7 @@
 ---
 title: "Usuario autorizado de tarjeta: ventajas y riesgos"
 description: "Entiende cuándo ser usuario autorizado puede ayudarte a construir historial, qué riesgos implica y qué acordar antes de aceptar."
-date: 2026-10-23 09:03:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Crédito
 keywords: ["usuario autorizado tarjeta credito", "authorized user credit card", "construir credito familiar"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No. Depende de si la cuenta se reporta y de los modelos y datos de tu historial."
 - q: "¿Tengo que usar la tarjeta para beneficiarme?"
   a: "No siempre. La actividad de la cuenta puede reportarse aunque no hagas compras."
-herramienta: calculadora-utilizacion-credito
+herramienta: credito
 ---
 Ser usuario autorizado significa que el titular principal te añade a su tarjeta. Puedes recibir una tarjeta para comprar, pero normalmente la obligación contractual de pagar pertenece al titular. Según el emisor y el modelo de puntaje, esa cuenta puede aparecer en tu reporte y contribuir a tu historial, aunque no está garantizado.
 

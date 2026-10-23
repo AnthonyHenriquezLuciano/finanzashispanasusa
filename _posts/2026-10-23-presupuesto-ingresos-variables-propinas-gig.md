@@ -1,7 +1,7 @@
 ---
 title: "Presupuesto con ingresos variables, propinas o gig"
 description: "Aprende a presupuestar cuando cobras por horas, propinas o aplicaciones: define ingreso base, reserva impuestos y controla semanas bajas."
-date: 2026-10-23 11:03:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["presupuesto ingresos variables", "presupuesto propinas gig economy", "ahorrar con sueldo irregular"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Activa la reserva para meses bajos y prioriza obligaciones esenciales; revisa el presupuesto de inmediato."
 - q: "¿Sirve el 50/30/20 con ingresos variables?"
   a: "Como referencia sí, pero usa cifras conservadoras y ajusta porcentajes según gastos reales."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Si tus ingresos cambian cada semana por turnos, propinas, trabajos por encargo o ventas, un presupuesto basado en el mejor mes puede llevarte a gastar de más. Resulta más prudente trabajar con una base conservadora y separar el excedente cuando el negocio va bien.
 

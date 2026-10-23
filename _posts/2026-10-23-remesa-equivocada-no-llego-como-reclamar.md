@@ -1,7 +1,7 @@
 ---
 title: "Mi remesa no llegó: cómo reclamar un error"
 description: "Pasos para reclamar una remesa atrasada, con monto incorrecto o destinatario equivocado, usando tus derechos y comprobantes."
-date: 2026-10-23 10:07:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["remesa no llego", "reclamar transferencia internacional", "error money transfer usa"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Inmediatamente al detectar el problema, aunque la regla federal contemple hasta 180 días para ciertos avisos."
 - q: "¿Puedo cancelar un envío?"
   a: "En transferencias cubiertas suele haber un derecho de cancelación de hasta 30 minutos si los fondos aún no se han cobrado o depositado; revisa excepciones."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 Si el dinero no llegó, llegó tarde o el monto fue diferente del anunciado, comunica el problema al proveedor cuanto antes y conserva la evidencia. En transferencias cubiertas por la regla federal de remesas, tienes generalmente hasta 180 días desde la fecha de disponibilidad informada para notificar determinados errores.
 

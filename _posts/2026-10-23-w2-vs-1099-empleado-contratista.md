@@ -1,7 +1,7 @@
 ---
 title: "W-2 vs. 1099: empleado o contratista"
 description: "Conoce cómo se diferencian los ingresos W-2 y 1099, quién retiene impuestos y qué señales ayudan a identificar tu clasificación laboral."
-date: 2026-10-23 10:01:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["W2 vs 1099", "empleado o contratista independiente", "taxes 1099 hispanos"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Los ingresos sujetos a impuestos pueden requerir declaración aunque no te entreguen un formulario."
 - q: "¿Puedo escoger si soy empleado o contratista?"
   a: "No libremente. La relación real y las reglas aplicables determinan la clasificación."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Un empleado normalmente recibe un Formulario W-2 con salarios y retenciones; un contratista independiente puede recibir ciertos formularios 1099 por pagos recibidos. La clasificación legal no depende de cómo te llamen ni del formulario que te entreguen, sino de los hechos de la relación laboral y las reglas aplicables.
 

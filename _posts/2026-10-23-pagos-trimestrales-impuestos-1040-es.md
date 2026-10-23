@@ -1,7 +1,7 @@
 ---
 title: "Pagos trimestrales de impuestos: guía 1040-ES"
 description: "Organiza tus pagos estimados al IRS si trabajas por cuenta propia: cómo separar dinero, calcular la previsión y evitar olvidos."
-date: 2026-10-23 10:02:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["impuestos estimados trimestrales", "formulario 1040 ES", "pagar taxes contratista"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No necesariamente. Depende del impuesto previsto, retenciones y excepciones del IRS."
 - q: "¿Qué pasa si mi ingreso varía mucho?"
   a: "Puedes necesitar métodos de cálculo basados en ingresos anualizados; consulta las instrucciones oficiales."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Si recibes ingresos sin retención suficiente, podrías necesitar pagos estimados durante el año mediante el sistema del IRS. No se trata de pagar una tasa fija sobre cada depósito: debes estimar el impuesto del año teniendo en cuenta ingresos, deducciones, créditos, retenciones y las reglas de penalización.
 

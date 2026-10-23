@@ -1,7 +1,7 @@
 ---
 title: "Hipoteca fija vs. ARM: compara los riesgos"
 description: "Compara hipoteca de tasa fija y ajustable (ARM), cuánto podría cambiar la cuota y las preguntas esenciales antes de elegir."
-date: 2026-10-23 11:09:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["hipoteca fija vs ARM", "adjustable rate mortgage español", "tasa variable hipoteca"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No. Puede ofrecer una tasa inicial inferior, pero depende de las ofertas y del mercado."
 - q: "¿Qué significa un ajuste de tasa?"
   a: "La tasa puede subir o bajar siguiendo reglas contractuales y eso modifica los pagos futuros."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Una hipoteca de tasa fija mantiene la misma tasa de interés del préstamo durante el plazo pactado; una hipoteca ajustable o ARM tiene una tasa que puede cambiar según su contrato tras un período inicial. Un pago inicial más bajo no significa necesariamente un préstamo más barato o seguro a largo plazo.
 

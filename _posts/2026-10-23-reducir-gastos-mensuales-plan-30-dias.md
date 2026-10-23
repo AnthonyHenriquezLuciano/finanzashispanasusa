@@ -1,7 +1,7 @@
 ---
 title: "Cómo reducir gastos en 30 días sin extremos"
 description: "Plan de cuatro semanas para detectar fugas de dinero, negociar facturas y convertir el ahorro en una transferencia real."
-date: 2026-10-23 11:04:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["reducir gastos mensuales", "plan ahorro 30 dias", "recortar suscripciones"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Por gastos repetidos pequeños y cargos que no reconoces; luego compara los servicios grandes."
 - q: "¿Qué hacer con el dinero liberado?"
   a: "Destínalo a un fondo de emergencia o deuda costosa con una transferencia específica."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Puedes liberar dinero sin recurrir a reglas de sacrificio imposibles. Un plan de 30 días consiste en observar movimientos, detectar cargos repetidos, renegociar servicios y separar lo que ahorras. La meta no es gastar cero, sino mantener los cambios cuando termine el mes.
 

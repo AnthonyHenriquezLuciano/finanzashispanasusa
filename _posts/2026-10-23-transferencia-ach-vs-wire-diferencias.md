@@ -1,7 +1,7 @@
 ---
 title: "Transferencia ACH vs. wire: cuál elegir"
 description: "Compara ACH y transferencias wire según rapidez, comisiones, cancelación y seguridad para pagos dentro de Estados Unidos."
-date: 2026-10-23 09:07:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Bancos
 keywords: ["ACH vs wire", "diferencia transferencia bancaria", "wire transfer USA"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No. Algunas entidades cobran por ciertas modalidades, aunque muchas transferencias habituales son gratuitas."
 - q: "¿Se puede cancelar un wire?"
   a: "La recuperación puede ser difícil una vez ejecutado; avisa al banco de inmediato ante un error."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 ACH y wire son sistemas distintos para mover dinero entre cuentas en Estados Unidos. ACH se usa con frecuencia para nóminas, domiciliaciones y transferencias habituales; wire suele utilizarse cuando hace falta enviar fondos con instrucciones bancarias específicas. No elijas solo por rapidez: considera costo, fecha y posibilidad de corregir errores.
 

@@ -1,7 +1,7 @@
 ---
 title: "IP PIN del IRS: protege tu identidad tributaria"
 description: "Qué es el IP PIN de seis dígitos del IRS, quién puede solicitarlo gratis y cómo evitar fraudes al presentar impuestos con SSN o ITIN."
-date: 2026-10-23 10:04:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["IP PIN IRS español", "robo identidad impuestos", "proteger ITIN declaracion"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Sí, el IRS contempla a contribuyentes con SSN o ITIN que cumplan el proceso de verificación."
 - q: "¿Debo pagar a un gestor para obtenerlo?"
   a: "No. El IP PIN del IRS es gratuito a través de sus procedimientos oficiales."
-herramienta: test-salud-financiera
+herramienta: quiz
 ---
 El IP PIN es un número de seis dígitos que el IRS usa para verificar que la declaración federal procede del contribuyente autorizado. Las personas con SSN o ITIN pueden solicitarlo gratuitamente siguiendo los procedimientos oficiales. Es una defensa adicional frente a declaraciones fraudulentas presentadas con datos robados.
 
