@@ -190,3 +190,12 @@ nav a:hover{color:var(--brand)}
 .pl-tab td:last-child{position:relative}
 .pl-tab tr.on td{font-weight:700;color:var(--brand)}
 .pl-bar{display:block;height:6px;border-radius:999px;background:linear-gradient(90deg,var(--brand),var(--brand-2));margin-bottom:4px}
+
+/* Portadas editoriales optimizadas */
+.post-cover{margin:24px 0 8px}
+.post-cover img{display:block;width:100%;height:auto;aspect-ratio:40/21;object-fit:cover;border-radius:16px;box-shadow:var(--shadow);background:var(--brand-soft)}
+.card--cover{padding:0;gap:0;overflow:hidden}
+.card--cover .card-cover{display:block;width:100%;height:auto;aspect-ratio:40/21;object-fit:cover;background:var(--brand-soft)}
+.card-inner{display:flex;flex-direction:column;gap:8px;flex:1}
+.card--cover .card-inner{padding:18px 20px 20px}
+@media(max-width:560px){.post-cover{margin-top:18px}.post-cover img{border-radius:12px}}

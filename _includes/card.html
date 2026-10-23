@@ -1,6 +1,9 @@
-<article class="card">
-  <p class="kicker">{{ post.category }}</p>
-  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-  <p>{{ post.description }}</p>
-  <span class="more" aria-hidden="true">Leer guía →</span>
+<article class="card{% if post.image %} card--cover{% endif %}">
+  {% if post.image %}<img class="card-cover" src="{{ post.image.path | relative_url }}" alt="" width="1200" height="630" loading="lazy" decoding="async">{% endif %}
+  <div class="card-inner">
+    <p class="kicker">{{ post.category }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.description }}</p>
+    <span class="more" aria-hidden="true">Leer guía →</span>
+  </div>
 </article>

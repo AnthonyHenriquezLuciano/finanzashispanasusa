@@ -19,6 +19,9 @@ faq:
   a: "Un seguro que protege al prestamista cuando das poco enganche. Se suma a tu pago mensual."
 - q: ¿Existen ayudas para el enganche?
   a: "Sí. Muchos estados, condados y ciudades tienen programas de asistencia para compradores de primera vivienda. Una agencia de asesoría aprobada por HUD te dice cuáles aplican."
+image:
+  path: /assets/img/blog/como-comprar-casa-en-estados-unidos-siendo-inmigrante.jpg
+  alt: "Pareja hispana revisando una hipoteca y los documentos para comprar casa en Estados Unidos"
 ---
 Tener casa propia es una de las metas más comunes en nuestra comunidad. Con un plan claro y paciencia, es posible incluso si llegaste hace pocos años o declaras con ITIN.
 

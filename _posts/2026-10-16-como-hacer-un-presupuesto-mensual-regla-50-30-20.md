@@ -20,6 +20,9 @@ faq:
   a: Recorta primero en deseos para no dejar de ahorrar, y busca aumentar ingresos o reducir el costo de vivienda a medio plazo.
 - q: ¿Cómo hago presupuesto si mi ingreso cambia cada semana?
   a: Usa como base tu mes más bajo de los últimos tres. Lo que entre de más va directo al ahorro.
+image:
+  path: /assets/img/blog/como-hacer-un-presupuesto-mensual-regla-50-30-20.jpg
+  alt: "Organización de un presupuesto mensual según la regla 50 30 20 con calculadora y categorías"
 ---
 Si llegas a fin de mes sin saber en qué se fue el sueldo, no es falta de disciplina: es falta de un plan. Un presupuesto es simplemente decidir **antes** a dónde va cada dólar. Aquí tienes un método que funciona aunque tus ingresos cambien de semana a semana.
 

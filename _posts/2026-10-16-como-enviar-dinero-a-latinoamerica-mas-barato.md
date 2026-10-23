@@ -21,6 +21,9 @@ faq:
   a: Quien envía dinero pagando en efectivo, money order, cheque de caja u otro instrumento físico similar. Los envíos pagados desde una cuenta bancaria o con tarjeta de débito o crédito de EE.UU. están exentos.
 - q: ¿Qué hago si el dinero no llegó?
   a: Reclama a la empresa dentro de los 180 días siguientes a la fecha de entrega prometida. Si no lo resuelve, presenta una queja en consumerfinance.gov.
+image:
+  path: /assets/img/blog/como-enviar-dinero-a-latinoamerica-mas-barato.jpg
+  alt: "Persona comparando comisiones y tipos de cambio al enviar dinero a Latinoamérica"
 ---
 Enviar dinero a la familia es uno de los gastos más importantes de millones de hispanos en Estados Unidos. Una diferencia de pocos dólares por envío, repetida cada mes, suma cientos de dólares al año. Esta guía te enseña a comparar bien y a proteger tu dinero.
 
