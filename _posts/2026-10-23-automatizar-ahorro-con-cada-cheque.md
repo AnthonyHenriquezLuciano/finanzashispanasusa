@@ -42,7 +42,7 @@ Una meta agresiva no merece pagar comisiones de sobregiro o atrasar un préstamo
 Puedes revisar las orientaciones de [CFPB: herramientas para ahorrar](https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/) antes de actuar. Para cuestiones de impuestos, crédito, hipotecas, vivienda o comisiones, las condiciones vigentes y los documentos oficiales de tu caso prevalecen sobre cualquier ejemplo general. Evita tomar una decisión irreversible basada en una cifra de referencia.
 
 ## Sigue con estas guías
-Para completar tu plan consulta [esta guía](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/), [este recurso](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/) y [esta explicación](/como-hacer-un-presupuesto-mensual-regla-50-30-20/). También puedes utilizar nuestra [herramienta financiera gratuita](/herramientas/calculadora-fondo-de-emergencia/) para practicar los cálculos.
+Para completar tu plan consulta [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/), [cuenta de ahorro de alto rendimiento que es y como elegir](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/) y [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/). También puedes utilizar nuestra [calculadora fondo de emergencia](/herramientas/calculadora-fondo-de-emergencia/) para practicar los cálculos.
 
 ## Resumen y siguiente paso
 Empieza por obtener información concreta: una cotización, un documento, un saldo o una fecha. Con esa evidencia podrás decidir mejor, medir el resultado y ajustar sin comprometer tus gastos esenciales.

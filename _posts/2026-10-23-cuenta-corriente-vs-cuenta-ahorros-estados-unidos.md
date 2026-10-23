@@ -42,7 +42,7 @@ Una tasa APY llamativa no compensa un costo fijo alto si mantienes poco dinero. 
 Consulta la información de [FDIC: educación bancaria](https://www.fdic.gov/consumer-resource-center) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [este recurso práctico](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/) y [esta explicación complementaria](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-fondo-de-emergencia/).
+Para completar el contexto, lee [como abrir una cuenta bancaria en estados unidos sin seguro social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/), [cuenta de ahorro de alto rendimiento que es y como elegir](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [calculadora fondo de emergencia](/herramientas/calculadora-fondo-de-emergencia/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

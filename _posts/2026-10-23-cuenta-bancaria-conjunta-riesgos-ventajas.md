@@ -42,7 +42,7 @@ Un acuerdo entre dos personas no necesariamente limita el derecho de retiro que 
 Consulta la información de [FDIC: categorías de titularidad de depósitos](https://www.fdic.gov/deposit-insurance/your-insured-deposits-brochure-english) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-hacer-un-presupuesto-mensual-regla-50-30-20/), [este recurso práctico](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/) y [esta explicación complementaria](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-presupuesto-50-30-20/).
+Para completar el contexto, lee [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/), [como abrir una cuenta bancaria en estados unidos sin seguro social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Si necesitas poner números a tu situación, utiliza la [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

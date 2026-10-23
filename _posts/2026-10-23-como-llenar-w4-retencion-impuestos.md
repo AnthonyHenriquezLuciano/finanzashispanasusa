@@ -42,7 +42,7 @@ Las reglas de declaración conjunta, varios trabajos y tratamiento de contribuye
 Confirma el procedimiento en [IRS: Formulario W-4 en español](https://www.irs.gov/es/forms-pubs/about-form-w-4). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/como-declarar-impuestos-gratis/), [esta explicación complementaria](/credito-tributario-por-hijos-y-eitc/) y [otro recurso práctico](/impuestos-para-trabajadores-independientes-en-estados-unidos/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/calculadora-presupuesto-50-30-20/).
+Amplía la información con [como declarar impuestos gratis](/como-declarar-impuestos-gratis/), [credito tributario por hijos y eitc](/credito-tributario-por-hijos-y-eitc/) y [impuestos para trabajadores independientes en estados unidos](/impuestos-para-trabajadores-independientes-en-estados-unidos/). Pon a prueba los números con nuestra [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.

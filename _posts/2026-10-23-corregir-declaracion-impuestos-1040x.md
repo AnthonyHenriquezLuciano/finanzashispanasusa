@@ -42,7 +42,7 @@ Existen plazos para reclamar reembolsos y reglas especiales para ciertos benefic
 Confirma el procedimiento en [IRS: información oficial de 1040-X](https://www.irs.gov/es/forms-pubs/about-form-1040x). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
 
 ## Guías y herramientas relacionadas
-Amplía la información con [esta guía](/como-declarar-impuestos-gratis/), [esta explicación complementaria](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/) y [otro recurso práctico](/credito-tributario-por-hijos-y-eitc/). Pon a prueba los números con nuestra [calculadora gratuita](/herramientas/calculadora-presupuesto-50-30-20/).
+Amplía la información con [como declarar impuestos gratis](/como-declarar-impuestos-gratis/), [reembolso de impuestos cuando llega y como usarlo](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/) y [credito tributario por hijos y eitc](/credito-tributario-por-hijos-y-eitc/). Pon a prueba los números con nuestra [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.

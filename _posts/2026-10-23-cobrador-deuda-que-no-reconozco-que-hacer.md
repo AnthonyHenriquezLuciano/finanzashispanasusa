@@ -42,7 +42,7 @@ Disputar no borra automáticamente una deuda válida ni elimina una obligación 
 Consulta la información de [CFPB: disputar una deuda con cobradores](https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-still-collect-a-debt-after-ive-disputed-it-en-338/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [este recurso práctico](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [esta explicación complementaria](/como-salir-de-deudas-de-tarjetas-de-credito/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-salir-de-deudas/).
+Para completar el contexto, lee [como leer tu reporte de credito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [como salir de deudas de tarjetas de credito](/como-salir-de-deudas-de-tarjetas-de-credito/). Si necesitas poner números a tu situación, utiliza la [calculadora salir de deudas](/herramientas/calculadora-salir-de-deudas/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.

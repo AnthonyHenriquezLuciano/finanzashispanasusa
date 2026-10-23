@@ -42,7 +42,7 @@ Congelar no es lo mismo que pedir una alerta de fraude. Algunas entidades todav�
 Consulta la información de [CFPB: congelamiento de crédito](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-freeze-or-security-freeze-on-my-credit-report-en-1341/) para confirmar detalles vigentes. Si un producto tiene cargos, plazos o condiciones, solicita siempre la documentación directamente a la entidad antes de firmar. Los ejemplos de esta guía son educativos y no representan ofertas comerciales ni resultados garantizados.
 
 ## Lecturas recomendadas
-Para completar el contexto, lee [esta guía relacionada](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [este recurso práctico](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [esta explicación complementaria](/como-construir-credito-en-estados-unidos-desde-cero/). Si necesitas poner números a tu situación, utiliza la [herramienta gratuita](/herramientas/calculadora-utilizacion-credito/).
+Para completar el contexto, lee [como leer tu reporte de credito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/), [estafas financieras comunes contra hispanos como evitarlas](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [como construir credito en estados unidos desde cero](/como-construir-credito-en-estados-unidos-desde-cero/). Si necesitas poner números a tu situación, utiliza la [calculadora utilizacion credito](/herramientas/calculadora-utilizacion-credito/).
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.
