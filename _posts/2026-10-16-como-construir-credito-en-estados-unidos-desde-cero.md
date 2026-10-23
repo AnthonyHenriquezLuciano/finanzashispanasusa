@@ -24,6 +24,9 @@ faq:
   a: No. Consultar tu propio reporte, por ejemplo en AnnualCreditReport.com, es una consulta suave y no afecta tu puntaje.
 - q: ¿Qué utilización de crédito es la ideal?
   a: Por debajo del 30 % de tu límite total, y mejor aún por debajo del 10 %. Calcula la tuya con nuestra calculadora de utilización.
+image:
+  path: /assets/img/blog/como-construir-credito-en-estados-unidos-desde-cero.jpg
+  alt: "Ilustración sobre cómo construir crédito desde cero en Estados Unidos, con tarjeta y gráfico de puntuación"
 ---
 En Estados Unidos casi todo pasa por el crédito: alquilar un apartamento, financiar un carro, conseguir mejores tasas de seguro e incluso algunos empleos revisan tu historial. Si acabas de llegar, no tienes un puntaje malo; simplemente **no tienes puntaje**. La buena noticia es que se puede construir en pocos meses si sigues un método.
 

@@ -19,6 +19,9 @@ faq:
   a: El IRS puede cobrarte una multa por pago insuficiente, además de los impuestos adeudados. Pagar en cada trimestre la evita en la mayoría de los casos.
 - q: ¿Qué es el Schedule C?
   a: Es el anexo del Formulario 1040 donde reportas los ingresos y gastos de tu negocio para calcular tu ganancia neta.
+image:
+  path: /assets/img/blog/impuestos-para-trabajadores-independientes-en-estados-unidos.jpg
+  alt: "Emprendedora hispana organizando recibos e impuestos de trabajo independiente en Estados Unidos"
 ---
 Millones de hispanos en Estados Unidos trabajan por su cuenta: limpieza de casas, construcción, jardinería, delivery, Uber, peluquería, ventas. Si es tu caso, eres un **trabajador independiente** a efectos de impuestos, y las reglas son distintas a las de un empleado con W-2. Nadie te retiene impuestos del cheque, así que te toca a ti apartarlos y pagarlos.
 

@@ -20,6 +20,9 @@ faq:
   a: Sí. El seguro de la FDIC y la NCUA protege los depósitos hasta $250,000 por depositante, por entidad y por categoría, sin importar el estatus migratorio.
 - q: ¿Qué es una cuenta Bank On?
   a: Es una cuenta certificada por el programa Bank On que cumple estándares de bajo costo, como no cobrar cargos por sobregiro.
+image:
+  path: /assets/img/blog/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social.jpg
+  alt: "Ilustración de una cuenta bancaria sin Seguro Social, con aplicación bancaria y documentos"
 ---
 Tener una cuenta bancaria te permite recibir tu sueldo por depósito directo, pagar facturas sin cargos de cheques cambiados, enviar remesas más baratas y empezar a construir historial financiero. Y sí: **en muchos casos se puede abrir sin Número de Seguro Social (SSN)**.
 
