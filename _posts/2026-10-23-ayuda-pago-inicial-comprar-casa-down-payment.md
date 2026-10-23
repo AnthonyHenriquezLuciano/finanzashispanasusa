@@ -1,7 +1,7 @@
 ---
 title: "Ayudas para el down payment de una casa"
 description: "Cómo buscar programas locales de asistencia para el pago inicial, comparar requisitos y evitar ofertas fraudulentas en EE.UU."
-date: 2026-10-23 11:07:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["ayuda down payment estados unidos", "asistencia pago inicial casa", "programas first time homebuyer"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Depende del programa; algunos definen 'primer comprador' de manera particular y otros admiten excepciones."
 - q: "¿Las ayudas cubren todos los gastos?"
   a: "No necesariamente; pueden cubrir solo una parte y exigir aportes propios."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Los programas de asistencia para el pago inicial pueden ayudar a personas elegibles con parte del down payment o de los costos de cierre. No existe una ayuda federal única que aplique automáticamente a todos: muchos programas se gestionan por estados, ciudades, agencias de vivienda o prestamistas participantes.
 

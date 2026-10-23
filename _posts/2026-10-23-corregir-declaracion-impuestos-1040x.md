@@ -1,7 +1,7 @@
 ---
 title: "Cómo corregir una declaración con 1040-X"
 description: "¿Te equivocaste en tu tax return? Descubre cuándo presentar 1040-X, qué documentos conservar y cómo seguir una declaración enmendada."
-date: 2026-10-23 10:03:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["corregir declaracion impuestos", "formulario 1040 X", "amended tax return español"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "El IRS permite presentación electrónica para ciertos años y formularios elegibles mediante software compatible; verifica tu caso."
 - q: "¿Corregir genera multa automáticamente?"
   a: "No necesariamente; depende del impuesto adicional, fecha y circunstancias."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Si ya presentaste tu declaración federal y luego descubres una omisión relevante de ingresos, deducciones o créditos, el Formulario 1040-X puede servir para enmendarla. Pero no todos los errores requieren una declaración enmendada: el IRS puede corregir automáticamente determinadas equivocaciones matemáticas.
 

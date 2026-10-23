@@ -1,7 +1,7 @@
 ---
 title: "¿Ahorrar o pagar deudas primero? Decide mejor"
 description: "Compara intereses de tarjetas, fondo de emergencia y pago mínimo para elegir una estrategia sostenible sin quedarte sin efectivo."
-date: 2026-10-23 11:01:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["ahorrar o pagar deudas", "deuda tarjeta o fondo emergencia", "priorizar ahorro deudas"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Suele minimizar intereses si mantienes los mínimos del resto; la mejor estrategia también depende de tu disciplina y liquidez."
 - q: "¿Cuánto fondo de emergencia necesito?"
   a: "Depende de gastos esenciales y estabilidad de ingresos. Empieza con una meta pequeña y amplíala."
-herramienta: calculadora-salir-de-deudas
+herramienta: deudas
 ---
 No siempre conviene elegir entre ahorrar todo o pagar toda la deuda. Si una tarjeta cobra intereses altos, reducir el saldo puede ahorrarte dinero; si no guardas ni una reserva, cualquier emergencia puede obligarte a usarla de nuevo. Una estrategia equilibrada protege pagos mínimos, reserva básica y deuda costosa.
 

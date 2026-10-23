@@ -1,7 +1,7 @@
 ---
 title: "Cómo llenar el W-4 y ajustar tus retenciones"
 description: "Aprende a revisar tu formulario W-4, cuándo actualizarlo y cómo estimar impuestos retenidos sin confundirte con tu declaración anual."
-date: 2026-10-23 10:00:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["como llenar W4", "retenciones de impuestos paycheck", "formulario W4 español"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Cuando cambien circunstancias laborales o familiares que afecten el cálculo; el IRS recomienda revisarlo periódicamente."
 - q: "¿W-4 y W-2 son lo mismo?"
   a: "No. El W-4 da instrucciones de retención; el W-2 resume salarios y retenciones del año."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 El Formulario W-4 sirve para indicar a tu empleador cuánto impuesto federal sobre los ingresos debe retener de cada cheque. No es una declaración de impuestos ni determina por sí solo cuánto deberás al final del año. Revisarlo después de cambios familiares, un nuevo empleo o ingresos adicionales puede evitar diferencias inesperadas.
 

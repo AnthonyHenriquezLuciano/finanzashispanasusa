@@ -1,7 +1,7 @@
 ---
 title: "Cómo automatizar el ahorro con cada cheque"
 description: "Configura transferencias de ahorro automáticas según tus fechas de pago y empieza con montos pequeños sin descuidar gastos esenciales."
-date: 2026-10-23 11:00:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["ahorro automatico", "ahorrar cada paycheck", "transferencias automaticas ahorros"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Empieza con una cifra que puedas mantener sin afectar pagos esenciales y ajústala conforme a tu flujo de caja."
 - q: "¿Es mejor diario o por cheque?"
   a: "Por cheque suele ser sencillo porque coincide con tus ingresos, pero el método adecuado depende de tu banco y hábitos."
-herramienta: calculadora-fondo-de-emergencia
+herramienta: emergencia
 ---
 Ahorrar automáticamente significa separar una cantidad fija apenas cobras, antes de que se mezcle con tus gastos cotidianos. Puede ser una transferencia programada desde checking hacia savings o una distribución del depósito directo si tu empleador lo permite. La clave es comenzar con una cifra sostenible, aunque sea pequeña.
 

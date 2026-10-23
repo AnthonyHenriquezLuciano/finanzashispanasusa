@@ -1,7 +1,7 @@
 ---
 title: "Cuenta bancaria conjunta: ventajas y riesgos"
 description: "Conoce qué significa compartir una cuenta bancaria en EE.UU., cómo organizar pagos y qué revisar antes de añadir un cotitular."
-date: 2026-10-23 09:09:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Bancos
 keywords: ["cuenta bancaria conjunta", "joint bank account", "cuenta compartida pareja"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No siempre. Depende de los requisitos de identificación y políticas de la institución."
 - q: "¿Puedo quitar a un titular cuando quiera?"
   a: "Depende del contrato, la ley aplicable y del consentimiento requerido por la institución."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Una cuenta conjunta puede facilitar el pago de alquiler, supermercado y servicios entre dos personas. Pero compartir titularidad significa compartir acceso y posibles responsabilidades conforme al contrato. Antes de abrirla con tu pareja, familiar o compañero de vivienda, decide qué gastos cubrirá y qué sucederá si dejan de vivir juntos.
 

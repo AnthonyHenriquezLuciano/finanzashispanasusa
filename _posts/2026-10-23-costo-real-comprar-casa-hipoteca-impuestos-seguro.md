@@ -1,7 +1,7 @@
 ---
 title: "Costo real de comprar casa: más que hipoteca"
 description: "Calcula pago inicial, cierre, impuestos, seguro, mantenimiento y cuota hipotecaria para estimar cuánto cuesta ser propietario."
-date: 2026-10-23 11:05:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["costo real comprar casa usa", "closing costs hipoteca", "impuestos seguro casa mensual"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Son conceptos distintos, aunque ambos pueden afectar el efectivo total que debes aportar al cierre."
 - q: "¿La cuota será siempre igual?"
   a: "Capital e intereses pueden ser fijos en ciertos préstamos; impuestos y seguros pueden variar."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 El pago mensual de una hipoteca suele incluir más que capital e intereses. Para estimar cuánto cuesta comprar una casa en Estados Unidos debes sumar impuestos inmobiliarios, seguro de propietario, posible seguro hipotecario, cuotas de asociación y mantenimiento. Además, tendrás costos de cierre y efectivo inicial.
 

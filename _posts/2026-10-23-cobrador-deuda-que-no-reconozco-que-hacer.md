@@ -1,7 +1,7 @@
 ---
 title: "Un cobrador reclama una deuda que no reconozco"
 description: "Pasos para pedir validación, disputar una deuda desconocida y proteger tu reporte sin pagar por presión ni ignorar avisos legales."
-date: 2026-10-23 09:04:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Crédito
 keywords: ["cobrador deuda no reconozco", "disputar deuda colecciones", "validacion deuda usa"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Para activar ciertas protecciones federales frente al cobrador, normalmente debes disputar por escrito dentro de 30 días del aviso de validación."
 - q: "¿Pagar una parte confirma la deuda?"
   a: "Las consecuencias pueden variar por estado y situación; consulta asesoría legal antes de pagar una deuda que consideras ajena."
-herramienta: calculadora-salir-de-deudas
+herramienta: deudas
 ---
 Si un cobrador te exige pagar una deuda que no reconoces, pide información de validación antes de aceptar, pagar o compartir datos sensibles. La normativa federal ofrece derechos para cuestionar deudas cobradas por empresas de cobranza cubiertas; los plazos importan y también pueden existir normas estatales.
 

@@ -1,7 +1,7 @@
 ---
 title: "Cuenta corriente vs. cuenta de ahorros en EE.UU."
 description: "Compara checking y savings: pagos, intereses, cargos, acceso al dinero y cuándo conviene usar ambas cuentas para organizar tus finanzas."
-date: 2026-10-23 09:05:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Bancos
 keywords: ["checking vs savings", "cuenta corriente vs ahorro usa", "abrir cuenta bancaria"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Algunas instituciones aceptan distintos documentos de identificación, según sus políticas. Pregunta directamente antes de solicitar."
 - q: "¿Savings sirve para pagar la renta?"
   a: "Puede admitir transferencias, pero una cuenta corriente suele ser más práctica para pagos habituales."
-herramienta: calculadora-fondo-de-emergencia
+herramienta: emergencia
 ---
 Una cuenta corriente (checking) está diseñada para recibir tu sueldo y pagar gastos cotidianos; una cuenta de ahorros (savings) busca separar dinero para objetivos y, con frecuencia, pagar intereses. Puedes usar ambas en el mismo banco o en instituciones diferentes. La mejor combinación depende de las comisiones, las condiciones y cuánto acceso necesitas al saldo.
 
