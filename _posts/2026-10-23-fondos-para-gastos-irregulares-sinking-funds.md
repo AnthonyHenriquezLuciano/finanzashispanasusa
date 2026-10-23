@@ -1,7 +1,7 @@
 ---
 title: "Sinking funds: ahorra para gastos irregulares"
 description: "Organiza gastos anuales como seguro, matrícula y reparaciones con fondos separados y cuotas mensuales fáciles de calcular."
-date: 2026-10-23 11:02:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["sinking funds español", "fondos para gastos anuales", "ahorrar gastos irregulares"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "No. Puedes usar subcategorías contables siempre que sepas cuánto hay reservado para cada objetivo."
 - q: "¿El fondo de emergencia reemplaza los sinking funds?"
   a: "No. Sirve para imprevistos, mientras que los fondos específicos cubren gastos previstos."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Un sinking fund es una reserva destinada a un gasto previsible que no pagas cada mes: seguro anual, matrícula escolar, mantenimiento del automóvil o regalos. No es lo mismo que el fondo de emergencia, que cubre imprevistos. Separar ambos evita que un gasto conocido destruya tus ahorros de seguridad.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fecha de corte vs. fecha de pago de tu tarjeta"
 description: "Aprende qué significan el cierre y el vencimiento de la tarjeta, cómo afectan intereses y crédito, y cuándo pagar con un ejemplo práctico."
-date: 2026-10-23 09:00:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Crédito
 keywords: ["fecha de corte tarjeta de credito", "fecha de pago tarjeta", "saldo reportado buro"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Puede ayudar a que se reporte un saldo menor, según el calendario del emisor. No sustituye pagar puntualmente."
 - q: "¿Pagar mínimo evita intereses?"
   a: "El mínimo puede evitar el atraso contractual, pero generalmente no evita intereses en saldos financiados."
-herramienta: calculadora-utilizacion-credito
+herramienta: credito
 ---
 La fecha de corte cierra el ciclo de compras que aparecerán en tu estado de cuenta; la fecha límite de pago indica hasta cuándo debes cumplir con el pago requerido. No son la misma fecha. Entenderlas ayuda a evitar cargos por atraso y a controlar el saldo que podría reportarse a las agencias de crédito, especialmente si estás construyendo historial en Estados Unidos.
 

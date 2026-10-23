@@ -1,7 +1,7 @@
 ---
 title: "FDIC vs. NCUA: cómo proteger tus depósitos"
 description: "Entiende qué cubren FDIC y NCUA, el límite habitual de $250,000 y cómo verificar que una cuenta bancaria o cooperativa esté asegurada."
-date: 2026-10-23 09:08:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Bancos
 keywords: ["fdic vs ncua", "seguro depositos 250000", "banco cooperativa asegurado"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Ambos programas ofrecen seguro federal para depósitos o participaciones elegibles, con reglas y entidades distintas."
 - q: "¿Una cuenta conjunta puede tener otra cobertura?"
   a: "Sí, bajo reglas y requisitos propios de la categoría conjunta; utiliza la calculadora oficial."
-herramienta: calculadora-fondo-de-emergencia
+herramienta: emergencia
 ---
 La FDIC protege depósitos elegibles en bancos asegurados; el fondo de seguro administrado por la NCUA cubre participaciones elegibles de cooperativas de crédito federalmente aseguradas. La cobertura estándar es de hasta $250,000 por depositante o miembro, por institución asegurada y por categoría de titularidad, sujeta a las reglas correspondientes.
 

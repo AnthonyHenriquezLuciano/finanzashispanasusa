@@ -1,7 +1,7 @@
 ---
 title: "DTI para hipoteca: calcula deuda sobre ingresos"
 description: "Aprende la fórmula debt-to-income (DTI), qué pagos incluyen los prestamistas y por qué el porcentaje no garantiza aprobación."
-date: 2026-10-23 11:06:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["DTI hipoteca", "debt to income español", "calcular porcentaje deuda ingreso"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Puede reducir pagos mensuales mínimos y cambiar el DTI, según cómo calcule el prestamista."
 - q: "¿Cuál es el DTI máximo permitido?"
   a: "Depende del tipo de préstamo, programa y evaluación completa; consulta al prestamista."
-herramienta: calculadora-salir-de-deudas
+herramienta: deudas
 ---
 El DTI, o relación deuda-ingreso, compara pagos mensuales de deuda con ingreso bruto mensual. Es una de las métricas que puede revisar un prestamista al estudiar una hipoteca. No equivale al porcentaje de tu sueldo que gastas en todo: normalmente el cálculo se centra en obligaciones de deuda y la vivienda propuesta.
 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo evitar cargos por sobregiro en tu cuenta"
 description: "Aprende qué es un overdraft, cómo desactivar coberturas opcionales y qué alertas usar para prevenir comisiones bancarias."
-date: 2026-10-23 09:06:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Bancos
 keywords: ["evitar overdraft", "cargos sobregiro cuenta bancaria", "overdraft opt in"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "En general sí, puedes revocar la opción para determinadas operaciones de débito o cajero con tu banco."
 - q: "¿El banco puede cobrar por un cheque rechazado?"
   a: "Las condiciones de los cheques y pagos automáticos son distintas de las compras de débito; revisa el contrato."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 Un sobregiro ocurre cuando una transacción supera el dinero disponible en la cuenta. Dependiendo del banco, pueden rechazar la operación o cubrirla y cobrarte una comisión. Puedes reducir estos costos con alertas, un calendario de facturas y revisando si aceptaste cobertura opcional de sobregiro.
 

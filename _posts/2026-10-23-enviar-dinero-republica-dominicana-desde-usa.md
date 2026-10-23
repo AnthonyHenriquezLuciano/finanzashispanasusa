@@ -1,7 +1,7 @@
 ---
 title: "Cómo enviar dinero a República Dominicana desde USA"
 description: "Compara depósito bancario y retiro en efectivo para mandar remesas a República Dominicana y calcular pesos recibidos sin sorpresas."
-date: 2026-10-23 10:05:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["enviar dinero a republica dominicana desde usa", "remesas dominicanas", "dolares a pesos dominicanos remesa"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Depende del acceso a cuentas, comisiones, horario y seguridad del destinatario; compara el monto final recibido."
 - q: "¿Puedo saber el tipo de cambio aquí en vivo?"
   a: "La calculadora utiliza los valores que tú introduces; no garantiza cotizaciones en tiempo real."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 Para enviar dinero desde Estados Unidos a República Dominicana conviene comparar el monto neto en pesos dominicanos que recibe tu familiar, no solo el cargo anunciado. Puedes elegir depósito en cuenta, entrega para retiro en efectivo y otras modalidades según el proveedor y la localidad.
 

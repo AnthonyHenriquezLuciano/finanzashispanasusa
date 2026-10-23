@@ -1,7 +1,7 @@
 ---
 title: "FICO vs. VantageScore: por qué ves dos puntajes"
 description: "Descubre por qué tu puntuación de crédito cambia según la app, el buró y el modelo, y qué debes revisar antes de solicitar un préstamo."
-date: 2026-10-23 09:02:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Crédito
 keywords: ["fico vs vantagescore", "por que mi score es diferente", "puntaje credito estados unidos"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Depende del producto, prestamista y versión. Pregunta por el modelo si necesitas una referencia más precisa."
 - q: "¿Hay que pagar para revisar el historial?"
   a: "Puedes consultar tus reportes mediante los canales oficiales gratuitos; el puntaje es un servicio distinto."
-herramienta: calculadora-utilizacion-credito
+herramienta: credito
 ---
 Es normal que tu banco, una app gratuita y un prestamista muestren puntajes distintos. FICO y VantageScore son familias de modelos diferentes; incluso dentro de una misma familia existen versiones y modelos para productos específicos. Además, pueden utilizar datos de burós distintos y calcularse en fechas diferentes.
 

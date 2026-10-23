@@ -1,7 +1,7 @@
 ---
 title: "Cómo enviar dinero a Colombia desde Estados Unidos"
 description: "Guía para comparar remesas de dólares a pesos colombianos: costo total, cambio, depósito, retiro y pasos para evitar errores."
-date: 2026-10-23 10:06:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["enviar dinero a colombia", "remesas a colombia desde usa", "dolar peso colombiano enviar"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "A veces, pero depende del proveedor, método de pago y cotización concreta."
 - q: "¿Cuánto tarda una remesa?"
   a: "Los plazos varían desde opciones rápidas hasta días hábiles; consulta la disponibilidad prometida en el recibo."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 Al mandar dinero a Colombia desde Estados Unidos, el dato central es cuántos pesos colombianos (COP) recibirá la persona, después de comisiones y márgenes del tipo de cambio. Hay distintas opciones de recepción, como depósito bancario o retiro presencial, y cada proveedor establece requisitos específicos.
 

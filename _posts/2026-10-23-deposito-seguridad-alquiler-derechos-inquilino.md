@@ -1,7 +1,7 @@
 ---
 title: "Depósito de seguridad al alquilar: qué revisar"
 description: "Antes de pagar un depósito de alquiler, verifica condiciones, inventario, recibos y normas de devolución que varían por estado."
-date: 2026-10-23 11:08:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["deposito seguridad renta", "security deposit inquilino", "devolucion deposito alquiler usa"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Depende del contrato y de la ley aplicable; no lo supongas sin confirmación."
 - q: "¿Cuántos días tiene el arrendador para devolverlo?"
   a: "El plazo varía por estado y en ocasiones por ciudad o tipo de vivienda."
-herramienta: calculadora-presupuesto-50-30-20
+herramienta: presupuesto
 ---
 El depósito de seguridad es dinero que el propietario puede exigir al iniciar un alquiler para cubrir obligaciones definidas en el contrato y la ley estatal o local. Los límites de monto, plazos de devolución y deducciones permitidas cambian según el lugar. Por eso debes revisar las reglas de la jurisdicción donde alquilas.
 

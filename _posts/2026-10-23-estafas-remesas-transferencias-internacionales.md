@@ -1,7 +1,7 @@
 ---
 title: "Estafas de remesas: señales y cómo protegerte"
 description: "Identifica fraudes por suplantación, supuestas emergencias y ofertas falsas de envío de dinero antes de transferir tus dólares."
-date: 2026-10-23 10:09:00 -0400
+date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["estafas remesas", "fraude money transfer", "evitar transferencias fraudulentas"]
 resumen:
@@ -13,7 +13,7 @@ faq:
   a: "Llama de inmediato al proveedor y a tu banco, solicita una revisión o intento de recuperación y conserva toda evidencia."
 - q: "¿Puedo reconocer un perfil falso por la foto?"
   a: "No de forma fiable; los perfiles e incluso imágenes pueden ser suplantados. Verifica por otro canal."
-herramienta: calculadora-remesas
+herramienta: remesas
 ---
 Una transferencia internacional puede ser difícil de recuperar cuando se envía voluntariamente a un estafador. Por eso conviene confirmar la identidad del receptor, verificar canales oficiales y desconfiar de solicitudes urgentes para enviar dinero a una cuenta nueva, incluso cuando parezcan venir de alguien conocido.
 
