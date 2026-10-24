@@ -14,6 +14,9 @@ faq:
 - q: "¿Se puede cancelar un wire?"
   a: "La recuperación puede ser difícil una vez ejecutado; avisa al banco de inmediato ante un error."
 herramienta: remesas
+image:
+  path: /assets/img/blog/transferencia-ach-vs-wire-diferencias.webp
+  alt: "Comparación visual entre transferencias ACH y wire bancarias"
 ---
 ACH y wire son sistemas distintos para mover dinero entre cuentas en Estados Unidos. ACH se usa con frecuencia para nóminas, domiciliaciones y transferencias habituales; wire suele utilizarse cuando hace falta enviar fondos con instrucciones bancarias específicas. No elijas solo por rapidez: considera costo, fecha y posibilidad de corregir errores.
 

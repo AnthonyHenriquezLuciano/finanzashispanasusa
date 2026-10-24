@@ -14,6 +14,9 @@ faq:
 - q: "¿Pagar mínimo evita intereses?"
   a: "El mínimo puede evitar el atraso contractual, pero generalmente no evita intereses en saldos financiados."
 herramienta: credito
+image:
+  path: /assets/img/blog/fecha-de-corte-vs-fecha-de-pago-tarjeta-credito.webp
+  alt: "Calendario con fechas de corte y pago de una tarjeta de crédito en Estados Unidos"
 ---
 La fecha de corte cierra el ciclo de compras que aparecerán en tu estado de cuenta; la fecha límite de pago indica hasta cuándo debes cumplir con el pago requerido. No son la misma fecha. Entenderlas ayuda a evitar cargos por atraso y a controlar el saldo que podría reportarse a las agencias de crédito, especialmente si estás construyendo historial en Estados Unidos.
 

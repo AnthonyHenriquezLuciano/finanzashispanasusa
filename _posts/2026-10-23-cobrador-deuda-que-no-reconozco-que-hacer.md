@@ -14,6 +14,9 @@ faq:
 - q: "¿Pagar una parte confirma la deuda?"
   a: "Las consecuencias pueden variar por estado y situación; consulta asesoría legal antes de pagar una deuda que consideras ajena."
 herramienta: deudas
+image:
+  path: /assets/img/blog/cobrador-deuda-que-no-reconozco-que-hacer.webp
+  alt: "Consumidor revisando un aviso de cobranza y sus derechos para disputar una deuda"
 ---
 Si un cobrador te exige pagar una deuda que no reconoces, pide información de validación antes de aceptar, pagar o compartir datos sensibles. La normativa federal ofrece derechos para cuestionar deudas cobradas por empresas de cobranza cubiertas; los plazos importan y también pueden existir normas estatales.
 

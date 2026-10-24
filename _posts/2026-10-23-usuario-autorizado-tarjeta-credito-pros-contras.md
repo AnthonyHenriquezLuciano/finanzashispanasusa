@@ -14,6 +14,9 @@ faq:
 - q: "¿Tengo que usar la tarjeta para beneficiarme?"
   a: "No siempre. La actividad de la cuenta puede reportarse aunque no hagas compras."
 herramienta: credito
+image:
+  path: /assets/img/blog/usuario-autorizado-tarjeta-credito-pros-contras.webp
+  alt: "Pareja revisando ventajas y riesgos de ser usuario autorizado en tarjeta de crédito"
 ---
 Ser usuario autorizado significa que el titular principal te añade a su tarjeta. Puedes recibir una tarjeta para comprar, pero normalmente la obligación contractual de pagar pertenece al titular. Según el emisor y el modelo de puntaje, esa cuenta puede aparecer en tu reporte y contribuir a tu historial, aunque no está garantizado.
 
