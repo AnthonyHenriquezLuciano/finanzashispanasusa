@@ -112,3 +112,5 @@ Un reembolso grande es una oportunidad para cambiar tus finanzas:
 ## Resumen
 
 Si tus hijos tienen SSN, reclama el Crédito Tributario por Hijos y revisa si calificas al EITC. Si tienen ITIN, no pierdas el crédito por otros dependientes. Declara aunque ganes poco, guarda pruebas de que los niños viven contigo y usa VITA para hacerlo gratis.
+
+**Sigue leyendo:** [cómo ahorrar para la universidad con un plan 529](/plan-529-ahorrar-para-la-universidad-de-tus-hijos/).

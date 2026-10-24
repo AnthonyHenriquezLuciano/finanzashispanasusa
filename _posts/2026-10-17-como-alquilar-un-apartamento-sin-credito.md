@@ -71,3 +71,5 @@ Más señales de alerta en nuestra guía de [estafas financieras comunes](/estaf
 ## Resumen
 
 Sin crédito sí se puede alquilar: llega con pruebas de ingreso, ofrece codeudor o depósito mayor, conoce tus derechos y nunca pagues sin verificar. Y empieza hoy a construir crédito para tu próximo contrato o tu [primera casa](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).
+
+**Sigue leyendo:** [seguro de inquilino: qué cubre y cuánto cuesta](/seguro-de-inquilino-que-cubre-y-cuanto-cuesta/).

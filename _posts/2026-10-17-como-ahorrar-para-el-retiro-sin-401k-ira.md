@@ -80,3 +80,5 @@ Empezar 10 años antes puede más que duplicar el resultado. Lo importante es **
 ## Resumen
 
 Si no tienes 401(k), abre una IRA (normalmente Roth), invierte en fondos de bajo costo y automatiza un aporte mensual. Mientras tanto, mantén tu ahorro de corto plazo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
+
+**Sigue leyendo:** [plan 529 para la universidad de tus hijos](/plan-529-ahorrar-para-la-universidad-de-tus-hijos/).
