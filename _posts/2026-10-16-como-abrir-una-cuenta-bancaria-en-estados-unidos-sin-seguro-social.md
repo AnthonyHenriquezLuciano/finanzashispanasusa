@@ -1,6 +1,6 @@
 ---
-title: Cómo abrir una cuenta bancaria en Estados Unidos sin Seguro Social
-description: Qué documentos aceptan bancos y cooperativas de crédito, qué tipo de cuenta elegir y cómo saber si tu dinero está protegido.
+title: 'Cómo abrir una cuenta bancaria en USA sin Seguro Social (SSN)'
+description: '¿Dónde abrir una cuenta sin Seguro Social en USA? Documentos con ITIN o pasaporte, opciones de banco y cómo comparar cargos y seguridad.'
 date: 2026-10-16 09:30:00 -0400
 category: Bancos
 keywords:
@@ -11,7 +11,7 @@ keywords:
 resumen:
 - Muchas entidades abren cuentas con **ITIN o pasaporte** en lugar de SSN.
 - Lleva identificación con foto, comprobante de domicilio y el depósito inicial.
-- Las **cooperativas de crédito** y bancos comunitarios suelen ser más flexibles.
+- Compara políticas de **bancos y cooperativas de crédito**: no todos aceptan los mismos documentos.
 - Verifica que tu dinero esté asegurado por la **FDIC o la NCUA** hasta $250,000.
 faq:
 - q: ¿Aceptan la matrícula consular para abrir una cuenta?
@@ -23,19 +23,20 @@ faq:
 image:
   path: /assets/img/blog/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social.jpg
   alt: "Ilustración de una cuenta bancaria sin Seguro Social, con aplicación bancaria y documentos"
+last_modified_at: 2026-10-24
 ---
-Tener una cuenta bancaria te permite recibir tu sueldo por depósito directo, pagar facturas sin cargos de cheques cambiados, enviar remesas más baratas y empezar a construir historial financiero. Y sí: **en muchos casos se puede abrir sin Número de Seguro Social (SSN)**.
+**¿Dónde puedo abrir una cuenta bancaria sin Seguro Social en USA?** Algunas instituciones aceptan ITIN, pasaporte extranjero u otros documentos, según sus políticas. Abre una cuenta checking para depósito directo y pagos si cumples requisitos; **tenerla no construye automáticamente historial de crédito**. Antes de ir, pregunta por documentación, depósitos mínimos, tarifas y protección de fondos.
 
 ## Por qué los bancos piden identificación
 
-La ley federal obliga a los bancos a verificar la identidad de sus clientes (es el llamado Programa de Identificación del Cliente). Para personas que no son ciudadanas, la ley permite usar otros números en lugar del SSN, como el **ITIN** o el número de **pasaporte**. Cada banco decide qué documentos acepta, por eso las respuestas varían de una sucursal a otra.
+La ley federal obliga a los bancos a verificar la identidad de sus clientes (es el llamado Programa de Identificación del Cliente). La normativa de identificación permite distintos documentos y números según la situación. **No todos los bancos aceptan ITIN o pasaporte con las mismas condiciones**. Cada banco decide qué documentos acepta, por eso las respuestas varían de una sucursal a otra.
 
 ## Documentos que suelen aceptar
 
 - **Identificación con foto:** pasaporte vigente, matrícula consular (aceptada en algunos bancos) o identificación estatal.
 - **Número de identificación:** SSN o **ITIN**. Algunas entidades aceptan el número de pasaporte si no tienes ninguno de los dos.
 - **Comprobante de domicilio:** contrato de renta, factura de luz o agua a tu nombre, o una carta oficial.
-- **Depósito inicial:** varía según la cuenta, desde $0 hasta unos $100.
+- **Depósito inicial:** varía según la cuenta, según el banco y la cuenta; no existe un depósito inicial universal.
 
 > Llama o visita la sucursal antes y pregunta exactamente: "¿Puedo abrir una cuenta con ITIN (o con pasaporte) y matrícula consular?" Te ahorrarás viajes.
 
@@ -72,6 +73,25 @@ Este seguro protege tu dinero aunque el banco quiebre, y no depende de tu estatu
 2. Desactiva la "cobertura de sobregiro" si no la necesitas: así una compra sin fondos se rechaza en lugar de cobrarte un cargo.
 3. Usa los cajeros de tu red.
 4. Activa alertas de saldo en la app.
+
+## Dónde abrir una cuenta sin SSN: pasos para encontrar opciones
+
+La [FDIC explica en español cómo abrir una cuenta](https://www.fdic.gov/espanol/getbanked-esp). También ofrece un [punto de partida para encontrar bancos](https://www.fdic.gov/getbanked). **No tomes un listado de instituciones como garantía de apertura con ITIN**: debes consultar su política específica.
+
+| Documento que tienes | Pregunta que conviene hacer |
+|---|---|
+| ITIN, pero no SSN | «¿Puedo abrir checking con ITIN y qué identificación adicional requieren?» |
+| Pasaporte extranjero | «¿Aceptan mi pasaporte como identificación y qué número tributario necesitan?» |
+| Matrícula consular | «¿Es válida para identificarme? ¿Necesito también otro documento?» |
+| Solo buscas una cuenta de bajo costo | «¿Ofrecen una cuenta Bank On, sin cuota mensual o sin cobro de sobregiro?» |
+
+### Guion para llamar antes de visitar una sucursal
+
+> «Quiero abrir una cuenta de cheques sin Seguro Social. Tengo [documento]. ¿Qué identificaciones aceptan, cuánto cuesta mantenerla, hay depósito mínimo y puedo hacerlo en esta sucursal?»
+
+Antes de depositar tu dinero, revisa las **comisiones**, la disponibilidad de cajeros y el seguro federal aplicable. Comprueba el banco en [BankFind de FDIC](https://banks.data.fdic.gov/bankfind-suite/bankfind) y consulta [las diferencias entre FDIC y NCUA](/fdic-vs-ncua-seguro-depositos/).
+
+Si además quieres construir historial, consulta [cómo hacer crédito en USA desde cero](/como-construir-credito-en-estados-unidos-desde-cero/): una cuenta de cheques no sustituye una línea de crédito reportada.
 
 ## Resumen
 
