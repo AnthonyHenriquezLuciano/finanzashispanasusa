@@ -14,6 +14,9 @@ faq:
 - q: "¿Hay que pagar para revisar el historial?"
   a: "Puedes consultar tus reportes mediante los canales oficiales gratuitos; el puntaje es un servicio distinto."
 herramienta: credito
+image:
+  path: /assets/img/blog/fico-vs-vantagescore-diferencias.webp
+  alt: "Comparación gráfica de puntajes de crédito FICO y VantageScore"
 ---
 Es normal que tu banco, una app gratuita y un prestamista muestren puntajes distintos. FICO y VantageScore son familias de modelos diferentes; incluso dentro de una misma familia existen versiones y modelos para productos específicos. Además, pueden utilizar datos de burós distintos y calcularse en fechas diferentes.
 

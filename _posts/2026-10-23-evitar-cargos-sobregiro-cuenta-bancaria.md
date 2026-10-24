@@ -14,6 +14,9 @@ faq:
 - q: "¿El banco puede cobrar por un cheque rechazado?"
   a: "Las condiciones de los cheques y pagos automáticos son distintas de las compras de débito; revisa el contrato."
 herramienta: presupuesto
+image:
+  path: /assets/img/blog/evitar-cargos-sobregiro-cuenta-bancaria.webp
+  alt: "Persona activando alertas de saldo bajo para prevenir cargos por sobregiro"
 ---
 Un sobregiro ocurre cuando una transacción supera el dinero disponible en la cuenta. Dependiendo del banco, pueden rechazar la operación o cubrirla y cobrarte una comisión. Puedes reducir estos costos con alertas, un calendario de facturas y revisando si aceptaste cobertura opcional de sobregiro.
 

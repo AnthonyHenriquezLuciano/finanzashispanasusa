@@ -14,6 +14,9 @@ faq:
 - q: "¿Puedo hacerlo aunque no haya sufrido fraude?"
   a: "Sí. Puedes congelar y levantar tu reporte de manera gratuita como medida preventiva."
 herramienta: credito
+image:
+  path: /assets/img/blog/congelar-credito-gratis-estados-unidos.webp
+  alt: "Ilustración de protección del crédito con Equifax, Experian y TransUnion"
 ---
 Un congelamiento de crédito, o security freeze, limita el acceso de nuevos prestamistas a tu reporte y dificulta que alguien abra cuentas fraudulentas a tu nombre. Es gratis y puedes levantarlo temporalmente cuando solicites financiamiento. Debes gestionarlo por separado con Equifax, Experian y TransUnion.
 

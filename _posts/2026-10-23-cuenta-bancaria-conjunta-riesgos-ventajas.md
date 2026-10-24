@@ -14,6 +14,9 @@ faq:
 - q: "¿Puedo quitar a un titular cuando quiera?"
   a: "Depende del contrato, la ley aplicable y del consentimiento requerido por la institución."
 herramienta: presupuesto
+image:
+  path: /assets/img/blog/cuenta-bancaria-conjunta-riesgos-ventajas.webp
+  alt: "Pareja gestionando una cuenta bancaria conjunta y comparando ventajas y riesgos"
 ---
 Una cuenta conjunta puede facilitar el pago de alquiler, supermercado y servicios entre dos personas. Pero compartir titularidad significa compartir acceso y posibles responsabilidades conforme al contrato. Antes de abrirla con tu pareja, familiar o compañero de vivienda, decide qué gastos cubrirá y qué sucederá si dejan de vivir juntos.
 

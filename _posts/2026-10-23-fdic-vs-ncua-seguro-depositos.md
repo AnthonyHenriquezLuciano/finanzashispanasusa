@@ -14,6 +14,9 @@ faq:
 - q: "¿Una cuenta conjunta puede tener otra cobertura?"
   a: "Sí, bajo reglas y requisitos propios de la categoría conjunta; utiliza la calculadora oficial."
 herramienta: emergencia
+image:
+  path: /assets/img/blog/fdic-vs-ncua-seguro-depositos.webp
+  alt: "Ilustración de depósitos bancarios asegurados por FDIC y cooperativas por NCUA"
 ---
 La FDIC protege depósitos elegibles en bancos asegurados; el fondo de seguro administrado por la NCUA cubre participaciones elegibles de cooperativas de crédito federalmente aseguradas. La cobertura estándar es de hasta $250,000 por depositante o miembro, por institución asegurada y por categoría de titularidad, sujeta a las reglas correspondientes.
 
