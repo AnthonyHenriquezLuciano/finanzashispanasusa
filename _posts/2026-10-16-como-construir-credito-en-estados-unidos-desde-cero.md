@@ -1,6 +1,6 @@
 ---
-title: 'Cómo construir crédito en Estados Unidos desde cero: guía paso a paso'
-description: Qué es el puntaje de crédito, qué lo sube y lo baja, y cinco caminos probados para empezar tu historial aunque acabes de llegar.
+title: 'Cómo hacer crédito en USA desde cero: guía paso a paso'
+description: 'Aprende cómo hacer crédito por primera vez en Estados Unidos: tarjeta asegurada, pagos puntuales, ITIN, plazos y reporte gratis.'
 date: 2026-10-16 08:00:00 -0400
 category: Crédito
 herramienta: credito
@@ -13,8 +13,8 @@ keywords:
 resumen:
 - El puntaje FICO va de 300 a 850 y lo deciden sobre todo tus **pagos a tiempo (35 %)** y cuánto usas de tu límite **(30 %)**.
 - Empieza con una **tarjeta asegurada** o un **credit-builder loan**; algunos aceptan ITIN.
-- Mantén la utilización por debajo del 30 %, idealmente del 10 %.
-- Con 6 meses de actividad reportada ya se genera un puntaje.
+- Mantén saldos manejables y paga puntualmente: una utilización baja puede ayudar, sin garantizar un puntaje.
+- Un FICO Score puede requerir al menos seis meses de historial elegible; no todos los modelos usan el mismo criterio.
 faq:
 - q: ¿Puedo tener crédito en EE.UU. sin Seguro Social?
   a: Sí. Algunos bancos y cooperativas de crédito aceptan el ITIN para abrir tarjetas aseguradas y préstamos. Pregunta antes de solicitar, porque cada entidad decide.
@@ -27,12 +27,13 @@ faq:
 image:
   path: /assets/img/blog/como-construir-credito-en-estados-unidos-desde-cero.jpg
   alt: "Ilustración sobre cómo construir crédito desde cero en Estados Unidos, con tarjeta y gráfico de puntuación"
+last_modified_at: 2026-10-24
 ---
-En Estados Unidos casi todo pasa por el crédito: alquilar un apartamento, financiar un carro, conseguir mejores tasas de seguro e incluso algunos empleos revisan tu historial. Si acabas de llegar, no tienes un puntaje malo; simplemente **no tienes puntaje**. La buena noticia es que se puede construir en pocos meses si sigues un método.
+**¿Cómo hacer crédito en USA por primera vez?** Elige un producto que reporte a las agencias de crédito (por ejemplo, una tarjeta asegurada), paga puntualmente, mantén saldos que puedas liquidar y verifica tu reporte. Si acabas de llegar a Estados Unidos, puede que todavía no tengas un puntaje: eso no significa que tengas mal crédito. El proceso requiere tiempo y no hay resultados garantizados.
 
 ## Qué es el puntaje de crédito
 
-Tu puntaje (el más usado es el **FICO Score**, de 300 a 850) resume cómo manejas tus deudas. Lo calculan a partir de la información que reportan bancos y prestamistas a los tres burós de crédito: **Equifax, Experian y TransUnion**.
+Tu puntaje (el más usado es el **FICO Score**, de 300 a 850) resume cómo manejas tus deudas. Los modelos de puntuación lo calculan con información de agencias como **Equifax, Experian y TransUnion**. Diferentes modelos, versiones y fechas pueden producir puntuaciones distintas.
 
 Estos son los factores del FICO Score y su peso aproximado:
 
@@ -44,7 +45,7 @@ Estos son los factores del FICO Score y su peso aproximado:
 | Crédito nuevo | 10 % | Solicitudes recientes de crédito |
 | Tipos de crédito | 10 % | Combinación de tarjetas, préstamos, etc. |
 
-> La regla de oro: **paga siempre a tiempo y usa menos del 30 % de tu límite**. Con eso ya controlas dos tercios de tu puntaje.
+> **Pagar a tiempo y evitar acercarte al límite** suele ser más importante que intentar conseguir un número perfecto de utilización. El 30 % es una referencia, no un umbral mágico ni una garantía de puntos.
 
 ## Qué necesitas para empezar
 
@@ -56,7 +57,7 @@ También necesitarás una cuenta bancaria. Si no tienes una, revisa [cómo abrir
 
 ### 1. Tarjeta de crédito asegurada (secured card)
 
-Depositas una garantía (por ejemplo, $200) y ese monto se convierte en tu límite. Funciona como una tarjeta normal y el banco reporta tus pagos a los burós. Antes de abrirla confirma dos cosas: que **reporta a los tres burós** y que **no cobra cuota anual alta**. Con 6 a 12 meses de buen uso, muchos bancos te devuelven el depósito y te pasan a una tarjeta normal.
+Depositas una garantía (por ejemplo, $200) y ese monto se convierte en tu límite. Funciona como una tarjeta normal y el banco reporta tus pagos a los burós. Antes de abrirla confirma dos cosas: que **reporta a los tres burós** y que **no cobra cuota anual alta**. Algunos emisores ofrecen evaluaciones para convertir la cuenta en una tarjeta no asegurada, pero el plazo y el resultado dependen de sus reglas.
 
 ### 2. Préstamo para construir crédito (credit-builder loan)
 
@@ -84,7 +85,7 @@ Suelen aprobar con historial corto. Úsalas para compras pequeñas y paga el sal
 
 ## ¿Cuánto tarda?
 
-Por lo general necesitas al menos **6 meses** de actividad reportada para que se genere un FICO Score. En 12 a 18 meses de pagos puntuales es común alcanzar un puntaje que te permita acceder a tarjetas normales y mejores tasas.
+Por lo general necesitas al menos **6 meses** de actividad reportada para que se genere un FICO Score. El acceso a tarjetas no aseguradas o mejores tasas depende de tu reporte, ingresos, deudas y condiciones del prestamista; ninguna fecha garantiza aprobación.
 
 ## Errores comunes
 
@@ -92,9 +93,33 @@ Por lo general necesitas al menos **6 meses** de actividad reportada para que se
 - Pagar a "agencias" que prometen borrar deudas o crear un número de crédito nuevo. Usar un número que no es tuyo para obtener crédito es ilegal.
 - Prestar tu tarjeta o firmar como codeudor sin entender que la deuda también es tuya.
 
+## Cómo hacer crédito en USA por primera vez: plan concreto
+
+| Momento | Paso | Qué comprobar |
+|---|---|---|
+| Antes de solicitar | Compara tarjeta asegurada o préstamo para construir crédito. | Si reporta a las tres agencias; APR, depósito, cuota anual y requisitos de identificación. |
+| Primer pago | Programa alertas y paga al menos el mínimo antes de la fecha límite; procura pagar el saldo completo del estado de cuenta. | Que el abono se registre y no acumules intereses innecesarios. |
+| Meses 2 y 3 | Utiliza la cuenta para compras pequeñas ya presupuestadas. | Balance reportado y puntualidad de cada pago. |
+| A partir del sexto mes | Consulta tu historial y revisa si algún modelo ya produce un puntaje. | Fechas, cuentas, saldos y posibles errores. |
+| Después | Solicita otros productos únicamente si los necesitas. | Costo total y condiciones, no solo el puntaje. |
+
+### Ejemplo sencillo con una tarjeta de $300
+
+Si el saldo reportado es de $30 y tu límite es de $300, la utilización de esa tarjeta es del **10 %**. El saldo visible hoy en la aplicación no siempre coincide con el reportado: revisa la [fecha de corte y pago](/fecha-de-corte-vs-fecha-de-pago-tarjeta-credito/). **No necesitas mantener deudas con intereses** para generar historial.
+
+### Preguntas habituales sobre hacer crédito
+
+**¿Cómo hacer crédito en USA sin Seguro Social?** Algunas instituciones aceptan ITIN para determinados productos; verifica la política de identificación y de reporte antes de solicitar.
+
+**¿Cuánto tarda crear crédito desde cero?** Depende de datos y del modelo. Un FICO Score normalmente exige un historial mínimo elegible; ninguna entidad garantiza que aparezca un número de puntos en una fecha fija.
+
+**¿Dónde revisar mi historial gratis?** En [AnnualCreditReport.com](https://www.annualcreditreport.com/). Consultar tu propio reporte no afecta tu puntaje.
+
+Fuentes oficiales: [CFPB: cómo mantener buen crédito](https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/) y [qué influye en el puntaje](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/).
+
 ## Resumen
 
-Empieza con una tarjeta asegurada o un credit-builder loan, paga siempre a tiempo, usa menos del 30 % de tu límite y revisa tu reporte. Con paciencia, en un año tendrás un historial sólido.
+Empieza con una tarjeta asegurada o un credit-builder loan, paga siempre a tiempo, usa menos del 30 % de tu límite y revisa tu reporte. La constancia ayuda, pero no garantiza un puntaje o producto en un año.
 
 **Sigue leyendo:** [cómo funciona una tarjeta de crédito asegurada](/tarjeta-de-credito-asegurada-como-funciona/) , [cómo alquilar un apartamento sin crédito](/como-alquilar-un-apartamento-sin-credito/) y [cómo subir tu puntaje rápido](/como-subir-tu-puntaje-de-credito-rapido/).
 

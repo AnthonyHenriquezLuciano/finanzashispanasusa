@@ -1,6 +1,6 @@
 ---
-title: 'ITIN vs. SSN: diferencias y cómo solicitar el ITIN paso a paso'
-description: Para qué sirve cada número, quién puede tener un ITIN, qué documentos pide el Formulario W-7 y cómo evitar que tu ITIN caduque.
+title: 'ITIN vs. SSN en USA: cómo solicitar tu ITIN con W-7'
+description: 'Qué es ITIN, diferencias con SSN y cómo pedir el número al IRS con formulario W-7, documentos, agentes certificados y plazos oficiales.'
 date: 2026-10-16 08:30:00 -0400
 category: Impuestos
 keywords:
@@ -17,13 +17,14 @@ resumen:
 - Si no lo usas en una declaración durante 3 años seguidos, **caduca**.
 faq:
 - q: ¿Cuánto tarda el IRS en dar el ITIN?
-  a: Alrededor de 7 semanas, y más durante la temporada de impuestos (enero a abril).
+  a: Según el IRS, aproximadamente 7 semanas, o entre 9 y 11 durante la temporada tributaria o si solicitas desde el extranjero.
 - q: ¿Tengo que enviar mi pasaporte original por correo?
   a: No necesariamente. Con un Agente Certificador (CAA) o en un Centro de Asistencia del IRS con cita, verifican tus documentos en persona.
 - q: ¿Con el ITIN puedo abrir una cuenta bancaria?
   a: En muchas entidades sí. Bancos comunitarios y cooperativas de crédito suelen aceptarlo; confírmalo antes de ir.
 - q: ¿El ITIN me sirve para el Crédito por Ingreso del Trabajo (EITC)?
   a: No. El EITC exige un SSN válido para trabajar.
+last_modified_at: 2026-10-24
 ---
 Dos números de nueve dígitos generan muchas dudas en la comunidad hispana: el **SSN** (Número de Seguro Social) y el **ITIN** (Número de Identificación Personal del Contribuyente). Se parecen, pero sirven para cosas distintas.
 
@@ -34,8 +35,8 @@ Dos números de nueve dígitos generan muchas dudas en la comunidad hispana: el 
 | Lo emite | Administración del Seguro Social (SSA) | Servicio de Impuestos Internos (IRS) |
 | Quién lo obtiene | Ciudadanos y personas con autorización de trabajo | Personas que deben declarar impuestos y no pueden tener SSN |
 | Formato | XXX-XX-XXXX | Empieza por 9: 9XX-XX-XXXX |
-| Autoriza a trabajar | Sí (según el tipo de tarjeta) | No |
-| Da derecho a beneficios del Seguro Social | Sí | No |
+| Autoriza a trabajar | Tener SSN no implica por sí solo permiso de trabajo: depende de tu estatus y documentación. | No |
+| Da derecho a beneficios del Seguro Social | Depende de elegibilidad y aportaciones; el número por sí solo no garantiza beneficios. | No |
 | Sirve para declarar impuestos | Sí | Sí |
 
 > Si eres elegible para un SSN, debes usar el SSN. El ITIN es solo para quienes **no** pueden obtenerlo.
@@ -73,7 +74,7 @@ Debes probar **identidad** y **condición de extranjero**. El **pasaporte vigent
 
 ### Tiempo de respuesta
 
-El IRS suele tardar alrededor de **7 semanas**, y más en temporada alta de impuestos (enero a abril). Recibirás una carta con tu número.
+El IRS indica alrededor de **7 semanas** y, del 15 de enero al 30 de abril o para solicitudes desde el extranjero, **9 a 11 semanas**. Consulta [los tiempos oficiales del IRS](https://www.irs.gov/es/tin/itin/how-to-apply-for-an-itin).
 
 ## Cuidado: el ITIN puede caducar
 
@@ -84,6 +85,17 @@ Si no usas tu ITIN en una declaración federal durante **tres años consecutivos
 - Pagar a "notarios" que no son agentes autorizados. Usa un CAA de la lista del IRS o un preparador de impuestos con PTIN.
 - Enviar fotocopias simples de los documentos.
 - Olvidar adjuntar la declaración de impuestos cuando es obligatoria.
+
+## Cómo sacar un ITIN en Estados Unidos, paso a paso
+
+1. Confirma que necesitas un número tributario del IRS y no reúnes requisitos para obtener un SSN.
+2. Descarga el [Formulario W-7 y sus instrucciones](https://www.irs.gov/es/forms-pubs/about-form-w-7).
+3. Prepara la declaración federal correspondiente, salvo que cumplas una excepción específica del IRS.
+4. Reúne documentación de identidad y extranjería, con originales o copias certificadas según las instrucciones.
+5. Decide si vas a enviar el expediente por correo o a utilizar un **Agente Tramitador Certificador (CAA)** o un Centro de Asistencia al Contribuyente que ofrezca verificación, con cita y reglas particulares para dependientes.
+6. Conserva comprobantes y consulta el trámite transcurridos los plazos orientativos.
+
+**Importante:** un ITIN es para fines tributarios. **No sustituye un permiso para trabajar ni garantiza acceso a cuentas bancarias o tarjetas**. Para los procedimientos actualizados utiliza la [guía oficial del IRS para solicitar ITIN](https://www.irs.gov/es/tin/itin/how-to-apply-for-an-itin).
 
 ## Fuentes oficiales
 
