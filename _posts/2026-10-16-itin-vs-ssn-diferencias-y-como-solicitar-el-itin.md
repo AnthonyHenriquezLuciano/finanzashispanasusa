@@ -103,3 +103,5 @@ Si no usas tu ITIN en una declaración federal durante **tres años consecutivos
 - [IRS: Formulario W-7 e instrucciones](https://www.irs.gov/es/forms-pubs/about-form-w-7)
 
 **Sigue leyendo:** [cómo declarar impuestos gratis con VITA o Free File](/como-declarar-impuestos-gratis/) , [cómo comprar casa siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/) y [qué créditos por hijos puedes pedir con ITIN](/credito-tributario-por-hijos-y-eitc/).
+
+**Sigue leyendo:** [préstamo personal con ITIN: opciones seguras](/prestamo-personal-con-itin/).

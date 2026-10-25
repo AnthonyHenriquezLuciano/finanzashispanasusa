@@ -112,3 +112,5 @@ Aunque no califiques a nada, hay atención médica a bajo costo:
 Si tienes presencia legal, revisa el Mercado durante la inscripción abierta y compara planes por su costo total. Si tienes ingresos bajos, solicita Medicaid o CHIP, sobre todo para tus hijos. Y si no calificas a nada, usa centros de salud comunitarios y programas de ayuda del hospital. Mientras tanto, ten un [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/) para imprevistos médicos.
 
 **Sigue leyendo:** [seguro de vida: cuánto necesitas y qué tipo elegir](/seguro-de-vida-cuanto-necesitas-y-que-tipo-elegir/).
+
+**Sigue leyendo:** [cómo reducir o negociar una factura médica](/como-reducir-o-negociar-facturas-medicas/).

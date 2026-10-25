@@ -79,3 +79,5 @@ Al bajar tus saldos, tu **utilización** baja y tu puntaje suele subir. No cierr
 ## Resumen
 
 Lista tus deudas, paga el mínimo en todas y concentra lo extra en una: la de interés más alto (avalancha) o la más pequeña (bola de nieve). Baja tus tasas cuando puedas y no vuelvas a usar las tarjetas hasta terminar.
+
+**Sigue leyendo:** [préstamo personal con ITIN sin intereses abusivos](/prestamo-personal-con-itin/).
