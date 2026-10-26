@@ -199,3 +199,13 @@ nav a:hover{color:var(--brand)}
 .card-inner{display:flex;flex-direction:column;gap:8px;flex:1}
 .card--cover .card-inner{padding:18px 20px 20px}
 @media(max-width:560px){.post-cover{margin-top:18px}.post-cover img{border-radius:12px}}
+
+/* hipoteca */
+.hp-bar{display:flex;height:16px;border-radius:999px;overflow:hidden;background:var(--line);margin:4px 0 8px}
+.hp-bar span{display:block;height:100%;transition:width .4s}
+.hp-pi{background:var(--brand)}.hp-tx{background:var(--brand-2)}.hp-dt{background:#c2410c}.hp-fr{background:var(--line)}
+.hp-leg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:14px;color:var(--muted);margin:0 0 6px}
+.hp-leg i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:4px;vertical-align:middle}
+.hp-leg b{color:var(--ink);font-weight:600}
+.hp-leg span{white-space:nowrap}
+.hp-tx{background:#d4a017}

@@ -81,3 +81,5 @@ Junta primero $1,000, después de 3 a 6 meses de gastos esenciales, guárdalo en
 **Sigue leyendo:** [cómo usar bien tu reembolso de impuestos](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/) y [cómo ahorrar para el retiro sin 401(k)](/como-ahorrar-para-el-retiro-sin-401k-ira/).
 
 **Sigue leyendo:** [seguro médico para inmigrantes: Mercado y Medicaid](/seguro-medico-para-inmigrantes-en-estados-unidos/).
+
+**Sigue leyendo:** [qué hacer si pierdes tu trabajo: plan de 30 días](/que-hacer-si-pierdes-tu-trabajo/).

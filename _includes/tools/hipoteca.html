@@ -1,0 +1,20 @@
+<section class="tool" data-tool="hipoteca" aria-labelledby="t-hip">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-hip" class="tool-title">¿Cuánta casa puedo pagar?</h2><p>Estima el precio máximo según tus ingresos, tus deudas y tu enganche.</p></header>
+  <div class="tool-grid">
+    <label>Ingreso bruto al mes (USD)<input name="ingreso" inputmode="decimal" value="5500"></label>
+    <label>Pagos de deudas al mes (USD)<input name="deudas" inputmode="decimal" value="450"></label>
+    <label>Ahorro para enganche (USD)<input name="enganche" inputmode="decimal" value="15000"></label>
+    <label>Tasa de interés (%)<input name="tasa" inputmode="decimal" value="6.5"></label>
+    <label>Plazo<select name="plazo"><option value="30" selected>30 años</option><option value="15">15 años</option></select></label>
+    <label>Tipo de préstamo<select name="tipo"><option value="43">FHA (hasta 43 % de DTI)</option><option value="36" selected>Convencional prudente (36 %)</option></select></label>
+    <label>Impuesto a la propiedad y seguro (% anual del precio)<input name="tax" inputmode="decimal" value="1.6"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Precio máximo estimado</span><b data-out="precio">—</b></div>
+    <div><span>Pago mensual total</span><b data-out="pago">—</b></div>
+    <div><span>Préstamo</span><b data-out="prestamo">—</b></div>
+  </div>
+  <div class="hp-bar" aria-hidden="true"><span class="hp-pi"></span><span class="hp-tx"></span><span class="hp-dt"></span><span class="hp-fr"></span></div>
+  <p class="hp-leg"><span><i class="hp-pi"></i>Capital e interés <b data-out="pi"></b></span><span><i class="hp-tx"></i>Impuestos y seguro <b data-out="tx"></b></span><span><i class="hp-dt"></i>Otras deudas <b data-out="dt"></b></span><span><i class="hp-fr"></i>Resto del ingreso</span></p>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

@@ -175,6 +175,32 @@
       });
     },
 
+    hipoteca: function (root) {
+      bind(root, function () {
+        var ing = val(root, "ingreso"), deu = val(root, "deudas"), eng = val(root, "enganche"), tasa = val(root, "tasa"), n = val(root, "plazo") * 12, dti = val(root, "tipo") / 100, tax = val(root, "tax") / 100;
+        var out = $(root, '[data-out="veredicto"]');
+        var maxPay = Math.min(ing * dti - deu, ing * 0.31);
+        if (!ing || maxPay <= 0) { out.textContent = !ing ? "Escribe tu ingreso bruto mensual." : "Tus deudas actuales ya ocupan todo el margen: págalas primero para poder calificar."; ["precio", "pago", "prestamo", "pi", "tx", "dt"].forEach(function (k) { $(root, '[data-out="' + k + '"]').textContent = "—"; }); return; }
+        var r = tasa / 1200, f = r ? r / (1 - Math.pow(1 + r, -n)) : 1 / n;
+        var precio = (maxPay + eng * f) / (f + tax / 12);
+        if (precio < eng) precio = eng;
+        var loan = Math.max(0, precio - eng), pi = loan * f, tx = precio * tax / 12, total = pi + tx;
+        $(root, '[data-out="precio"]').textContent = usd.format(precio);
+        $(root, '[data-out="pago"]').textContent = usd.format(total);
+        $(root, '[data-out="prestamo"]').textContent = usd.format(loan);
+        $(root, '[data-out="pi"]').textContent = usd.format(pi);
+        $(root, '[data-out="tx"]').textContent = usd.format(tx);
+        $(root, '[data-out="dt"]').textContent = usd.format(deu);
+        var w = function (x) { return Math.max(0, Math.min(100, x / ing * 100)) + "%"; };
+        $(root, ".hp-bar .hp-pi").style.width = w(pi); $(root, ".hp-bar .hp-tx").style.width = w(tx); $(root, ".hp-bar .hp-dt").style.width = w(deu);
+        var pct = eng / precio * 100, msg = "Con estos datos, tu pago de vivienda sería el <b>" + Math.round(total / ing * 100) + " %</b> de tu ingreso bruto y tus deudas totales el <b>" + Math.round((total + deu) / ing * 100) + " %</b>. ";
+        msg += pct < 3.5 ? "Tu enganche es menor del 3.5 % que pide FHA para este precio: ahorra un poco más o busca programas de ayuda para el pago inicial. " : pct < 20 ? "Con menos del 20 % de enganche pagarás seguro hipotecario (PMI o MIP), que no está incluido aquí. " : "Con 20 % o más de enganche evitas el seguro hipotecario en un préstamo convencional. ";
+        msg += "Recuerda guardar dinero para costos de cierre (2 % a 5 %) y reparaciones.";
+        out.innerHTML = msg;
+        track("hipoteca");
+      });
+    },
+
     quiz: function (root) {
       var qs = $$(root, ".qz-q"), i = 0, score = 0, weak = [];
       var bar = $(root, ".qz-fill"), step = $(root, '[data-out="paso"]');

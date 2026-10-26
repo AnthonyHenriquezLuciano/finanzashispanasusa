@@ -33,3 +33,8 @@
   titulo: Calculadora de préstamo de auto
   corto: Tu cuota mensual y cuánto cuesta alargar el plazo.
   icono: "◉"
+- slug: calculadora-cuanta-casa-puedo-pagar
+  include: hipoteca
+  titulo: "¿Cuánta casa puedo pagar?"
+  corto: Precio máximo y pago mensual según tus ingresos y deudas.
+  icono: "⌂"

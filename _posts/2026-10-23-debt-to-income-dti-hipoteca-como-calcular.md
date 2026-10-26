@@ -46,3 +46,5 @@ Para completar tu plan consulta [como comprar casa en estados unidos siendo inmi
 
 ## Resumen y siguiente paso
 Empieza por obtener información concreta: una cotización, un documento, un saldo o una fecha. Con esa evidencia podrás decidir mejor, medir el resultado y ajustar sin comprometer tus gastos esenciales.
+
+**Sigue leyendo:** [¿cuánta casa puedo pagar según mi sueldo?](/cuanta-casa-puedo-pagar/).

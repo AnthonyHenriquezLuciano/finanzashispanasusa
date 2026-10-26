@@ -91,3 +91,5 @@ Si quieres profundizar en situaciones concretas, consulta estos recursos prácti
 - [ayuda pago inicial comprar casa down payment](/ayuda-pago-inicial-comprar-casa-down-payment/)
 - [deposito seguridad alquiler derechos inquilino](/deposito-seguridad-alquiler-derechos-inquilino/)
 - [hipoteca tasa fija vs ajustable arm](/hipoteca-tasa-fija-vs-ajustable-arm/)
+
+**Sigue leyendo:** [¿cuánta casa puedo pagar?](/cuanta-casa-puedo-pagar/) y usa la [calculadora de casa](/herramientas/calculadora-cuanta-casa-puedo-pagar/).
