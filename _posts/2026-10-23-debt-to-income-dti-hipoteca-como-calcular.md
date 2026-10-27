@@ -4,47 +4,104 @@ description: "Aprende la fórmula debt-to-income (DTI), qué pagos incluyen los 
 date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["DTI hipoteca", "debt to income español", "calcular porcentaje deuda ingreso"]
+last_modified_at: 2026-10-27 10:00:00 -0400
+herramienta: hipoteca
 resumen:
-- "Suma obligaciones mensuales elegibles como préstamos de auto, pagos mínimos de tarjetas y otras deudas relevantes."
-- "Incluye el pago mensual estimado de la nueva vivienda con componentes que solicite el prestamista."
-- "Calcula ingreso bruto mensual verificable, no ingreso neto después de impuestos."
+- "El **DTI** es el porcentaje de tu **ingreso bruto mensual** que se va en pagos de deudas. Fórmula: pagos mensuales ÷ ingreso bruto × 100."
+- "Los prestamistas miran dos: el **DTI de vivienda** (solo la nueva cuota) y el **DTI total** (cuota + todas las deudas)."
+- "Referencias habituales: **28 % / 36 %** como ideal; muchos préstamos aceptan **43 %** y algunos FHA y convencionales llegan al **50 %** con buen perfil."
+- "Para bajarlo: paga deudas pequeñas, no abras crédito nuevo antes de solicitar y documenta todos tus ingresos."
 faq:
-- q: "¿Bajar las tarjetas mejora el DTI?"
-  a: "Puede reducir pagos mensuales mínimos y cambiar el DTI, según cómo calcule el prestamista."
-- q: "¿Cuál es el DTI máximo permitido?"
-  a: "Depende del tipo de préstamo, programa y evaluación completa; consulta al prestamista."
-herramienta: deudas
+- q: "¿Qué deudas cuentan en el DTI?"
+  a: "Los pagos mínimos que aparecen en tu reporte de crédito (tarjetas, préstamos de carro, estudiantiles, personales), la pensión alimenticia y la nueva cuota de la casa con impuestos, seguro, PMI y HOA. No cuentan gastos como comida, luz, celular o seguro del carro."
+- q: "¿Se usa el ingreso bruto o neto?"
+  a: "El bruto: lo que ganas antes de impuestos y deducciones. Si eres independiente, se usa la ganancia neta del negocio según tus declaraciones de impuestos, normalmente el promedio de dos años."
+- q: "¿Cuentan las propinas y el overtime?"
+  a: "Sí, si están documentados y son estables, normalmente con al menos dos años de historial en tus W-2 o declaraciones. Las propinas en efectivo que no declaraste no pueden usarse."
+- q: "¿Un DTI bajo garantiza la aprobación?"
+  a: "No. El prestamista también revisa tu puntaje de crédito, tu historial de empleo, tus ahorros y el pago inicial. El DTI es solo una parte."
 ---
-El DTI, o relación deuda-ingreso, compara pagos mensuales de deuda con ingreso bruto mensual. Es una de las métricas que puede revisar un prestamista al estudiar una hipoteca. No equivale al porcentaje de tu sueldo que gastas en todo: normalmente el cálculo se centra en obligaciones de deuda y la vivienda propuesta.
+**El DTI (debt-to-income, o relación deuda-ingreso) es el porcentaje de tu ingreso mensual bruto que se destina a pagar deudas.** Es uno de los números que más pesan cuando pides una hipoteca: le dice al prestamista si podrás pagar la nueva cuota sin ahogarte. Se calcula dividiendo tus pagos mensuales de deuda entre tu ingreso bruto mensual y multiplicando por 100.
 
-## Cómo funciona y por qué importa
-Distintos programas hipotecarios establecen reglas propias sobre qué deudas cuentan, cómo se consideran los ingresos y qué excepciones aplican. Además del DTI, importan historial crediticio, reservas, documentación de ingreso y tasación. Un resultado aparentemente bueno no promete aprobación.
+## La fórmula
 
-## Plan de acción paso a paso
-1. Suma obligaciones mensuales elegibles como préstamos de auto, pagos mínimos de tarjetas y otras deudas relevantes.
-2. Incluye el pago mensual estimado de la nueva vivienda con componentes que solicite el prestamista.
-3. Calcula ingreso bruto mensual verificable, no ingreso neto después de impuestos.
-4. Divide deuda mensual total entre ingreso bruto mensual y multiplica por 100.
-5. Pide al prestamista que revise tu caso porque su metodología puede diferir de una cuenta orientativa.
+> **DTI = (pagos mensuales de deudas ÷ ingreso bruto mensual) × 100**
 
-## Ejemplo de una situación cotidiana
-Tienes $350 de auto, $150 de tarjetas y pago hipotecario previsto de $1,700; total $2,200. Si el ingreso bruto mensual verificable es $6,000, tu DTI orientativo es 36.7 %. Una segunda fuente de ingresos no documentada no necesariamente podrá contarse.
+Los prestamistas calculan dos versiones:
 
-## Precauciones antes de decidir
-No es correcto aplicar un límite universal a todos los programas ni deducir que un DTI específico garantiza aprobación. Las obligaciones compartidas, préstamos estudiantiles y trabajo independiente pueden necesitar tratamiento especial.
+- **DTI de vivienda (front-end):** solo la cuota futura de la casa (capital, interés, impuestos, seguro, seguro hipotecario y HOA) dividida entre tu ingreso.
+- **DTI total (back-end):** la cuota de la casa **más** todas tus otras deudas.
 
-## Tres errores que debes evitar
-- Usar ingreso neto y comparar contra una referencia de ingreso bruto.
-- Excluir pagos mínimos de tarjetas.
-- Ignorar impuestos y seguro en el pago de vivienda cuando corresponden.
+## Qué cuenta y qué no
 
-## Dónde verificar la información
-Puedes revisar las orientaciones de [CFPB: guía para comparar préstamos hipotecarios](https://www.consumerfinance.gov/owning-a-home/) antes de actuar. Para cuestiones de impuestos, crédito, hipotecas, vivienda o comisiones, las condiciones vigentes y los documentos oficiales de tu caso prevalecen sobre cualquier ejemplo general. Evita tomar una decisión irreversible basada en una cifra de referencia.
+| Sí cuenta | No cuenta |
+|---|---|
+| Cuota nueva de la hipoteca con impuestos, seguro, PMI/MIP y HOA | Comida, gasolina, luz, agua |
+| Pago mínimo de cada tarjeta de crédito (aunque pagues el total) | Celular, internet, streaming |
+| Préstamo de carro | Seguro del carro y seguro médico |
+| Préstamos estudiantiles | Remesas a tu familia |
+| Préstamos personales | Gastos de guardería |
+| Pensión alimenticia o manutención que pagas | Renta actual (deja de existir al comprar) |
 
-## Sigue con estas guías
-Para completar tu plan consulta [como comprar casa en estados unidos siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/), [como salir de deudas de tarjetas de credito](/como-salir-de-deudas-de-tarjetas-de-credito/) y [como subir tu puntaje de credito rapido](/como-subir-tu-puntaje-de-credito-rapido/). También puedes utilizar nuestra [calculadora salir de deudas](/herramientas/calculadora-salir-de-deudas/) para practicar los cálculos.
+Que las remesas o la guardería no cuenten no significa que no existan. El prestamista mide tu capacidad legal de pago; tú tienes que medir si **de verdad** te alcanza.
 
-## Resumen y siguiente paso
-Empieza por obtener información concreta: una cotización, un documento, un saldo o una fecha. Con esa evidencia podrás decidir mejor, medir el resultado y ajustar sin comprometer tus gastos esenciales.
+## Ejemplo paso a paso: la familia Torres
 
-**Sigue leyendo:** [¿cuánta casa puedo pagar según mi sueldo?](/cuanta-casa-puedo-pagar/).
+Ingresos brutos: Juan gana $4,200 al mes (W-2) y Elena $2,300 (W-2). **Total: $6,500.**
+
+Deudas actuales:
+
+| Deuda | Pago mensual |
+|---|---|
+| Préstamo de carro | $410 |
+| Tarjeta A (pago mínimo) | $65 |
+| Tarjeta B (pago mínimo) | $40 |
+| Préstamo estudiantil | $120 |
+| **Total deudas** | **$635** |
+
+Casa que quieren: cuota estimada con impuestos, seguro y MIP de **$1,950**.
+
+- **DTI de vivienda:** $1,950 ÷ $6,500 = **30 %**
+- **DTI total:** ($1,950 + $635) ÷ $6,500 = $2,585 ÷ $6,500 = **39.8 %**
+
+Con un 39.8 %, la familia Torres está dentro de lo que aceptan muchos préstamos FHA y convencionales. Pero si liquidan las dos tarjetas (un saldo total de $1,800, por ejemplo), su DTI total baja a **38.1 %**. Si además venden el carro y compran uno sin préstamo, bajaría a 31.8 %, con mejores opciones de tasa.
+
+## ¿Qué DTI aceptan los prestamistas?
+
+| Tipo de préstamo | DTI total habitual |
+|---|---|
+| Convencional (Fannie Mae / Freddie Mac) | Hasta 36 % sin compensaciones; hasta 45 %–50 % con buen crédito y reservas, según la evaluación automática |
+| FHA | 43 % es la referencia; con factores compensatorios y aprobación automática puede superar el 50 % |
+| VA | Referencia de 41 %, con análisis de ingreso residual |
+| USDA | Alrededor de 29 % vivienda / 41 % total |
+| Préstamos para ITIN (non-QM) | Varía mucho; muchos piden 43 %–50 % máximo y pagos iniciales mayores |
+
+Son referencias generales. Cada prestamista puede tener reglas más estrictas.
+
+## Cómo bajar tu DTI antes de solicitar
+
+1. **Paga por completo las deudas pequeñas.** Liquidar una tarjeta con mínimo de $40 baja más el DTI que abonar $500 a un préstamo grande.
+2. **No abras crédito nuevo** en los meses previos: ni tarjetas de tienda, ni muebles a plazos, ni carro.
+3. **Documenta todos tus ingresos**: segundo empleo, overtime, comisiones, ingresos de negocio declarados. Si eres independiente, recuerda que lo que cuenta es la ganancia neta declarada; reducir mucho tus impuestos con deducciones también reduce el ingreso que el banco puede usar.
+4. **Agrega un co-prestatario** con ingresos estables si es apropiado.
+5. **Busca una casa más barata o un pago inicial mayor.** Baja directamente la cuota.
+6. **Corrige errores en tu reporte**: un préstamo pagado que aún aparece activo infla tu DTI. Lee [cómo leer tu reporte de crédito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/).
+
+## La pregunta que importa más que el DTI
+
+Un DTI del 43 % puede aprobarse, pero dejar a una familia sin margen si también envía remesas, paga guardería y tiene ingresos variables. Antes de aceptar la cuota máxima aprobada, haz tu presupuesto real con todos los gastos. Te ayudamos en [el costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/) y en [cuánta casa puedo pagar](/cuanta-casa-puedo-pagar/).
+
+## Errores comunes
+
+- Calcular con el ingreso neto en vez del bruto (o al revés).
+- Olvidar los impuestos y el seguro de la casa en la cuota.
+- Pensar que una tarjeta pagada al total cada mes no cuenta: el banco usa el pago mínimo reportado.
+- Cambiar de empleo o pasar a 1099 justo antes de solicitar. Puede obligarte a esperar hasta tener historial.
+
+## Para seguir
+
+- Calcula tu cuota con la calculadora de esta página.
+- Si te faltan fondos para el cierre, revisa las [ayudas para el pago inicial](/ayuda-pago-inicial-comprar-casa-down-payment/).
+- Si tienes ITIN, lee [cómo comprar casa siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).
+
+*Fuentes: [CFPB — ¿Qué es la relación deuda-ingreso?](https://www.consumerfinance.gov/es/obtener-respuestas/), guías de Fannie Mae, HUD (FHA) y VA. Los límites cambian; confirma con tu prestamista.*

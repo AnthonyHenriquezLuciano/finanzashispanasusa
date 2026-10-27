@@ -20,4 +20,4 @@ defaults:
     values: {layout: post}
   - scope: {path: ""}
     values: {layout: page}
-exclude: [README.md, Gemfile, Gemfile.lock, vendor]
+exclude: [README.md, ESTANDAR.md, AUDITORIA_SEO_2026-10-23.md, SEO_SEGUIMIENTO_SEARCH_CONSOLE_2026-10-24.md, Gemfile, Gemfile.lock, vendor]
