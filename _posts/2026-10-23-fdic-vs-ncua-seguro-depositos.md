@@ -49,3 +49,5 @@ Para completar el contexto, lee [cuenta de ahorro de alto rendimiento que es y c
 
 ## Qué hacer ahora
 Elige una de las acciones anteriores que puedas completar esta semana. Anota el resultado, revisa su efecto en tu próximo estado de cuenta o documento y cambia tu plan solo cuando tengas datos reales.
+
+**Sigue leyendo:** [cooperativa de crédito vs. banco: cuál te conviene](/cooperativa-de-credito-vs-banco/).

@@ -46,3 +46,5 @@ Amplía la información con [impuestos para trabajadores independientes en estad
 
 ## Tu siguiente paso
 Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.
+
+**Sigue leyendo:** [compensación laboral si te lesionas en el trabajo](/compensacion-laboral-si-te-lesionas-en-el-trabajo/).
