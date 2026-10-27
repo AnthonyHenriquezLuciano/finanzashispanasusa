@@ -4,45 +4,89 @@ description: "Aprende a comparar margen cambiario, comisión y monto recibido pa
 date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["tipo de cambio remesas", "costo real enviar dinero", "margen cambiario money transfer"]
-resumen:
-- "Define cuánto sale de tu bolsillo, incluyendo si la comisión se suma al monto enviado."
-- "Anota para cada proveedor cuántas unidades de moneda recibe la familia."
-- "Registra la comisión, el tipo de cambio contratado y cualquier costo del método de cobro."
-faq:
-- q: "¿El tipo de cambio de Google es el que recibirá mi familia?"
-  a: "No necesariamente; sirve de referencia y puede diferir de la tasa ofertada al público."
-- q: "¿Qué dato decide la mejor oferta?"
-  a: "El monto neto recibido, junto con el gasto total, seguridad y plazo que necesitas."
+last_modified_at: 2026-10-27 10:00:00 -0400
 herramienta: remesas
+resumen:
+- "El costo real de una remesa = **comisión + margen cambiario + impuestos** (como el 1 % federal si pagas en efectivo desde 2026)."
+- "El **margen cambiario** es la diferencia entre el tipo de cambio de referencia (el 'mid-market') y el que te da la empresa. Muchas veces es **el costo más grande**."
+- "Fórmula rápida: **costo real (%) = (lo que pagas − valor en dólares de lo que llega) ÷ lo que pagas × 100**."
+- "El costo medio mundial de enviar remesas ronda el **6 %**, según el Banco Mundial. Si pagas más del 3 %–4 % a Latinoamérica, probablemente puedes encontrar algo mejor."
+faq:
+- q: "¿Qué es el tipo de cambio de referencia o 'mid-market'?"
+  a: "Es el punto medio entre el precio de compra y de venta de una moneda en los mercados mayoristas. Es el que muestran Google, Reuters o XE. Las empresas de remesas normalmente te dan una tasa algo peor."
+- q: "¿Por qué cambia el precio a lo largo del día?"
+  a: "Porque el tipo de cambio de mercado se mueve constantemente, y cada empresa actualiza su tasa varias veces al día. Compara siempre a la misma hora."
+- q: "¿Conviene enviar más dinero menos veces?"
+  a: "Suele ser más barato, porque una comisión fija pesa menos en un envío grande. Pero no envíes más de lo que tu familia necesita guardar de forma segura."
+- q: "¿Las promociones de 'primer envío' valen la pena?"
+  a: "Pueden ser buenas, pero compara también la tasa normal que tendrás desde el segundo envío. Una tasa promocional no sirve si después la empresa es cara."
 ---
-El costo de una remesa no depende únicamente de la comisión explícita. También importa cuánto vale cada dólar en la moneda de destino. Un tipo de cambio peor puede restar más dinero que una tarifa visible. La comparación correcta es entre ofertas para el mismo monto y método de pago.
+**Para saber cuánto te cuesta realmente enviar dinero, compara cuánto dinero llega en la moneda local, no solo la comisión.** El costo de una remesa tiene tres partes: la comisión visible, el margen escondido en el tipo de cambio y, en algunos casos, impuestos. Muchas empresas anuncian "envío gratis" y ganan con el tipo de cambio. Con dos números y una fórmula sencilla puedes descubrir cuál es la opción más barata.
 
-## Qué debes saber antes de empezar
-El tipo de cambio interbancario de referencia es útil para medir un margen aproximado, pero un consumidor no siempre puede operar a esa tasa. El proveedor fija su cotización bajo condiciones comerciales y puede incluir cargos o incentivos. Por eso calcula lo que realmente llega, no el porcentaje promocional del anuncio.
+## Los tres componentes del costo
 
-## Paso a paso para tomar una decisión
-1. Define cuánto sale de tu bolsillo, incluyendo si la comisión se suma al monto enviado.
-2. Anota para cada proveedor cuántas unidades de moneda recibe la familia.
-3. Registra la comisión, el tipo de cambio contratado y cualquier costo del método de cobro.
-4. Compara alternativas con el mismo monto y el mismo minuto aproximado de cotización.
-5. Guarda resultados recurrentes para identificar qué proveedor suele convenirte, sin asumir que siempre será el más barato.
+1. **Comisión (fee):** lo que cobra la empresa por el servicio. Puede ser fija ($2.99) o un porcentaje.
+2. **Margen cambiario:** la diferencia entre el tipo de cambio de referencia y el que te ofrecen. Si el dólar vale 18.50 pesos mexicanos en el mercado y te dan 18.10, la empresa se queda con 40 centavos por dólar: un **2.2 %**.
+3. **Impuestos y cargos de terceros:** desde 2026, las remesas pagadas en efectivo, money order o cheque de caja en EE.UU. pagan un **impuesto federal del 1 %**. Algunos bancos receptores también cobran por recibir.
 
-## Ejemplo con números
-Servicio A: envías $400, comisión $0 y tasa 56.0; entrega 22,400 unidades. Servicio B: comisión $4 y tasa 57.0 aplicada a $400; entrega 22,800 unidades, pero tu desembolso sería $404 si la comisión se cobra aparte. La segunda oferta entrega 400 unidades más, a un costo de bolsillo también mayor: compara ambas variables.
+## La fórmula
 
-## Riesgos y situaciones especiales
-Antes de usar fórmulas confirma si la comisión se descuenta del principal, si se suma por encima y si el destinatario paga un cargo de retiro. La calculadora requiere introducir esas condiciones correctamente; sus resultados no son tarifas verificadas en vivo.
+> **Costo real (%) = (dólares que pagas − valor en dólares de lo que llega) ÷ dólares que pagas × 100**
 
-## Errores frecuentes
-- Elegir solo el anuncio de 'sin comisión'.
-- Comparar una tasa de ayer con otra actual.
-- Omitir tarifas de retiro o cargos por tarjeta de crédito.
+Donde:
+> **Valor en dólares de lo que llega = moneda local recibida ÷ tipo de cambio de referencia**
 
-## Fuente oficial y criterios para verificar
-Confirma el procedimiento en [CFPB: regla de transparencia en remesas](https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
+## Ejemplo: enviar $400 a México
 
-## Guías y herramientas relacionadas
-Amplía la información con [como enviar dinero a latinoamerica mas barato](/como-enviar-dinero-a-latinoamerica-mas-barato/), [como enviar dinero a mexico](/como-enviar-dinero-a-mexico/) y [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/). Pon a prueba los números con nuestra [calculadora remesas](/herramientas/calculadora-remesas/).
+Tipo de cambio de referencia: **18.50 pesos por dólar** (ilustrativo).
 
-## Tu siguiente paso
-Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.
+| | Empresa A | Empresa B | Empresa C |
+|---|---|---|---|
+| Anuncio | "¡Envío gratis!" | Comisión baja | Agencia, pago en efectivo |
+| Comisión | $0 | $2.99 | $5.00 |
+| Impuesto 1 % (efectivo) | $0 | $0 | $4.00 |
+| Total que pagas | $400.00 | $402.99 | $409.00 |
+| Tipo de cambio ofrecido | 17.95 | 18.38 | 18.05 |
+| Pesos que llegan | 7,180 | 7,352 | 7,220 |
+| Valor en dólares de lo que llega | $388.11 | $397.41 | $390.27 |
+| **Costo real** | **$11.89 (2.97 %)** | **$5.58 (1.38 %)** | **$18.73 (4.58 %)** |
+
+La empresa "gratis" no fue la más barata: la Empresa B, con comisión, entregó **172 pesos más**. Si envías $400 dos veces al mes, elegir B en lugar de C ahorra unos **$316 al año**.
+
+Puedes hacer este cálculo en segundos con la calculadora de remesas de esta página.
+
+## Cómo comparar en la práctica
+
+1. **Abre dos o tres apps o páginas a la vez** y pon el mismo monto.
+2. **Anota los pesos (o la moneda local) que llegan**, con todo incluido. Ese es el número que importa.
+3. **Usa el mismo método de entrega** (depósito bancario vs. efectivo cambian el precio).
+4. **Usa el mismo método de pago**: pagar con tarjeta de crédito puede generar un cargo de adelanto de efectivo en tu banco; en efectivo, el impuesto del 1 %.
+5. **Revisa el resumen previo al pago**: por ley federal, la empresa debe mostrarte el tipo de cambio, los cargos, los impuestos y el monto final antes de que pagues.
+
+## Factores que cambian el precio
+
+- **Monto:** con comisiones fijas, los envíos pequeños salen proporcionalmente más caros.
+- **Método de entrega:** depósito a cuenta o billetera suele ser más barato que efectivo o entrega a domicilio.
+- **Velocidad:** algunas empresas cobran más por envíos inmediatos que por envíos de 1 a 3 días.
+- **País y moneda:** monedas con menos competencia o más volatilidad suelen tener márgenes mayores.
+- **Día y hora:** algunas empresas amplían el margen en fines de semana, cuando los mercados están cerrados.
+
+## ¿Cuánto es "caro"?
+
+El Banco Mundial mide el costo de enviar $200 en su base **Remittance Prices Worldwide**, y el promedio global ronda el **6 %**. La meta internacional es bajarlo al **3 %**. A muchos países de Latinoamérica desde EE.UU. existen opciones por debajo de ese 3 %. Si estás pagando 5 % o más, vale la pena comparar.
+
+## Errores comunes
+
+- Fijarse solo en la comisión.
+- Comparar tasas a horas distintas.
+- Elegir una empresa por la promoción del primer envío sin ver su tasa normal.
+- Pagar con tarjeta de crédito sin saber que tu banco lo cobra como adelanto de efectivo.
+- Usar cambistas informales que ofrecen tasas "imposibles": no tienes protección si el dinero no llega.
+
+## Para seguir
+
+- Guías por país: [México](/como-enviar-dinero-a-mexico/), [República Dominicana](/enviar-dinero-republica-dominicana-desde-usa/) y [Colombia](/enviar-dinero-colombia-desde-estados-unidos/).
+- Comparativa general en [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
+- Si algo sale mal, [cómo reclamar una remesa](/remesa-equivocada-no-llego-como-reclamar/).
+
+*Fuentes: [Banco Mundial — Remittance Prices Worldwide](https://remittanceprices.worldbank.org/), [CFPB — Remesas](https://www.consumerfinance.gov/es/). Tipos de cambio y comisiones del ejemplo ilustrativos.*

@@ -4,45 +4,107 @@ description: "Organiza tus pagos estimados al IRS si trabajas por cuenta propia:
 date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["impuestos estimados trimestrales", "formulario 1040 ES", "pagar taxes contratista"]
+last_modified_at: 2026-10-27 10:00:00 -0400
 resumen:
-- "Haz una proyección anual de ingresos brutos y gastos de negocio documentados."
-- "Revisa el Formulario 1040-ES y sus hojas de trabajo vigentes para aproximar la obligación fiscal."
-- "Descuenta retenciones de otros empleos y pagos ya realizados, si corresponde."
+- "Si trabajas por tu cuenta (1099, apps, negocio propio) y esperas deber **$1,000 o más** al IRS, debes pagar impuestos estimados **cuatro veces al año** con el Formulario **1040-ES**."
+- "Fechas habituales: **15 de abril, 15 de junio, 15 de septiembre y 15 de enero** del año siguiente (se mueven al siguiente día hábil si caen en fin de semana o feriado)."
+- "Para evitar multas, paga al menos el **100 % del impuesto del año anterior** (110 % si tu ingreso bruto ajustado pasó de $150,000) o el **90 % del impuesto de este año**."
+- "Regla práctica: aparta entre el **25 % y el 30 %** de cada pago que recibas en una cuenta separada."
 faq:
-- q: "¿Todos los contratistas tienen que pagar por trimestre?"
-  a: "No necesariamente. Depende del impuesto previsto, retenciones y excepciones del IRS."
-- q: "¿Qué pasa si mi ingreso varía mucho?"
-  a: "Puedes necesitar métodos de cálculo basados en ingresos anualizados; consulta las instrucciones oficiales."
-herramienta: presupuesto
+- q: "¿Qué pasa si no hago los pagos trimestrales?"
+  a: "Deberás todo al presentar la declaración y el IRS puede cobrarte una multa por pago insuficiente, calculada como interés sobre lo que faltó en cada trimestre. No es enorme, pero se suma a una deuda que puede ser difícil de pagar de golpe."
+- q: "¿Cómo pago los impuestos estimados?"
+  a: "Por IRS Direct Pay (gratis desde tu cuenta bancaria), en tu cuenta en línea del IRS, por EFTPS, con tarjeta (con cargo de un procesador) o enviando un cheque con el comprobante del 1040-ES."
+- q: "¿Tengo que pagar también al estado?"
+  a: "En la mayoría de los estados con impuesto sobre la renta, sí: tienen su propio sistema de pagos estimados. Florida, Texas, Nevada y otros estados sin impuesto estatal sobre la renta no lo requieren."
+- q: "¿Puedo pagar con ITIN?"
+  a: "Sí. Los contribuyentes con ITIN que tienen ingresos de trabajo por cuenta propia también hacen pagos estimados y pagan el impuesto sobre el trabajo por cuenta propia."
 ---
-Si recibes ingresos sin retención suficiente, podrías necesitar pagos estimados durante el año mediante el sistema del IRS. No se trata de pagar una tasa fija sobre cada depósito: debes estimar el impuesto del año teniendo en cuenta ingresos, deducciones, créditos, retenciones y las reglas de penalización.
+**Si trabajas por tu cuenta y nadie te retiene impuestos, el IRS espera que pagues durante el año, no solo en abril.** Esos pagos se llaman **impuestos estimados** y se hacen con el Formulario 1040-ES, normalmente en cuatro fechas. Aplica a contratistas 1099, conductores y repartidores de apps, trabajadores de limpieza, construcción o jardinería por cuenta propia, dueños de pequeños negocios y cualquiera que espere deber $1,000 o más al presentar su declaración.
 
-## Qué debes saber antes de empezar
-Los pagos estimados cubren generalmente impuesto federal sobre los ingresos y, cuando corresponde, impuesto del trabajo por cuenta propia. El IRS establece períodos y fechas propias, que no siempre coinciden exactamente con trimestres naturales. Las fechas pueden modificarse por fines de semana, feriados o alivios especiales.
+## Quién debe pagar
 
-## Paso a paso para tomar una decisión
-1. Haz una proyección anual de ingresos brutos y gastos de negocio documentados.
-2. Revisa el Formulario 1040-ES y sus hojas de trabajo vigentes para aproximar la obligación fiscal.
-3. Descuenta retenciones de otros empleos y pagos ya realizados, si corresponde.
-4. Reserva una proporción conservadora de cada cobro en una cuenta separada mientras ajustas tu estimación.
-5. Programa recordatorios según el calendario oficial y conserva comprobantes de cada pago.
+Debes hacer pagos estimados si:
 
-## Ejemplo con números
-Una persona factura $5,000 y tiene $1,500 de gastos empresariales verificables en un mes. Su resultado neto preliminar es $3,500, pero eso no significa que deba multiplicarlo por una tasa federal única: faltan cálculos del año y situación personal. Reservar efectivo evita que la obligación futura la tome por sorpresa.
+1. Esperas deber **al menos $1,000** de impuesto federal al presentar tu declaración, después de restar retenciones y créditos, **y**
+2. Tus retenciones y créditos no cubrirán al menos el menor de: el **90 %** del impuesto de este año o el **100 %** del impuesto del año anterior (110 % si tu ingreso bruto ajustado fue mayor de $150,000).
 
-## Riesgos y situaciones especiales
-La estimación federal no incluye automáticamente obligaciones estatales o locales. Algunas personas con salarios pueden cubrir parte de la necesidad aumentando retenciones de nómina en lugar de pagos separados. Confirma las reglas de safe harbor y cualquier excepción antes de decidir.
+Si tienes un trabajo W-2 además del negocio, puedes evitar los pagos trimestrales pidiendo a tu empleador que retenga más con el [Formulario W-4](/como-llenar-w4-retencion-impuestos/).
 
-## Errores frecuentes
-- Usar facturación bruta como si fuera utilidad neta.
-- Olvidar fechas específicas del calendario del IRS.
-- Mezclar ahorro fiscal con dinero para gastos diarios.
+## Fechas de pago
 
-## Fuente oficial y criterios para verificar
-Confirma el procedimiento en [IRS: impuestos estimados](https://www.irs.gov/es/businesses/small-businesses-self-employed/estimated-taxes). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
+| Pago | Ingresos que cubre | Fecha límite |
+|---|---|---|
+| 1 | 1 de enero – 31 de marzo | 15 de abril |
+| 2 | 1 de abril – 31 de mayo | 15 de junio |
+| 3 | 1 de junio – 31 de agosto | 15 de septiembre |
+| 4 | 1 de septiembre – 31 de diciembre | 15 de enero del año siguiente |
 
-## Guías y herramientas relacionadas
-Amplía la información con [impuestos para trabajadores independientes en estados unidos](/impuestos-para-trabajadores-independientes-en-estados-unidos/), [como declarar impuestos gratis](/como-declarar-impuestos-gratis/) y [como hacer un presupuesto mensual regla 50 30 20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/). Pon a prueba los números con nuestra [calculadora presupuesto 50 30 20](/herramientas/calculadora-presupuesto-50-30-20/).
+Fíjate: los "trimestres" no son iguales. El segundo cubre solo dos meses. Si una fecha cae en fin de semana o día feriado, se pasa al siguiente día hábil.
 
-## Tu siguiente paso
-Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.
+## Qué impuestos estás pagando
+
+Como independiente pagas dos impuestos federales principales:
+
+- **Impuesto sobre el trabajo por cuenta propia (self-employment tax):** cerca del **15.3 %** sobre el 92.35 % de tu ganancia neta. Cubre Seguro Social (12.4 %, hasta un tope anual de ingresos) y Medicare (2.9 %). Como empleado, tu empresa pagaba la mitad; ahora pagas las dos partes. Puedes deducir la mitad al calcular tu impuesto sobre la renta.
+- **Impuesto federal sobre la renta**, según tu tramo, después de la deducción estándar y la deducción de ingreso calificado de negocio (QBI) si aplica.
+
+A eso se suma el **impuesto estatal**, si tu estado lo tiene.
+
+## Cómo calcular cuánto pagar
+
+### Método 1: el "puerto seguro" (el más sencillo)
+
+Toma el **impuesto total** de tu declaración del año pasado (línea "total tax" del Formulario 1040), divídelo entre 4 y paga esa cantidad en cada fecha. Si pagas al menos el 100 % del impuesto del año anterior a tiempo, **no tendrás multa**, aunque este año ganes más (deberás la diferencia en abril, pero sin penalidad).
+
+### Método 2: estimar este año
+
+Usa la hoja de trabajo del 1040-ES o un programa de impuestos. Es más preciso si tus ingresos bajaron.
+
+### Ejemplo: Roberto, repartidor y pintor
+
+Roberto espera ganar este año $48,000 de ingresos 1099 y tiene $8,000 de gastos deducibles (millas, herramientas, teléfono).
+
+| Concepto | Monto aproximado |
+|---|---|
+| Ganancia neta | $40,000 |
+| Impuesto de trabajo por cuenta propia (15.3 % × 92.35 % × $40,000) | ≈ $5,652 |
+| Impuesto federal sobre la renta (soltero, después de la deducción estándar y la de QBI; estimado) | ≈ $1,800 |
+| **Total federal estimado** | **≈ $7,450** |
+| Pago trimestral | **≈ $1,863** |
+
+En porcentaje, Roberto debe unos $7,450 sobre $48,000 de ingresos brutos: alrededor del **15.5 %** solo a nivel federal. Por eso la regla del 25 %–30 % de cada pago es prudente: cubre impuestos estatales y deja un margen. Las cifras son ilustrativas; los tramos, la deducción estándar y el tope del Seguro Social cambian cada año.
+
+## Cómo pagar
+
+1. **IRS Direct Pay:** gratis desde tu cuenta bancaria, sin registro. Elige "Pago de impuesto estimado (1040-ES)" y el año correcto.
+2. **Tu cuenta en línea del IRS:** permite ver los pagos que ya hiciste.
+3. **EFTPS:** sistema gratuito del Tesoro; requiere inscripción previa.
+4. **Tarjeta de débito o crédito:** a través de procesadores autorizados, con un cargo.
+5. **Cheque por correo** con el comprobante del 1040-ES, a nombre de "United States Treasury".
+
+Guarda la confirmación de cada pago. Al presentar tu declaración, sumarás los cuatro pagos como "pagos estimados".
+
+## Sistema para no fallar nunca
+
+1. Abre una **cuenta de ahorro solo para impuestos**.
+2. Cada vez que recibas un pago, transfiere el **25 %–30 %** ese mismo día.
+3. Pon **recordatorios** una semana antes de cada fecha límite.
+4. Lleva el registro de **gastos deducibles** desde el primer día: millas (con fecha, origen, destino y motivo), herramientas, uniformes, parte del celular.
+5. En enero, revisa si sobró dinero en la cuenta: será tu "bono" después de presentar.
+
+## Errores comunes
+
+- **Gastar todo y esperar a abril.** Deber $7,000 u $8,000 de golpe lleva a planes de pago con intereses.
+- **Olvidar el impuesto de trabajo por cuenta propia:** se paga aunque no debas impuesto sobre la renta.
+- **No guardar recibos ni registro de millas.**
+- **Pagar el año equivocado** en Direct Pay (por ejemplo, el pago de enero corresponde al año anterior).
+
+## Para seguir
+
+- Entiende tu situación en [W-2 vs. 1099: empleado o contratista](/w2-vs-1099-empleado-contratista/).
+- Conoce deducciones y obligaciones en [impuestos para trabajadores independientes](/impuestos-para-trabajadores-independientes-en-estados-unidos/).
+- Organiza tus ingresos irregulares con [presupuesto con ingresos variables](/presupuesto-ingresos-variables-propinas-gig/).
+- Si tienes negocio, mira [cómo abrir una LLC siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/).
+
+*Fuentes: [IRS — Impuestos estimados](https://www.irs.gov/es/businesses/small-businesses-self-employed/estimated-taxes), Formulario 1040-ES y Publicación 505. Las cifras cambian cada año fiscal.*

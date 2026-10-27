@@ -4,45 +4,87 @@ description: "Guía para comparar remesas de dólares a pesos colombianos: costo
 date: 2026-10-23 00:00:00 -0400
 category: Remesas
 keywords: ["enviar dinero a colombia", "remesas a colombia desde usa", "dolar peso colombiano enviar"]
-resumen:
-- "Pregunta al destinatario si prefiere cuenta bancaria y cuáles son los datos exactos para el depósito."
-- "En dos o tres servicios anota comisión, tasa USD/COP, impuestos aplicables y total entregado."
-- "Verifica cuándo estará disponible el dinero y si existen requisitos de identidad adicionales."
-faq:
-- q: "¿Enviar a una cuenta puede salir más barato?"
-  a: "A veces, pero depende del proveedor, método de pago y cotización concreta."
-- q: "¿Cuánto tarda una remesa?"
-  a: "Los plazos varían desde opciones rápidas hasta días hábiles; consulta la disponibilidad prometida en el recibo."
+last_modified_at: 2026-10-27 10:00:00 -0400
 herramienta: remesas
+resumen:
+- "Compara siempre **cuántos pesos colombianos recibe tu familia**, no solo la comisión: el margen en el tipo de cambio suele costar más que el cargo visible."
+- "Las opciones más baratas suelen ser **depósito a cuenta bancaria o billetera digital** (Bancolombia, Davivienda, Nequi, Daviplata) pagado desde tu cuenta en EE.UU."
+- "Desde 2026, las remesas **pagadas en efectivo o money order** en EE.UU. tienen un **impuesto federal del 1 %**; pagar desde tu cuenta bancaria o tarjeta de débito lo evita."
+- "Verifica nombre completo, número de cédula y número de cuenta antes de enviar: un error puede retrasar o desviar el dinero."
+faq:
+- q: "¿Cuál es la forma más rápida de enviar dinero a Colombia?"
+  a: "Los depósitos a billeteras digitales como Nequi o Daviplata y los retiros en efectivo en agencias aliadas suelen estar disponibles en minutos. Los depósitos a cuentas bancarias pueden tardar de minutos a un día hábil."
+- q: "¿Mi familiar en Colombia paga impuestos por recibir remesas?"
+  a: "Las remesas familiares no son en general un ingreso gravado por sí mismas, pero los movimientos bancarios en Colombia pueden pagar el gravamen a los movimientos financieros (4 por mil) según el tipo de cuenta. Consulta con el banco receptor o con un contador en Colombia."
+- q: "¿Cuánto dinero puedo enviar?"
+  a: "Cada empresa fija límites diarios y mensuales y puede pedirte más identificación al superar ciertos montos. Envíos grandes pueden requerir comprobar el origen de los fondos."
+- q: "¿Qué datos necesita la empresa para enviar a Colombia?"
+  a: "Nombre completo del beneficiario como aparece en su cédula, número de cédula, teléfono y, para depósitos, el banco, el tipo de cuenta (ahorros o corriente) y el número de cuenta o celular de la billetera."
 ---
-Al mandar dinero a Colombia desde Estados Unidos, el dato central es cuántos pesos colombianos (COP) recibirá la persona, después de comisiones y márgenes del tipo de cambio. Hay distintas opciones de recepción, como depósito bancario o retiro presencial, y cada proveedor establece requisitos específicos.
+**Para enviar dinero a Colombia desde Estados Unidos al menor costo, compara cuántos pesos recibe tu familia en total, paga desde tu cuenta bancaria y deposita en una cuenta o billetera digital en Colombia.** Las empresas de remesas compiten con comisiones bajas o "envío gratis", pero muchas ganan con el tipo de cambio. La única cifra que importa es la final: los pesos que llegan.
 
-## Qué debes saber antes de empezar
-Las tasas publicadas pueden cambiar antes de confirmar una transferencia. Además, no todas las ofertas permiten el mismo método de entrega ni se pagan desde la misma fuente en EE.UU. Comparar opciones requiere igualar cantidad, fecha estimada y tipo de recepción, para no escoger por un precio incompleto.
+## Las formas de recibir en Colombia
 
-## Paso a paso para tomar una decisión
-1. Pregunta al destinatario si prefiere cuenta bancaria y cuáles son los datos exactos para el depósito.
-2. En dos o tres servicios anota comisión, tasa USD/COP, impuestos aplicables y total entregado.
-3. Verifica cuándo estará disponible el dinero y si existen requisitos de identidad adicionales.
-4. Lee las condiciones de cancelación y de reclamación de errores antes de confirmar.
-5. Tras enviar, guarda el recibo y verifica la llegada con tu destinatario.
+| Método de entrega | Velocidad | Costo habitual | Para quién |
+|---|---|---|---|
+| Depósito a cuenta bancaria (Bancolombia, Davivienda, Banco de Bogotá, BBVA, etc.) | Minutos a 1 día hábil | Bajo | Familia con cuenta de ahorros |
+| Billetera digital (Nequi, Daviplata) | Minutos | Bajo | Familia con celular; muy usado en ciudades y pueblos |
+| Retiro en efectivo en agencias o corresponsales | Minutos | Medio | Quien no usa banco |
+| Entrega a domicilio | Horas a días | Alto | Adultos mayores o zonas sin agencias |
 
-## Ejemplo con números
-Si cotizas $200 y un servicio entrega 760,000 COP mientras otro entrega 770,000 COP, la segunda oferta pone 10,000 COP adicionales en manos de tu familiar. Pero verifica que ambas incluyan exactamente las mismas comisiones y la misma forma de cobro antes de elegir.
+Para la mayoría de familias, **Nequi o una cuenta de ahorros** son las opciones más económicas y rápidas.
 
-## Riesgos y situaciones especiales
-Los valores de ejemplo no representan una tasa del día. Cuidado con enlaces que imitan a entidades y solicitan claves bancarias del destinatario; un proveedor legítimo debe explicar qué información necesita y por qué.
+## Cómo pagar desde Estados Unidos
 
-## Errores frecuentes
-- Mirar una tasa USD/COP de buscador como si fuera el pago garantizado.
-- Escribir mal números de cuenta o nombres.
-- Usar un proveedor no verificado solo por un anuncio promocional.
+- **Desde tu cuenta bancaria (ACH)**: suele ser lo más barato. Puede tardar algo más si la empresa espera a que se libere el dinero.
+- **Tarjeta de débito**: rápido y normalmente con un cargo pequeño.
+- **Tarjeta de crédito**: tu banco puede tratarlo como **adelanto de efectivo**, con cargo extra e intereses inmediatos. Evítalo.
+- **Efectivo o money order en una agencia**: desde el 1 de enero de 2026, la ley federal aplica un **impuesto del 1 %** sobre las remesas pagadas en efectivo, money order o cheque de caja. Si envías $500 en efectivo, pagas $5 adicionales. Las remesas pagadas con cuenta bancaria o tarjeta emitida en EE.UU. no tienen ese impuesto.
 
-## Fuente oficial y criterios para verificar
-Confirma el procedimiento en [CFPB: información y derechos de remesas](https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/). No uses una cifra de una guía general como sustituto de las condiciones vigentes que te entregue una institución. Conserva recibos, avisos, cotizaciones y contratos para comparar lo que se anunció con lo que realmente ocurrió.
+## Cómo calcular el costo real
 
-## Guías y herramientas relacionadas
-Amplía la información con [como enviar dinero a latinoamerica mas barato](/como-enviar-dinero-a-latinoamerica-mas-barato/), [como enviar dinero a mexico](/como-enviar-dinero-a-mexico/) y [fondo de emergencia cuanto ahorrar y donde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/). Pon a prueba los números con nuestra [calculadora remesas](/herramientas/calculadora-remesas/).
+1. Busca el **tipo de cambio de referencia** (el que publican Google, Reuters o el Banco de la República como TRM).
+2. Mira el **tipo de cambio que ofrece** la empresa.
+3. Suma la **comisión**.
 
-## Tu siguiente paso
-Identifica el documento, costo o dato que todavía no conoces y consíguelo antes de comprometer tu dinero. Una comprobación concreta vale más que una promesa publicitaria.
+**Ejemplo con $500** (cifras ilustrativas, con una TRM de 4,000 pesos por dólar):
+
+| | Empresa A | Empresa B |
+|---|---|---|
+| Comisión | $0 | $3.99 |
+| Tipo de cambio ofrecido | 3,880 | 3,975 |
+| Pesos recibidos | 1,940,000 | 1,971,640 (sobre $496.01) |
+| Costo real frente a la TRM | 60,000 pesos (≈ $15) | 28,360 pesos (≈ $7.09) |
+
+La empresa "sin comisión" salió **más del doble de cara**. Puedes repetir este cálculo con la calculadora de remesas de esta página. Más detalles en [tipo de cambio en remesas: calcula el costo real](/tipo-cambio-remesas-costo-real-comparar/).
+
+## Paso a paso para enviar
+
+1. **Pide a tu familiar sus datos exactos**: nombre completo como en la cédula, número de cédula, banco, tipo y número de cuenta, o el número de celular registrado en Nequi o Daviplata.
+2. **Compara dos o tres empresas** el mismo día y a la misma hora; los tipos de cambio se mueven.
+3. **Revisa el resumen antes de pagar.** La ley federal obliga a mostrarte la comisión, el tipo de cambio, los impuestos y el monto exacto que recibirá el beneficiario.
+4. **Guarda el recibo** con el número de confirmación.
+5. **Avisa a tu familiar** que el dinero va en camino y comparte el número de referencia.
+
+Tienes derecho a **cancelar sin costo dentro de los 30 minutos** siguientes al pago, si el dinero aún no se ha cobrado o depositado.
+
+## Ejemplo: Andrés en Miami envía a su mamá en Pereira
+
+Andrés enviaba $300 al mes en efectivo desde una agencia, con $8 de comisión y un tipo de cambio pobre. Cambió a una app que cobra desde su cuenta bancaria y deposita en el Nequi de su mamá. Al comparar durante tres meses, su mamá recibió en promedio 65,000 pesos más por envío, y Andrés se ahorró el impuesto del 1 % del efectivo. En un año eso son más de **780,000 pesos** adicionales para la familia.
+
+## Seguridad: lo que debes vigilar
+
+- **No envíes dinero a alguien que no conoces en persona**, por más urgente que suene. Las estafas de "familiar en apuros" y de romance son comunes. Aprende a identificarlas en [estafas de remesas](/estafas-remesas-transferencias-internacionales/).
+- **Usa solo empresas con licencia** de transmisión de dinero en tu estado. Puedes verificar en el regulador financiero estatal o en el sistema NMLS.
+- **Cuidado con los "cambistas" informales** en redes sociales: no tienes ningún derecho de reclamo si el dinero no llega.
+
+## Si el dinero no llega
+
+Tienes **180 días** desde la fecha prometida de entrega para reportar el error a la empresa. Ella debe investigar y resolver. Te explicamos el proceso completo en [mi remesa no llegó: cómo reclamar](/remesa-equivocada-no-llego-como-reclamar/).
+
+## Para seguir
+
+- Compara con otros países en [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
+- Planifica tus envíos sin descuidar tu ahorro con la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/).
+
+*Fuentes: [CFPB — Envío de remesas](https://www.consumerfinance.gov/es/), [Banco de la República (TRM)](https://www.banrep.gov.co/). Los tipos de cambio y comisiones cambian a diario; los del ejemplo son ilustrativos.*

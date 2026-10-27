@@ -8,7 +8,7 @@ layout: default
     <p class="kicker">{{ page.category }}</p>
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.description }}</p>
-    <p class="meta"><span>Por {{ site.author }}</span><span>{% if page.last_modified_at %}Actualizado el {{ page.last_modified_at | date: "%d/%m/%Y" }}{% else %}Publicado el {{ page.date | date: "%d/%m/%Y" }}{% endif %}</span><span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min de lectura</span></p>
+    <p class="meta"><span>Por <a href="/sobre-nosotros/">{{ site.author }}</a></span><span>{% if page.last_modified_at %}Publicado el {{ page.date | date: "%d/%m/%Y" }} · Actualizado el {{ page.last_modified_at | date: "%d/%m/%Y" }}{% else %}Publicado el {{ page.date | date: "%d/%m/%Y" }}{% endif %}</span><span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min de lectura</span></p>
   </header>
   {% if page.image %}
   <figure class="post-cover">
