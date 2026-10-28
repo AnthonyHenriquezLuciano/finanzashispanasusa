@@ -85,14 +85,14 @@ Si ahorras para varias cosas a la vez, separarlas te ayuda a no gastar el dinero
 - **Money market account**: híbrido; paga interés como un ahorro y a veces permite cheques limitados. Suele pedir saldo mínimo más alto.
 - **Certificado de depósito (CD)**: dejas el dinero fijo de 3 meses a 5 años a cambio de una tasa garantizada. Sacarlo antes tiene penalidad. No es buen lugar para tu fondo de emergencia, pero sí para dinero que no tocarás en un plazo concreto.
 
-## Errores comunes
+## Fallos al usar cada tipo de cuenta
 
 - **Tener todo en checking**: pierdes intereses y es más fácil gastarlo.
 - **Tener el ahorro en la misma app con tarjeta de débito**: la tentación es mayor.
 - **No leer la lista de cargos** (fee schedule) del banco.
 - **Elegir una cuenta solo por el bono de bienvenida** sin revisar los requisitos para no pagar cargo mensual.
 
-## Para seguir
+## Saca más provecho a tus cuentas
 
 - Abre tu primera cuenta con [cómo abrir una cuenta bancaria sin Seguro Social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/).
 - Decide dónde abrirla con [cooperativa de crédito vs. banco](/cooperativa-de-credito-vs-banco/).

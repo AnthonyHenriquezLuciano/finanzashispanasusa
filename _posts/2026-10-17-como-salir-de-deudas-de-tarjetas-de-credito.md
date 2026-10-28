@@ -76,7 +76,7 @@ Si no puedes cubrir ni los mínimos, busca una **agencia de consejería de créd
 
 Al bajar tus saldos, tu **utilización** baja y tu puntaje suele subir. No cierres las tarjetas que ya pagaste: mantenerlas abiertas y sin saldo ayuda. Entiende por qué en [cómo leer tu reporte de crédito](/como-leer-tu-reporte-de-credito-y-disputar-errores/).
 
-## Resumen
+## Empieza el plan este mes
 
 Lista tus deudas, paga el mínimo en todas y concentra lo extra en una: la de interés más alto (avalancha) o la más pequeña (bola de nieve). Baja tus tasas cuando puedas y no vuelvas a usar las tarjetas hasta terminar.
 

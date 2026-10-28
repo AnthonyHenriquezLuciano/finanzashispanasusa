@@ -76,7 +76,7 @@ Si te preocupa una llamada o mensaje del "IRS", lee nuestra guía de [estafas fi
 - Sigue el estado con la herramienta oficial; te explicamos cómo en [cuándo llega tu reembolso](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/).
 - Guarda copia de tu declaración y documentos al menos 3 años.
 
-## Resumen
+## Antes de pagarle a un preparador
 
 Antes de pagar a un preparador, revisa si calificas para VITA o IRS Free File. Lleva todos tus documentos, exige que el reembolso llegue a tu cuenta y nunca firmes algo que no entiendas.
 

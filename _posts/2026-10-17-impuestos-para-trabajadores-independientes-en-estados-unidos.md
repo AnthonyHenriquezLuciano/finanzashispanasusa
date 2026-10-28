@@ -57,7 +57,7 @@ Se aplica a tu ingreso total con las tasas normales por tramos, después de dedu
 
 Depende del estado donde vives. Algunos estados no tienen impuesto estatal sobre la renta.
 
-## Ejemplo con números
+## Cuánto apartar si facturas $40,000 al año
 
 Supón que en el año facturas **$40,000** limpiando casas y tienes **$6,000** en gastos del negocio:
 
@@ -112,7 +112,7 @@ Como tus ingresos varían, tu fondo de emergencia debe ser más grande: usa la c
 
 Puedes cumplir con tus impuestos usando un **ITIN**. Declarar te ayuda a tener un historial con el IRS. Consulta [cómo solicitar el ITIN paso a paso](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/).
 
-## Errores comunes
+## Fallos que provocan multas al trabajar por tu cuenta
 
 - **No declarar el efectivo.** Sigue siendo ingreso.
 - **Gastar todo lo que cobras** y encontrarte con una deuda grande en abril.
@@ -124,7 +124,7 @@ Puedes cumplir con tus impuestos usando un **ITIN**. Declarar te ayuda a tener u
 - [IRS: Centro de impuestos del trabajo por cuenta propia](https://www.irs.gov/es/businesses/small-businesses-self-employed/self-employed-individuals-tax-center)
 - [IRS: Formulario 1040-ES, impuesto estimado](https://www.irs.gov/es/forms-pubs/about-form-1040-es)
 
-## Resumen
+## Calendario fiscal del independiente
 
 Como independiente pagas 15.3 % de impuesto de trabajo por cuenta propia más el impuesto sobre la renta. Aparta el 25 %–30 % de cada cobro, deduce tus gastos con recibos y paga los estimados cada trimestre para evitar multas.
 
@@ -132,9 +132,9 @@ Como independiente pagas 15.3 % de impuesto de trabajo por cuenta propia más el
 
 **Sigue leyendo:** [cómo abrir una LLC siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/).
 
-## Guías especializadas para seguir aprendiendo
+## Herramientas para tu negocio
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Para organizar los impuestos de tu negocio durante el año:
 
 - [como llenar w4 retencion impuestos](/como-llenar-w4-retencion-impuestos/)
 - [w2 vs 1099 empleado contratista](/w2-vs-1099-empleado-contratista/)

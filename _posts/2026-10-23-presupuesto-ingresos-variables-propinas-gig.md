@@ -97,14 +97,14 @@ No tienes retención, así que el primer paso cambia: **antes de calcular tu ing
 - **Lleva un registro diario.** Te sirve para reportarlas, para tus impuestos y para demostrar ingresos si pides un préstamo o una hipoteca. Los prestamistas solo pueden usar ingresos documentados.
 - Las propinas son ingreso tributable. Si eres empleado, repórtalas a tu empleador cada mes que sumen $20 o más.
 
-## Errores frecuentes
+## Fallos al presupuestar con propinas o apps
 
 - **Presupuestar con el mejor mes.** Es la causa número uno de deudas en ingresos variables.
 - **Mezclar el dinero de impuestos con el de gastos.**
 - **Comprometerte a pagos fijos grandes** (un carro nuevo, una renta alta) basándote en una temporada buena.
 - **No tener colchón**: la tarjeta de crédito se convierte en tu colchón, y es el más caro.
 
-## Para seguir
+## Herramientas para ingresos que cambian
 
 - Revisa la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y aplícala a tu ingreso base con la calculadora de esta página.
 - Entiende tu tipo de ingreso en [W-2 vs. 1099](/w2-vs-1099-empleado-contratista/).

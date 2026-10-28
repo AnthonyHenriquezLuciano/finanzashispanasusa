@@ -88,13 +88,13 @@ Lo recomendable es mantener la utilización reportada **por debajo del 30 %**, y
 
 Si te atrasaste una sola vez por descuido, llama al emisor y pide que te reembolsen el cargo por atraso. Si tienes buen historial, es común que acepten.
 
-## Errores comunes
+## Confusiones entre corte y vencimiento
 
 - Confundir el "saldo actual" (current balance) con el "saldo del estado de cuenta" (statement balance).
 - Pensar que mantener un saldo y pagar intereses "ayuda al crédito". No es así: pagar el total no te perjudica.
 - Cerrar una tarjeta vieja sin saldo: reduce tu límite total y puede subir tu utilización.
 
-## Para seguir
+## Usa la tarjeta a tu favor
 
 - Si estás empezando, lee [tarjeta de crédito asegurada: cómo funciona](/tarjeta-de-credito-asegurada-como-funciona/).
 - Mejora tu puntaje con [cómo subir tu puntaje de crédito rápido](/como-subir-tu-puntaje-de-credito-rapido/).

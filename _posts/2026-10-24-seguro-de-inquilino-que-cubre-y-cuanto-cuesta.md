@@ -107,15 +107,15 @@ Verifica que la aseguradora tenga licencia en tu estado. Puedes consultarlo en e
 4. **Entrega tu inventario** y los recibos que tengas.
 5. Guarda los recibos de hotel y comidas si no puedes vivir en tu casa.
 
-## Errores comunes
+## Fallos que dejan reclamos sin pagar
 
 - **Creer que el seguro del dueño te cubre.**
 - **Asegurar por menos** de lo que valen tus cosas.
 - **No tener inventario** y no poder probar lo que perdiste.
 - **Elegir valor real en efectivo** para ahorrar unos dólares.
 - **No avisar a la aseguradora** de una mudanza: la póliza puede quedar sin efecto en la nueva dirección.
-- **Pagar a un "agente" sin licencia.** Lee [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Pagar a un "agente" sin licencia.** Aprende a detectar [ofertas falsas y fraudes en español](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Resumen
+## Asegura tus cosas antes de la mudanza
 
 El seguro de inquilino protege tus cosas, te protege de demandas y paga tu hotel si no puedes vivir en casa. Haz un inventario, elige costo de reemplazo y compara tres cotizaciones. Si estás buscando dónde vivir, lee también [cómo alquilar sin crédito](/como-alquilar-un-apartamento-sin-credito/) y [tus derechos con el depósito de seguridad](/deposito-seguridad-alquiler-derechos-inquilino/).

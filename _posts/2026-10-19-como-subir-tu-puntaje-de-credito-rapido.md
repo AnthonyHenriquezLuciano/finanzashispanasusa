@@ -85,7 +85,7 @@ Algunos servicios permiten sumar pagos de **renta, teléfono o servicios públic
 
 Cada solicitud de crédito nuevo genera una **consulta dura**, que puede bajar unos puntos. Espacia tus solicitudes al menos 6 meses, salvo que compares préstamos de carro o hipoteca en un período corto, que cuentan como una sola.
 
-## Ejemplo con números
+## Carlos baja su utilización del 80 % al 7.5 %
 
 Carlos tiene dos tarjetas:
 
@@ -97,9 +97,9 @@ Carlos tiene dos tarjetas:
 
 Si Carlos usa su reembolso de impuestos para pagar $1,450 antes de la fecha de corte, su saldo baja a $150 y su utilización al **7.5 %**. En el siguiente reporte, su puntaje puede subir de forma notable, sin pedir nada nuevo. Si no tiene ese dinero, puede seguir un [plan para salir de deudas](/como-salir-de-deudas-de-tarjetas-de-credito/) y verá el puntaje subir mes a mes.
 
-## Errores comunes
+## Lo que baja tu puntaje sin que lo notes
 
-- **Pagar a empresas de "reparación de crédito"** que cobran por adelantado. Es ilegal que cobren antes de hacer el trabajo, y nada de lo que hacen es imposible para ti gratis. Ver [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Contratar a quien promete "borrar" tu historial** a cambio de un pago previo. Es ilegal que cobren antes de hacer el trabajo, y nada de lo que hacen es imposible para ti gratis. Así reconoces a un [estafador que se hace pasar por agente](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - **Cerrar la tarjeta más antigua.**
 - **Usar el 100 % del límite** aunque pagues completo cada mes.
 - **Abrir muchas tarjetas** de tienda para obtener descuentos.
@@ -115,6 +115,6 @@ Si Carlos usa su reembolso de impuestos para pagar $1,450 antes de la fecha de c
 | Pagos a tiempo | Constante; se nota más a partir de 6 a 12 meses |
 | Pago atrasado | Pierde peso con los años; sale a los 7 años |
 
-## Resumen
+## Tu plan de 90 días
 
 Para subir tu puntaje rápido, baja la utilización pagando antes de la fecha de corte, corrige errores y evita solicitudes nuevas. Para un puntaje alto a largo plazo, paga siempre a tiempo y deja que tu historial crezca. Si estás empezando desde cero, lee [cómo construir crédito en EE.UU.](/como-construir-credito-en-estados-unidos-desde-cero/). Más información oficial en la [CFPB](https://www.consumerfinance.gov/es/).

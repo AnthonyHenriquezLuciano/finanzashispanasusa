@@ -99,7 +99,7 @@ Luis recibió llamadas por una deuda de $640 de una compañía de celular que nu
 
 **Nunca ignores una citación judicial.** Responde antes de la fecha límite (a veces solo 14 a 30 días). Si no lo haces, el juez puede dictar sentencia en rebeldía y permitir el embargo de tu sueldo o cuenta bancaria. Busca ayuda legal gratuita en tu condado o en organizaciones de servicios legales.
 
-## Para seguir
+## Protege tu crédito después
 
 - Organiza tus deudas reales con la calculadora de esta página y la guía para [salir de deudas de tarjetas de crédito](/como-salir-de-deudas-de-tarjetas-de-credito/).
 - Aprende a detectar fraudes en [estafas financieras comunes contra hispanos](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).

@@ -80,6 +80,6 @@ Anuncios de apartamentos baratos que no existen, o "agentes" informales de enví
 
 Reportar no afecta tu estatus migratorio y ayuda a detener a los estafadores.
 
-## Resumen
+## Tres preguntas antes de pagar a alguien
 
 Desconfía de la presión, de los pagos raros y de las amenazas. Verifica siempre por canales oficiales y reporta. Haz el test de abajo para ver qué tan protegidas están tus finanzas.

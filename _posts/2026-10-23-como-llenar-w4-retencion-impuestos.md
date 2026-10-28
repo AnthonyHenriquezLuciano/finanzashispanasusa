@@ -96,14 +96,14 @@ Algunas familias prefieren un reembolso grande como "ahorro forzado". Si es tu c
 3. Si el estimador indica que deberás o que te devolverán mucho, descarga el W-4 que te sugiere y entrégalo en Recursos Humanos o en el portal de nómina.
 4. Revisa el siguiente cheque para confirmar el cambio.
 
-## Errores comunes
+## Fallos que hacen deber en abril
 
 - **Marcar "exento" para cobrar más ahora.** Si no cumples los requisitos, deberás todo en abril y el IRS puede ordenar a tu empleador que retenga más.
 - **Poner los hijos en los dos W-4 de la pareja.** Duplica el crédito y retienes de menos.
 - **No actualizar después de casarte, divorciarte o tener un bebé.**
 - **Confundir el W-4 con el W-2.** El W-4 lo llenas tú al empezar; el W-2 te lo da tu empleador en enero con lo que ganaste y lo retenido. Si no sabes cuál te corresponde, lee [W-2 vs. 1099](/w2-vs-1099-empleado-contratista/).
 
-## Para seguir
+## Revisa tu retención cada año
 
 - Si ya presentaste tu declaración y descubriste un error, mira [cómo corregirla con el 1040-X](/corregir-declaracion-impuestos-1040x/).
 - Aprende a presentar sin pagar en [cómo declarar impuestos gratis](/como-declarar-impuestos-gratis/).

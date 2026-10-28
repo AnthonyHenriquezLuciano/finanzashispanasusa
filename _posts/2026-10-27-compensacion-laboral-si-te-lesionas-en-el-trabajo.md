@@ -45,7 +45,7 @@ Cada estado tiene su propio sistema. El [Departamento de Trabajo](https://www.do
 | **Rehabilitación laboral** | En algunos estados, capacitación para otro trabajo |
 | **Beneficios por muerte** | Pagos a la familia si el trabajador muere por la lesión |
 
-### Ejemplo con números
+### La muñeca fracturada de Miguel
 
 Miguel trabaja en construcción y gana **$900 a la semana**. Se fractura la muñeca y no puede trabajar durante **8 semanas**. Si su estado paga dos tercios del salario semanal:
 
@@ -95,7 +95,7 @@ Si de verdad trabajas por tu cuenta, no tienes compensación laboral: considera 
 - Usa tu **fondo de emergencia** para cubrir la diferencia entre tu salario y el pago de compensación. Calcula cuánto necesitas con la calculadora de abajo.
 - Si te llegan facturas médicas por la lesión, no las pagues: envíalas al seguro de compensación. Para otras facturas, lee [cómo negociar una factura médica](/como-reducir-o-negociar-facturas-medicas/).
 
-## Errores comunes
+## Fallos que hacen perder la compensación
 
 - **No reportar la lesión** por miedo o porque "no parece grave".
 - **Esperar semanas** para avisar.
@@ -104,6 +104,6 @@ Si de verdad trabajas por tu cuenta, no tienes compensación laboral: considera 
 - **Aceptar dinero en efectivo del empleador** a cambio de no reclamar.
 - **Creer que no tienes derecho por tu estatus.**
 
-## Resumen
+## Si te lesionas hoy
 
 Si te lesionas en el trabajo, busca atención médica, reporta por escrito de inmediato, presenta el reclamo dentro del plazo y guarda todos los documentos. La compensación laboral paga tus gastos médicos y parte de tu salario, y en muchos estados te protege sin importar tu estatus migratorio.

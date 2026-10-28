@@ -77,14 +77,14 @@ Lee la guía completa de [impuestos para trabajadores independientes](/impuestos
 - **Departamento de Trabajo** de tu estado o la División de Salarios y Horas del Departamento de Trabajo federal: si te deben horas extra o salario mínimo.
 - **Consulta gratuita** con organizaciones de defensa de trabajadores o abogados laborales. Tu estatus migratorio no te quita el derecho a reclamar salarios no pagados.
 
-## Errores comunes
+## Fallos al recibir un 1099
 
 - Aceptar un 1099 por la misma tarifa por hora que un empleado.
 - Gastar el dinero de impuestos y descubrir en abril que debes miles de dólares.
 - No guardar recibos de herramientas y materiales.
 - Pensar que si no recibes un formulario no tienes que declarar.
 
-## Para seguir
+## Si trabajas por tu cuenta
 
 - Si eres empleado, revisa tu [W-4 y tus retenciones](/como-llenar-w4-retencion-impuestos/).
 - Organiza ingresos variables con [presupuesto con propinas o trabajo gig](/presupuesto-ingresos-variables-propinas-gig/).

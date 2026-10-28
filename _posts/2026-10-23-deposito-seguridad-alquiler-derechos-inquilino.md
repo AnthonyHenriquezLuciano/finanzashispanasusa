@@ -83,7 +83,7 @@ Ella tenía fotos de entrada que mostraban la alfombra ya manchada y un video de
 
 Algunos edificios ofrecen un **seguro de depósito** (pagas una cuota mensual o anual no reembolsable en lugar del depósito). Baja el pago inicial, pero **no recuperas nada** y puedes seguir siendo responsable de los daños. Compara el costo total antes de elegir.
 
-## Para seguir
+## Más guías para inquilinos
 
 - Si no tienes historial, lee [cómo alquilar un apartamento sin crédito](/como-alquilar-un-apartamento-sin-credito/).
 - Protege tus cosas con un [seguro de inquilino](/seguro-de-inquilino-que-cubre-y-cuanto-cuesta/).

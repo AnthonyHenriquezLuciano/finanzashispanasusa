@@ -68,7 +68,7 @@ Un buen límite es que la renta no pase del **30 % de tu ingreso bruto**. Con la
 
 Más señales de alerta en nuestra guía de [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Resumen
+## Llega preparado a la cita con el arrendador
 
 Sin crédito sí se puede alquilar: llega con pruebas de ingreso, ofrece codeudor o depósito mayor, conoce tus derechos y nunca pagues sin verificar. Y empieza hoy a construir crédito para tu próximo contrato o tu [primera casa](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).
 

@@ -92,7 +92,7 @@ Con la ayuda, pasaron de necesitar casi $17,000 a menos de $2,000, más el costo
 - Te presionan para firmar rápido o para transferir dinero por wire a una cuenta personal. Antes de enviar el dinero del cierre, **llama a la compañía de título a un número que verifiques tú mismo**: el fraude de instrucciones de wire es común en compras de vivienda.
 - Prometen aprobación sin revisar tu crédito ni tus ingresos.
 
-## Para seguir
+## Prepárate para pedir la ayuda
 
 - Calcula tu presupuesto real con la calculadora de esta página y con [cuánta casa puedo pagar](/cuanta-casa-puedo-pagar/).
 - Conoce todos los gastos de ser dueño en [el costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/).

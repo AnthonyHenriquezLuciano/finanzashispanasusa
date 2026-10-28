@@ -29,7 +29,7 @@ Tener casa propia es una de las metas más comunes en nuestra comunidad. Con un 
 
 - **Crédito:** construye o mejora tu puntaje. Revisa tu [reporte de crédito](/como-leer-tu-reporte-de-credito-y-disputar-errores/) y paga a tiempo. Si estás empezando, lee [cómo construir crédito desde cero](/como-construir-credito-en-estados-unidos-desde-cero/).
 - **Deudas:** los prestamistas miran tu **relación deuda-ingreso (DTI)**. Bájala con un [plan para salir de deudas](/como-salir-de-deudas-de-tarjetas-de-credito/).
-- **Impuestos:** declara todos tus ingresos. Si trabajas por tu cuenta, los prestamistas usan tus declaraciones de 2 años para calcular tu ingreso. Ver [impuestos para independientes](/impuestos-para-trabajadores-independientes-en-estados-unidos/).
+- **Impuestos:** declara todos tus ingresos. Si trabajas por tu cuenta, los prestamistas usan tus declaraciones de 2 años para calcular tu ingreso. Así se calcula en [los impuestos del trabajador por cuenta propia](/impuestos-para-trabajadores-independientes-en-estados-unidos/).
 - **Ahorro:** separa enganche, costos de cierre y un colchón. Guárdalo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 
 ## Paso 2: conoce los tipos de préstamo
@@ -76,15 +76,15 @@ Tener un fondo de emergencia aparte es clave: la casa trae reparaciones inespera
 - **Programas estatales** de ayuda para el enganche (Housing Finance Agency de tu estado).
 - **CFPB:** guías y herramientas para entender tu hipoteca.
 
-## Resumen
+## Tu ruta hacia la primera casa
 
 Prepara crédito, deudas y ahorro con tiempo, elige el préstamo según tu situación (FHA, convencional o ITIN), compara prestamistas y cuida cada paso del cierre. Mientras ahorras, aprende a [alquilar con o sin crédito](/como-alquilar-un-apartamento-sin-credito/).
 
 **Sigue leyendo:** [seguro de vida: cuánto necesitas](/seguro-de-vida-cuanto-necesitas-y-que-tipo-elegir/) y [cómo subir tu puntaje antes de pedir la hipoteca](/como-subir-tu-puntaje-de-credito-rapido/).
 
-## Guías especializadas para seguir aprendiendo
+## Siguiente paso según tu etapa
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Según en qué etapa estés, estas son las lecturas que siguen:
 
 - [costo real comprar casa hipoteca impuestos seguro](/costo-real-comprar-casa-hipoteca-impuestos-seguro/)
 - [debt to income dti hipoteca como calcular](/debt-to-income-dti-hipoteca-como-calcular/)

@@ -83,7 +83,7 @@ Desde entonces, el IRS le asigna un IP PIN cada año. Ana también pidió uno pa
 
 Repasa otras estafas en [estafas financieras comunes contra hispanos](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Para seguir
+## Protege tu declaración
 
 - Si tu declaración tuvo un error, aprende a [corregirla con el 1040-X](/corregir-declaracion-impuestos-1040x/).
 - Aprende la diferencia entre [ITIN y SSN](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/).

@@ -65,7 +65,7 @@ Haz una lista con lo indispensable:
 | Pagos mínimos de deudas | Pagos extra a deudas |
 | Remesas reducidas, si tu familia depende de ti | Remesas más altas de lo habitual |
 
-### Ejemplo con números
+### El presupuesto de supervivencia de Luis
 
 Luis ganaba $3,600 netos al mes. Ahora recibe unos $1,700 al mes de desempleo y tiene **$6,000** en su fondo de emergencia.
 
@@ -99,7 +99,7 @@ Pide todo acuerdo por escrito. Si ya tienes deudas en cobranza, lee [qué hacer 
 - **Préstamos de día de pago y de título de carro:** sus intereses te hunden más. Si necesitas un préstamo, lee [préstamo personal con ITIN y opciones seguras](/prestamo-personal-con-itin/).
 - **Sacar dinero del 401(k) o IRA** antes de agotar otras opciones: impuestos y multa.
 - **Usar tarjetas de crédito para vivir** si todavía tienes ahorros.
-- **Ofertas de trabajo desde casa** que piden pagar por adelantado o depositar cheques. Ver [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Ofertas de trabajo desde casa** que piden pagar por adelantado o depositar cheques. Desconfía de [las ofertas de empleo que esconden un fraude](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - **Esconder la situación a tu familia:** planificar juntos reduce gastos más rápido.
 
 ## Busca ingresos mientras tanto
@@ -110,11 +110,11 @@ Pide todo acuerdo por escrito. Si ya tienes deudas en cobranza, lee [qué hacer 
 
 ## Cuando vuelvas a trabajar
 
-1. **Reconstruye tu fondo de emergencia** primero. Guárdalo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
+1. **Reconstruye tu fondo de emergencia** primero. Ponlo a ganar intereses en una [cuenta de ahorro de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 2. **Paga las deudas** que crecieron durante el desempleo.
 3. **Avisa al programa de desempleo** de inmediato para no recibir pagos de más, que luego tendrías que devolver.
 
-## Resumen
+## Lista para la primera semana sin empleo
 
 Si pierdes tu trabajo: cobra lo que te deben, solicita desempleo la primera semana, protege tu seguro médico, recorta a un presupuesto de supervivencia y habla con tus acreedores antes de atrasarte. Y cuando vuelvas a trabajar, reconstruye tu [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/) para la próxima vez.
 

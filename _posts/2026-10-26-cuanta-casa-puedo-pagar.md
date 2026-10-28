@@ -33,7 +33,7 @@ La **relación deuda-ingreso** (DTI) es tu pago mensual de deudas dividido entre
 
 Los préstamos FHA y algunos convencionales pueden aprobar DTI más altos con buen crédito o ahorros. Te explicamos el cálculo en detalle en [qué es el DTI y cómo calcularlo](/debt-to-income-dti-hipoteca-como-calcular/).
 
-## Ejemplo con números
+## El presupuesto de la familia Pérez
 
 La familia Pérez gana **$66,000 al año** entre los dos: **$5,500 al mes** brutos. Pagan **$450 al mes** de carro y tarjetas. Tienen **$15,000** para el enganche. La tasa es del **6.5 %** a 30 años, y los impuestos y el seguro de la casa suman el 1.6 % del precio al año.
 
@@ -85,7 +85,7 @@ El banco calcula con el ingreso bruto, pero tú vives con el neto. Una prueba se
 
 Si declaras con ITIN, las reglas y tasas son distintas; lee [cómo comprar casa siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).
 
-## Errores comunes
+## Fallos al fijar el precio máximo
 
 - **Comprar al máximo de lo aprobado** y quedarse sin ahorro.
 - **Olvidar el seguro hipotecario y el HOA** al calcular la cuota.
@@ -93,6 +93,6 @@ Si declaras con ITIN, las reglas y tasas son distintas; lee [cómo comprar casa 
 - **Gastar todo el ahorro en el enganche** sin dejar un [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/).
 - **Elegir una tasa ajustable** solo para calificar a una casa más cara. Lee [tasa fija vs. ajustable](/hipoteca-tasa-fija-vs-ajustable-arm/).
 
-## Resumen
+## Tu presupuesto de casa en tres números
 
 Calcula tu pago máximo con la regla 28/36, réstale tus deudas, y deja que la tasa y tu enganche decidan el precio. Antes de buscar casa, paga deudas, sube tu puntaje y deja un colchón. Las cifras de esta guía son aproximadas; tu prestamista hará el cálculo oficial. Más información en la [CFPB](https://www.consumerfinance.gov/es/obtener-respuestas/).

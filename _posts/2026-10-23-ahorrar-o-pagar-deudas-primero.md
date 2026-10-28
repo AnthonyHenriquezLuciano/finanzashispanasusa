@@ -78,7 +78,7 @@ Si en vez de eso hubiera repartido 50/50 entre ahorro y deuda desde el primer d�
 - **Tarjetas con 0 % promocional:** si la promoción dura 15 meses, divide el saldo entre los meses restantes y paga esa cantidad; el dinero adicional puede ir a ahorro. Ojo: algunas tarjetas de tiendas cobran **interés diferido** retroactivo si queda un dólar al final.
 - **Deudas que puedes negociar:** facturas médicas y algunas cuentas antiguas suelen aceptar planes sin interés o descuentos. Revisa [cómo negociar facturas médicas](/como-reducir-o-negociar-facturas-medicas/).
 
-## Errores frecuentes
+## Fallos al repartir dinero entre ahorro y deuda
 
 - **Dejar de pagar mínimos para ahorrar más rápido.** Los cargos por atraso y la caída del puntaje cuestan más de lo que ganas.
 - **Usar la tarjeta mientras la pagas.** Si sigues cargando gastos, la deuda no baja. Paga con débito o efectivo durante el plan.
@@ -89,7 +89,7 @@ Si en vez de eso hubiera repartido 50/50 entre ahorro y deuda desde el primer d�
 
 La [Oficina para la Protección Financiera del Consumidor (CFPB)](https://www.consumerfinance.gov/es/) tiene herramientas en español para organizar deudas y elegir un asesor de crédito legítimo. La [FTC](https://consumidor.ftc.gov/) publica alertas sobre fraudes de alivio de deudas. Las tasas de ejemplo de esta guía son ilustrativas: revisa el APR real en tu estado de cuenta.
 
-## Para seguir
+## Arma tu plan de deuda y ahorro
 
 - Arma el plan de pagos en [cómo salir de deudas de tarjetas de crédito](/como-salir-de-deudas-de-tarjetas-de-credito/).
 - Define tu meta final en [fondo de emergencia: cuánto ahorrar y dónde guardarlo](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/).

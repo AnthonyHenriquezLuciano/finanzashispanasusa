@@ -88,9 +88,9 @@ Un wire internacional desde tu banco puede costar $35 a $50, más un margen en e
 
 Lee más en [estafas de remesas y transferencias internacionales](/estafas-remesas-transferencias-internacionales/).
 
-## Para seguir
+## Mueve tu dinero con menos cargos
 
-- Organiza tus cuentas con [cuenta corriente vs. cuenta de ahorros](/cuenta-corriente-vs-cuenta-ahorros-estados-unidos/).
+- Decide qué cuenta usar para cada transferencia con [la diferencia entre cuenta corriente y de ahorros](/cuenta-corriente-vs-cuenta-ahorros-estados-unidos/).
 - Si compras casa, revisa [el costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/).
 - Calcula cuánto llega a tu familia con la calculadora de remesas de esta página.
 

@@ -70,6 +70,6 @@ Las estafas con cheques son muy comunes:
 
 Aunque el banco te deje usar el dinero en pocos días, si el cheque es falso **tú deberás devolverlo**. Lee más en [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Resumen
+## La opción más barata para tu próximo cheque
 
 Para cambiar un cheque sin cuenta, ve primero al banco emisor o a una tienda grande y evita los check cashers. Mejor aún: abre una cuenta con depósito directo y ahórrate esas comisiones para siempre. Si envías dinero a tu país, compara costos con la calculadora de abajo.

@@ -74,7 +74,7 @@ Sí: pérdida de empleo, reparación necesaria del carro o la casa, gastos médi
 
 No: vacaciones, ofertas, regalos o compras planeadas. Para eso crea un ahorro aparte.
 
-## Resumen
+## Tu meta y tu primer paso
 
 Junta primero $1,000, después de 3 a 6 meses de gastos esenciales, guárdalo en una cuenta de ahorro de alto rendimiento asegurada por la FDIC y automatiza el ahorro. Es el seguro que te evita endeudarte cuando algo sale mal.
 

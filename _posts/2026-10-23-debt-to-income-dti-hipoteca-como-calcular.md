@@ -91,14 +91,14 @@ Son referencias generales. Cada prestamista puede tener reglas más estrictas.
 
 Un DTI del 43 % puede aprobarse, pero dejar a una familia sin margen si también envía remesas, paga guardería y tiene ingresos variables. Antes de aceptar la cuota máxima aprobada, haz tu presupuesto real con todos los gastos. Te ayudamos en [el costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/) y en [cuánta casa puedo pagar](/cuanta-casa-puedo-pagar/).
 
-## Errores comunes
+## Fallos al calcular tu DTI
 
 - Calcular con el ingreso neto en vez del bruto (o al revés).
 - Olvidar los impuestos y el seguro de la casa en la cuota.
 - Pensar que una tarjeta pagada al total cada mes no cuenta: el banco usa el pago mínimo reportado.
 - Cambiar de empleo o pasar a 1099 justo antes de solicitar. Puede obligarte a esperar hasta tener historial.
 
-## Para seguir
+## Baja tu DTI antes de la hipoteca
 
 - Calcula tu cuota con la calculadora de esta página.
 - Si te faltan fondos para el cierre, revisa las [ayudas para el pago inicial](/ayuda-pago-inicial-comprar-casa-down-payment/).

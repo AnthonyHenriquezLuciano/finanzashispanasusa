@@ -80,7 +80,7 @@ El IRS indica alrededor de **7 semanas** y, del 15 de enero al 30 de abril o par
 
 Si no usas tu ITIN en una declaración federal durante **tres años consecutivos**, vence al final del tercer año. Para renovarlo se usa de nuevo el Formulario W-7. Renuévalo antes de declarar para evitar retrasos en tu reembolso.
 
-## Errores frecuentes
+## Fallos que hacen rechazar el W-7
 
 - Pagar a "notarios" que no son agentes autorizados. Usa un CAA de la lista del IRS o un preparador de impuestos con PTIN.
 - Enviar fotocopias simples de los documentos.

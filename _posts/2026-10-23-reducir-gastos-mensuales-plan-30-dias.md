@@ -39,7 +39,7 @@ Sin datos, cualquier recorte es una adivinanza.
 Es la semana de las victorias rápidas.
 
 - **Suscripciones**: streaming, música, apps, almacenamiento en la nube, gimnasio, cajas de comida, membresías de tiendas. Cancela las que no usaste en el último mes. Si tienes varias plataformas de video, quédate con una y rota cada pocos meses.
-- **Cargos bancarios**: cargos mensuales de mantenimiento, sobregiros, cajeros fuera de la red. Lee [cómo evitar cargos por sobregiro](/evitar-cargos-sobregiro-cuenta-bancaria/).
+- **Cargos bancarios**: cargos mensuales de mantenimiento, sobregiros, cajeros fuera de la red. Revisa también [qué hacer para no pagar sobregiros](/evitar-cargos-sobregiro-cuenta-bancaria/).
 - **Intereses de tarjetas**: si pagas intereses cada mes, ese es probablemente tu mayor "gasto invisible".
 - **Cargos de remesas**: compara si otra empresa entrega más pesos por el mismo dinero. Ver [tipo de cambio en remesas](/tipo-cambio-remesas-costo-real-comparar/).
 
@@ -89,7 +89,7 @@ $327 al mes son **$3,924 al año**. La familia Morales programó una transferenc
 Si recortas gastos pero el dinero se queda en tu cuenta corriente, desaparece en compras pequeñas. Al terminar los 30 días:
 
 1. Suma lo que liberaste.
-2. Programa una **transferencia automática** de esa cantidad a ahorro o a tu deuda más cara. Ver [ahorro automático en cada cheque](/automatizar-ahorro-con-cada-cheque/).
+2. Programa una **transferencia automática** de esa cantidad a ahorro o a tu deuda más cara. Lo que recortes, muévelo con un [ahorro automático el día de pago](/automatizar-ahorro-con-cada-cheque/).
 3. Revisa el plan cada tres meses.
 
 ## Lo que no conviene recortar
@@ -99,7 +99,7 @@ Si recortas gastos pero el dinero se queda en tu cuenta corriente, desaparece en
 - **Mantenimiento básico del carro** si lo necesitas para trabajar: un cambio de aceite es más barato que un motor.
 - **Pequeños gustos** que te mantienen motivado. Un plan demasiado estricto se abandona.
 
-## Para seguir
+## Qué hacer con lo que ahorres
 
 - Pon todo en orden con la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y la calculadora de esta página.
 - Si tus ingresos cambian cada mes, lee [presupuesto con ingresos variables](/presupuesto-ingresos-variables-propinas-gig/).

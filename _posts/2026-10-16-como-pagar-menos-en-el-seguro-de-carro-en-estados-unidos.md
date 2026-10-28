@@ -75,7 +75,7 @@ Varios estados emiten licencias de conducir a residentes sin importar su estatus
 
 El seguro de carro es una **necesidad** dentro de la regla 50/30/20. Usa la calculadora de abajo para ver cuánto puedes destinar sin dejar de ahorrar, y lee [cómo hacer un presupuesto mensual](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) para ajustarlo.
 
-## Resumen
+## Cotiza esta semana
 
 Conoce los mínimos de tu estado, compara al menos tres cotizaciones con los mismos límites, pide todos los descuentos y ajusta el deducible a lo que tengas ahorrado. Revisarlo una vez al año puede ahorrarte cientos de dólares.
 

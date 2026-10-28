@@ -42,7 +42,7 @@ El costo total tiene dos partes:
 1. **La comisión:** lo que te cobran por enviar, en dólares.
 2. **El margen del tipo de cambio:** la diferencia entre el tipo de cambio que te dan y el tipo de cambio del mercado.
 
-### Ejemplo con números
+### Servicio "sin comisión" vs. con comisión
 
 Quieres enviar **$500**. Supón que el tipo de cambio del mercado ese día es de 18.50 pesos por dólar.
 
@@ -90,13 +90,13 @@ La regla de remesas de la [CFPB](https://www.consumerfinance.gov/es/obtener-resp
 - **Abre una cuenta de bajo costo para tu familia** en México si cobran en efectivo con frecuencia.
 - **Desconfía de agentes informales** que prometen un tipo de cambio muy alto: no tienes protección si el dinero no llega.
 
-## Errores comunes
+## Fallos que hacen llegar menos pesos
 
 - **Mirar solo la comisión** y no el tipo de cambio.
 - **Escribir mal la CLABE** o el nombre del beneficiario, que debe coincidir con su identificación.
 - **Pagar en efectivo** cuando podrías usar tu cuenta y ahorrarte el 1 %.
 - **Usar tarjeta de crédito** y pagar intereses y cargos de adelanto.
-- **Enviar dinero a alguien que conociste en línea** o por una "emergencia" que no puedes verificar. Lee [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Enviar dinero a alguien que conociste en línea** o por una "emergencia" que no puedes verificar. Mira cómo operan las [estafas con préstamos y pagos por adelantado](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
 ## Planifica tus envíos
 
@@ -104,6 +104,6 @@ Las remesas son parte de tu presupuesto, no lo que sobra. Inclúyelas en tu [pre
 
 Para la guía general con todos los países y más detalle sobre el impuesto del 1 %, lee [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
 
-## Resumen
+## Rutina para cada envío a México
 
 Para enviar dinero a México pagando menos, compara cuántos pesos llegan en dos o tres servicios, paga desde tu cuenta bancaria, deposita a cuenta cuando se pueda y guarda tu recibo. Usa la calculadora de abajo cada vez que envíes.

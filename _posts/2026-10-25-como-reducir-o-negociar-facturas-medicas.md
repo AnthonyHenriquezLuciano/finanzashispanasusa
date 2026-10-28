@@ -59,7 +59,7 @@ Si no calificas para la ayuda, o si queda un saldo, negocia:
 3. **Pide un plan de pagos sin intereses** que te alcance. Muchos hospitales lo aceptan.
 4. **Pide todo por escrito** antes de pagar.
 
-### Ejemplo con números
+### La factura de emergencias de Rosa
 
 Rosa recibe una factura de **$6,200** por una visita a emergencias sin seguro.
 
@@ -99,7 +99,7 @@ Una regla federal de 2025 que buscaba eliminar casi todas las deudas médicas de
 - **Pide un estimado de buena fe** antes de procedimientos programados si no tienes seguro.
 - **Ten un [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/)** que cubra al menos tu deducible.
 
-## Errores comunes
+## Fallos que encarecen una factura médica
 
 - **Ignorar la factura** hasta que llega a cobranza.
 - **Pagarla con tarjeta de crédito** de interés alto.
@@ -107,6 +107,6 @@ Una regla federal de 2025 que buscaba eliminar casi todas las deudas médicas de
 - **No preguntar por la ayuda financiera** por creer que no calificas.
 - **Aceptar acuerdos verbales** sin nada por escrito.
 
-## Resumen
+## Guion para tu llamada al hospital
 
 Ante una factura médica: no pagues de inmediato, pide la factura detallada, solicita la ayuda financiera del hospital y negocia un descuento o un plan sin intereses. Así una factura de miles de dólares puede quedar en una fracción.

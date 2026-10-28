@@ -91,7 +91,7 @@ Si debías dinero, **paga cuanto antes** con IRS Direct Pay o tu cuenta en líne
 - **Olvidar la declaración estatal.**
 - **Enmendar por un error que el IRS ya corrigió** después de enviarte una carta. Lee siempre las cartas del IRS antes de actuar, y desconfía de llamadas o mensajes de texto: el IRS inicia el contacto por correo postal.
 
-## Para seguir
+## Otros trámites con el IRS
 
 - Evita errores el próximo año revisando tu [W-4 y tus retenciones](/como-llenar-w4-retencion-impuestos/).
 - Protege tu número tributario con el [IP PIN del IRS](/ip-pin-irs-robo-identidad-impuestos/).

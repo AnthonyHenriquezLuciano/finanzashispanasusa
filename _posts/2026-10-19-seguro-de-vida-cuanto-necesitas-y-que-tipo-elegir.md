@@ -71,7 +71,7 @@ Suma estas cuatro partidas como estimación inicial. **Evita duplicar gastos:** 
 
 Resta lo que ya tienes: ahorros, seguro del trabajo y otras pólizas.
 
-### Ejemplo con números
+### José calcula su cobertura con DIME
 
 José gana $45,000 al año, tiene dos hijos de 3 y 6 años y una hipoteca.
 
@@ -110,13 +110,13 @@ Usa la calculadora 50/30/20 de abajo para ver dónde encaja la prima en tus "nec
 
 Verifica que el agente y la compañía tengan licencia en el departamento de seguros de tu estado. Puedes buscarlos a través de la [NAIC](https://content.naic.org/state-insurance-departments).
 
-## Errores comunes
+## Fallos que dejan a la familia sin el dinero
 
 - **Depender solo del seguro del trabajo.**
 - **Comprar vida entera** cuando lo que necesitas es mucha cobertura barata.
 - **Nombrar a un menor como beneficiario directo** sin tutor ni fideicomiso.
 - **Dejar de pagar la prima:** la póliza puede cancelarse.
-- **Comprar a un vendedor que presiona** o que te pide pagar en efectivo sin recibo. Lee [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Comprar a un vendedor que presiona** o que te pide pagar en efectivo sin recibo. Conoce los [fraudes más comunes contra inmigrantes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - **No actualizar beneficiarios** después de un divorcio, un matrimonio o un nacimiento.
 
 ## Seguro de vida y tu plan financiero
@@ -140,6 +140,6 @@ El cálculo de 10–12 veces el ingreso es solo una **regla aproximada**, no una
 
 **Ejemplo:** si necesitas cobertura por 15 años mientras tus hijos dependen de ti, compara pólizas con plazos suficientes, condiciones equivalentes y primas que puedas seguir pagando. Las cifras de prima deben provenir de **cotizaciones reales**, no de estimaciones inventadas.
 
-## Resumen
+## Compra tu póliza en una semana
 
 Si alguien depende de ti, compra un seguro a término con una cobertura calculada con el método DIME, compara tres cotizaciones y nombra bien a tus beneficiarios. Es una de las decisiones más baratas que más protegen a tu familia.

@@ -57,7 +57,7 @@ El **Mercado** es donde compras un plan privado con ayuda del gobierno según tu
 | Coaseguro | Porcentaje del costo que pagas después del deducible |
 | Máximo de bolsillo | Lo máximo que pagarás en el año; después el seguro cubre el 100 % de lo cubierto |
 
-### Ejemplo con números
+### Bronce vs. Plata en un año con cirugía
 
 Imagina dos planes para una familia:
 
@@ -99,7 +99,7 @@ Aunque no califiques a nada, hay atención médica a bajo costo:
 - **Negocia:** muchos hospitales aceptan planes de pago sin intereses o descuentos por pago en efectivo.
 - **Guarda un fondo para salud:** un deducible alto es más fácil de manejar con ahorros. Calcula tu meta con la calculadora de abajo y guárdalo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 
-## Errores comunes
+## Fallos que dejan a familias sin cobertura
 
 - **No inscribirse a tiempo** y quedarse sin cobertura todo el año.
 - **Elegir solo por la prima** sin mirar el deducible ni el máximo de bolsillo.
@@ -107,7 +107,7 @@ Aunque no califiques a nada, hay atención médica a bajo costo:
 - **Evitar la atención por miedo** cuando existen centros comunitarios que atienden a todos.
 - **Pagar a "gestores"** que cobran por inscribirte. La ayuda oficial es gratis; cuidado con las [estafas comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Resumen
+## Qué hacer en la próxima inscripción abierta
 
 Si tienes presencia legal, revisa el Mercado durante la inscripción abierta y compara planes por su costo total. Si tienes ingresos bajos, solicita Medicaid o CHIP, sobre todo para tus hijos. Y si no calificas a nada, usa centros de salud comunitarios y programas de ayuda del hospital. Mientras tanto, ten un [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/) para imprevistos médicos.
 

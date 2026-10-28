@@ -85,7 +85,7 @@ Puedes pedir al emisor (o al titular) que te quite como usuario autorizado. Si l
 
 Ser **codeudor** es mucho más riesgoso que agregar a alguien como usuario autorizado: si el deudor no paga, el codeudor debe pagar todo.
 
-## Para seguir
+## Otras formas de subir tu crédito
 
 - El plan completo para empezar: [cómo construir crédito desde cero](/como-construir-credito-en-estados-unidos-desde-cero/).
 - Sube tu puntaje más rápido con [estos pasos](/como-subir-tu-puntaje-de-credito-rapido/).

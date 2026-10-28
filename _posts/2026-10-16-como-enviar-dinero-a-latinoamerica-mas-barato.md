@@ -83,7 +83,7 @@ Si una empresa no resuelve tu reclamo, puedes presentar una queja en [consumerfi
 - Desconfía de urgencias: "familiar detenido", "premio por cobrar", "pago para liberar un paquete".
 - Las agencias del gobierno no piden pagos por remesas ni tarjetas de regalo.
 
-## Resumen
+## Antes de tu próximo envío
 
 Compara lo que recibe tu familia, no la comisión anunciada. Paga desde una cuenta bancaria para evitar el impuesto del 1 %, guarda tu recibo y recuerda que tienes 30 minutos para cancelar y 180 días para reclamar.
 
@@ -91,9 +91,9 @@ Compara lo que recibe tu familia, no la comisión anunciada. Paga desde una cuen
 
 **Sigue leyendo:** [cómo enviar dinero a México pagando menos](/como-enviar-dinero-a-mexico/).
 
-## Guías especializadas para seguir aprendiendo
+## Guías por país y por problema
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Si envías a un país concreto o tuviste un problema con un envío, empieza aquí:
 
 - [enviar dinero republica dominicana desde usa](/enviar-dinero-republica-dominicana-desde-usa/)
 - [enviar dinero colombia desde estados unidos](/enviar-dinero-colombia-desde-estados-unidos/)

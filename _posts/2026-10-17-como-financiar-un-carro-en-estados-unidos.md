@@ -82,6 +82,6 @@ La cuota de 84 meses parece cómoda, pero pagas unos **$3,100 más** que a 48 me
 - Un **enganche mayor** o un **codeudor** mejoran tu tasa.
 - Considera un carro usado certificado más barato y refinanciar en 6 a 12 meses cuando suba tu puntaje.
 
-## Resumen
+## Checklist antes de firmar en el concesionario
 
 Fija tu presupuesto total, revisa tu crédito, llega preaprobado, negocia el precio final y evita plazos largos. Ahorrar unos meses para un enganche mayor puede ahorrarte miles.

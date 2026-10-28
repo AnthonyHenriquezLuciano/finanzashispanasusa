@@ -92,14 +92,14 @@ Si trabajas por propinas, por temporada o con apps, los sinking funds son todav�
 
 Si eres trabajador independiente, uno de tus fondos más importantes debe ser **impuestos**: aparta entre el 25 % y el 30 % de cada pago para los [pagos trimestrales del 1040-ES](/pagos-trimestrales-impuestos-1040-es/).
 
-## Errores frecuentes
+## Fallos al armar fondos para gastos irregulares
 
 - **Subestimar los costos.** Revisa lo que gastaste realmente el año pasado y suma un 10 % por inflación.
 - **Usar el fondo de Navidad para otra cosa** "porque falta mucho". Si de verdad lo necesitas, regístralo como préstamo y devuélvelo.
 - **Crear 15 fondos de $10.** Mejor pocos y significativos.
 - **Olvidar ajustar** cuando un precio cambia, por ejemplo cuando renuevas el seguro.
 
-## Para seguir
+## Automatiza tus fondos
 
 - Integra tus fondos en tu [presupuesto 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) con la calculadora de esta página.
 - Si quieres liberar dinero para tus fondos, prueba el [plan de 30 días para reducir gastos](/reducir-gastos-mensuales-plan-30-dias/).

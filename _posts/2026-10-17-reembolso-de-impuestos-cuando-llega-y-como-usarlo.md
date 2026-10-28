@@ -76,6 +76,6 @@ Decide el plan **antes** de que llegue el dinero. Un reparto que funciona:
 
 Un reembolso grande significa que pagaste de más durante el año y el gobierno te devuelve ese dinero sin intereses. Si prefieres tener ese dinero cada mes, puedes ajustar tu retención con un nuevo **Formulario W-4** en tu trabajo. Si trabajas por tu cuenta, ajusta tus pagos estimados.
 
-## Resumen
+## Plan para tu próximo reembolso
 
 Declara en línea con depósito directo, rastrea con la herramienta oficial y planifica el uso del dinero antes de recibirlo: primero emergencias y deudas caras, después metas.

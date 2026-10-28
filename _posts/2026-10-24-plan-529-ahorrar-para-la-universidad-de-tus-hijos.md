@@ -87,7 +87,7 @@ Ahorrar para la universidad es importante, pero no debe ir antes que tu propia e
 3. Ahorra para tu retiro: tu hijo puede pedir préstamos para estudiar, pero tú no puedes pedir prestado para jubilarte. Lee [cómo ahorrar para el retiro sin 401(k)](/como-ahorrar-para-el-retiro-sin-401k-ira/).
 4. Después, abre el 529 y automatiza el aporte, aunque sea pequeño.
 
-## Errores comunes
+## Fallos que restan valor al 529
 
 - **Esperar a ganar más para empezar** y perder años de crecimiento.
 - **Dejar el dinero en efectivo** dentro del plan sin invertirlo.
@@ -96,6 +96,8 @@ Ahorrar para la universidad es importante, pero no debe ir antes que tu propia e
 - **Ignorar la deducción estatal** al elegir un plan de otro estado.
 - **Ahorrar para la universidad antes que para tu retiro.**
 
-## Resumen
+## Abre el 529 cuando tengas tu base
 
 Un plan 529 hace que cada dólar ahorrado para los estudios rinda más. Abre uno cuando tengas tus bases cubiertas, elige un portafolio por edad con costos bajos, automatiza un aporte mensual y pide a la familia que regale aportes en vez de juguetes. Y si tu hijo no estudia, el dinero puede pasar a otro familiar o a una IRA Roth.
+
+**Sigue leyendo:** [FAFSA cuando tus padres no tienen Seguro Social](/fafsa-para-hijos-de-inmigrantes/).

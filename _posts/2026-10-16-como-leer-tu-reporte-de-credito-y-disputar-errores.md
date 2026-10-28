@@ -97,7 +97,7 @@ La Ley de Informe Justo de Crédito (FCRA) te da derecho a disputar información
 - Considera **congelar tu crédito** en los tres burós. Es gratis y evita que abran cuentas a tu nombre. Puedes descongelarlo cuando necesites solicitar crédito.
 - Reporta el caso en **[IdentityTheft.gov](https://www.identitytheft.gov/es)**, que te da un plan de recuperación.
 
-## Errores comunes
+## Fallos al disputar que hacen perder el caso
 
 - **Revisar solo un buró.** El error puede estar en otro.
 - **Disputar información correcta** esperando que desaparezca. No funciona y hace perder tiempo.
@@ -106,7 +106,7 @@ La Ley de Informe Justo de Crédito (FCRA) te da derecho a disputar información
 
 Si todavía estás empezando, lee [cómo construir crédito desde cero](/como-construir-credito-en-estados-unidos-desde-cero/). Y si usas ITIN, revisa [qué es el ITIN y cómo se solicita](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/).
 
-## Resumen
+## Revisión anual de tu reporte en 20 minutos
 
 Descarga tus tres reportes gratis en AnnualCreditReport.com, revisa cada sección, marca lo que esté mal y dispútalo tú mismo con pruebas. Es gratis, y un solo error corregido puede subir tu puntaje lo suficiente para conseguir una mejor tasa.
 

@@ -93,14 +93,14 @@ Guarda la confirmación de cada pago. Al presentar tu declaración, sumarás los
 4. Lleva el registro de **gastos deducibles** desde el primer día: millas (con fecha, origen, destino y motivo), herramientas, uniformes, parte del celular.
 5. En enero, revisa si sobró dinero en la cuenta: será tu "bono" después de presentar.
 
-## Errores comunes
+## Fallos con los pagos estimados
 
 - **Gastar todo y esperar a abril.** Deber $7,000 u $8,000 de golpe lleva a planes de pago con intereses.
 - **Olvidar el impuesto de trabajo por cuenta propia:** se paga aunque no debas impuesto sobre la renta.
 - **No guardar recibos ni registro de millas.**
 - **Pagar el año equivocado** en Direct Pay (por ejemplo, el pago de enero corresponde al año anterior).
 
-## Para seguir
+## Más sobre impuestos por cuenta propia
 
 - Entiende tu situación en [W-2 vs. 1099: empleado o contratista](/w2-vs-1099-empleado-contratista/).
 - Conoce deducciones y obligaciones en [impuestos para trabajadores independientes](/impuestos-para-trabajadores-independientes-en-estados-unidos/).

@@ -86,7 +86,7 @@ Durante los primeros 7 años, la ARM ahorra unos **$145 al mes**, unos **$12,180
 5. ¿Hay penalidad por pago anticipado?
 6. ¿La aprobación se basa en la tasa inicial o en una tasa más alta? (Muchos prestamistas califican al comprador con una tasa mayor para protegerlo.)
 
-## Errores comunes
+## Fallos al elegir el tipo de tasa
 
 - **Elegir una ARM solo porque "luego refinancio".** Refinanciar requiere calificar de nuevo y pagar costos de cierre, y las tasas pueden no bajar.
 - **Mirar solo la cuota inicial.** Compara el costo total en el plazo que de verdad piensas quedarte.
@@ -97,7 +97,7 @@ Durante los primeros 7 años, la ARM ahorra unos **$145 al mes**, unos **$12,180
 
 Si quieres una cuota más baja con tasa fija, puedes pagar **puntos de descuento** al cierre: cada punto cuesta el 1 % del préstamo y baja la tasa (cuánto depende del prestamista). Calcula el punto de equilibrio: costo de los puntos ÷ ahorro mensual = meses para recuperarlo. Si piensas quedarte más tiempo que eso, puede valer la pena.
 
-## Para seguir
+## Antes de elegir tu hipoteca
 
 - Calcula tu cuota con la calculadora de esta página y la guía [cuánta casa puedo pagar](/cuanta-casa-puedo-pagar/).
 - Suma todos los costos en [el costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/).

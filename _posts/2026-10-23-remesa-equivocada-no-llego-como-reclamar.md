@@ -91,7 +91,7 @@ Doce días después, la empresa le informó que el banco de destino había recha
 - Dinero que enviaste **a un estafador** de forma voluntaria. Lee [estafas de remesas](/estafas-remesas-transferencias-internacionales/).
 - Envíos a través de empresas sin licencia.
 
-## Para seguir
+## Evita el problema la próxima vez
 
 - Envía con más seguridad y menos costo: [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
 - Guías por país: [México](/como-enviar-dinero-a-mexico/), [República Dominicana](/enviar-dinero-republica-dominicana-desde-usa/) y [Colombia](/enviar-dinero-colombia-desde-estados-unidos/).

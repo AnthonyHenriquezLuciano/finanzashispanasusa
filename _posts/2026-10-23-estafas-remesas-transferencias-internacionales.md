@@ -97,7 +97,7 @@ Las reglas federales de remesas te protegen ante **errores de la empresa**: si c
 - Activa alertas en tu banco.
 - Habla de estas estafas con tus padres y abuelos: son el blanco favorito.
 
-## Para seguir
+## Envía con seguridad
 
 - Repasa otros fraudes en [estafas financieras comunes contra hispanos](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - Envía de forma segura y barata con [cómo enviar dinero a Latinoamérica](/como-enviar-dinero-a-latinoamerica-mas-barato/).

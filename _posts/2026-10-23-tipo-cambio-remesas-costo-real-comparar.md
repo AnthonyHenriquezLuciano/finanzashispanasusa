@@ -75,7 +75,7 @@ Puedes hacer este cálculo en segundos con la calculadora de remesas de esta pá
 
 El Banco Mundial mide el costo de enviar $200 en su base **Remittance Prices Worldwide**, y el promedio global ronda el **6 %**. La meta internacional es bajarlo al **3 %**. A muchos países de Latinoamérica desde EE.UU. existen opciones por debajo de ese 3 %. Si estás pagando 5 % o más, vale la pena comparar.
 
-## Errores comunes
+## Fallos al comparar tipos de cambio
 
 - Fijarse solo en la comisión.
 - Comparar tasas a horas distintas.
@@ -83,9 +83,9 @@ El Banco Mundial mide el costo de enviar $200 en su base **Remittance Prices Wor
 - Pagar con tarjeta de crédito sin saber que tu banco lo cobra como adelanto de efectivo.
 - Usar cambistas informales que ofrecen tasas "imposibles": no tienes protección si el dinero no llega.
 
-## Para seguir
+## Compara por país
 
-- Guías por país: [México](/como-enviar-dinero-a-mexico/), [República Dominicana](/enviar-dinero-republica-dominicana-desde-usa/) y [Colombia](/enviar-dinero-colombia-desde-estados-unidos/).
+- Compara el tipo de cambio por destino: [envíos a Colombia](/enviar-dinero-colombia-desde-estados-unidos/), [envíos a México](/como-enviar-dinero-a-mexico/) y [envíos a República Dominicana](/enviar-dinero-republica-dominicana-desde-usa/).
 - Comparativa general en [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
 - Si algo sale mal, [cómo reclamar una remesa](/remesa-equivocada-no-llego-como-reclamar/).
 

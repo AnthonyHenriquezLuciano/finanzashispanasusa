@@ -70,7 +70,7 @@ El IRS tiene un [asistente oficial para saber si calificas](https://www.irs.gov/
 
 > Si trabajas por tu cuenta, el ingreso que reportas en el Anexo C cuenta para el EITC. Por eso es importante [declarar bien como independiente](/impuestos-para-trabajadores-independientes-en-estados-unidos/).
 
-## Ejemplo con números
+## El caso de María, madre de dos
 
 María es madre soltera con dos hijos de 6 y 9 años, todos con SSN. Ganó $28,000 como empleada en 2025.
 
@@ -92,13 +92,13 @@ Los números exactos dependen del año y de tu situación. Un preparador de [VIT
 3. **Usa el Anexo 8812** para el Crédito por Hijos y el crédito por otros dependientes. El EITC se calcula en el Formulario 1040 (y el Anexo EIC si tienes hijos).
 4. **Elige depósito directo** para recibir el dinero más rápido. Te explicamos los tiempos en [cuándo llega tu reembolso](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/).
 
-## Errores comunes
+## Fallos que hacen perder el crédito por hijos
 
 - **Dos personas reclaman al mismo niño**, por ejemplo padres separados. Solo uno puede hacerlo; el IRS aplica reglas de desempate.
 - **Reclamar a un niño que no vivió contigo** más de la mitad del año.
 - **Usar el ITIN de un hijo para el CTC o el EITC.** El IRS lo rechazará y puede negarte el crédito en años futuros.
 - **No reportar ingresos en efectivo**, lo que puede reducir el EITC y crear problemas si te auditan.
-- **Pagar a un preparador que "garantiza" un reembolso grande** inventando dependientes. Tú eres responsable de lo que firmas. Ver [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Pagar a un preparador que "garantiza" un reembolso grande** inventando dependientes. Tú eres responsable de lo que firmas. Repasa las [señales de una estafa financiera](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - **No reclamar créditos de años anteriores:** puedes enmendar declaraciones de hasta 3 años atrás para recuperar créditos que no pediste.
 
 ## Cómo aprovechar el dinero
@@ -109,7 +109,7 @@ Un reembolso grande es una oportunidad para cambiar tus finanzas:
 - Paga deudas caras con el [plan para salir de deudas](/como-salir-de-deudas-de-tarjetas-de-credito/).
 - Reparte lo que sobre con la calculadora 50/30/20 de abajo.
 
-## Resumen
+## Qué reclamar según el número de tus hijos
 
 Si tus hijos tienen SSN, reclama el Crédito Tributario por Hijos y revisa si calificas al EITC. Si tienen ITIN, no pierdas el crédito por otros dependientes. Declara aunque ganes poco, guarda pruebas de que los niños viven contigo y usa VITA para hacerlo gratis.
 

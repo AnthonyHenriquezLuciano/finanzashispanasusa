@@ -78,15 +78,15 @@ Pon un límite a cada categoría y revisa cada domingo cuánto te queda. Diez mi
 
 Si prefieres no armar la hoja desde cero, nuestro [Planificador de Finanzas Personales](https://payhip.com/b/uMcUx) es una plantilla de Excel en español que calcula sola tu presupuesto 50/30/20, tus gastos por categoría y el avance de tus metas de ahorro.
 
-## Resumen
+## Tu presupuesto en una tarde
 
 Calcula tu ingreso neto, separa necesidades, deseos y ahorro, registra tus gastos un mes y revisa cada semana. El mejor presupuesto es el que puedes mantener.
 
 **Sigue leyendo:** [cómo salir de deudas de tarjetas](/como-salir-de-deudas-de-tarjetas-de-credito/) y [cómo ahorrar para el retiro con una IRA](/como-ahorrar-para-el-retiro-sin-401k-ira/).
 
-## Guías especializadas para seguir aprendiendo
+## Para cuando el 50/30/20 no alcance
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Si tu ingreso cambia cada mes o no te alcanza, estas guías adaptan el método:
 
 - [automatizar ahorro con cada cheque](/automatizar-ahorro-con-cada-cheque/)
 - [ahorrar o pagar deudas primero](/ahorrar-o-pagar-deudas-primero/)

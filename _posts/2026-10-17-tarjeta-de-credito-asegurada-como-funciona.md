@@ -77,7 +77,7 @@ Depende del banco. Lo habitual es que, tras **6 a 12 meses** de pagos puntuales,
 
 Combina la tarjeta asegurada con los demás hábitos de [cómo construir crédito desde cero](/como-construir-credito-en-estados-unidos-desde-cero/) y revisa tu progreso en tu [reporte de crédito gratis](/como-leer-tu-reporte-de-credito-y-disputar-errores/). Si aún no tienes cuenta bancaria, empieza por [abrir una sin Seguro Social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/).
 
-## Resumen
+## Cómo usarla los primeros 6 meses
 
 Deposita una garantía, usa la tarjeta para compras pequeñas, paga el total cada mes y mantén la utilización bajo el 30 %. En un año puedes tener un puntaje sólido y recuperar tu depósito.
 

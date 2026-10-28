@@ -87,7 +87,7 @@ Suelen aprobar con historial corto. Úsalas para compras pequeñas y paga el sal
 
 Por lo general necesitas al menos **6 meses** de actividad reportada para que se genere un FICO Score. El acceso a tarjetas no aseguradas o mejores tasas depende de tu reporte, ingresos, deudas y condiciones del prestamista; ninguna fecha garantiza aprobación.
 
-## Errores comunes
+## Lo que retrasa tu primer puntaje
 
 - Pagar tarde "solo un mes": un atraso de 30 días o más puede quedar en tu reporte hasta 7 años.
 - Pagar a "agencias" que prometen borrar deudas o crear un número de crédito nuevo. Usar un número que no es tuyo para obtener crédito es ilegal.
@@ -117,15 +117,15 @@ Si el saldo reportado es de $30 y tu límite es de $300, la utilización de esa 
 
 Fuentes oficiales: [CFPB: cómo mantener buen crédito](https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/) y [qué influye en el puntaje](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/).
 
-## Resumen
+## Tu primer año de crédito, mes a mes
 
 Empieza con una tarjeta asegurada o un credit-builder loan, paga siempre a tiempo, usa menos del 30 % de tu límite y revisa tu reporte. La constancia ayuda, pero no garantiza un puntaje o producto en un año.
 
 **Sigue leyendo:** [cómo funciona una tarjeta de crédito asegurada](/tarjeta-de-credito-asegurada-como-funciona/) , [cómo alquilar un apartamento sin crédito](/como-alquilar-un-apartamento-sin-credito/) y [cómo subir tu puntaje rápido](/como-subir-tu-puntaje-de-credito-rapido/).
 
-## Guías especializadas para seguir aprendiendo
+## Cuando ya tengas puntaje
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Cuando ya tengas tus primeras cuentas reportando, sigue con estos temas:
 
 - [fecha de corte vs fecha de pago tarjeta credito](/fecha-de-corte-vs-fecha-de-pago-tarjeta-credito/)
 - [congelar credito gratis estados unidos](/congelar-credito-gratis-estados-unidos/)

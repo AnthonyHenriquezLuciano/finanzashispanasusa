@@ -70,14 +70,14 @@ Empezar 10 años antes puede más que duplicar el resultado. Lo importante es **
 - **Crédito del Ahorrador (Saver's Credit):** si tienes ingresos moderados, puedes recibir un crédito fiscal por aportar a tu IRA.
 - **Seguro Social:** también recibirás beneficios si cotizas suficientes años, pero suelen no alcanzar por sí solos.
 
-## Errores comunes
+## Fallos que restan miles al retiro
 
 - Dejar el dinero sin invertir dentro de la IRA.
 - Retirar antes de tiempo de una tradicional.
 - Pagar comisiones altas por fondos caros.
 - Esperar "a ganar más" para empezar.
 
-## Resumen
+## Abre tu IRA este mes
 
 Si no tienes 401(k), abre una IRA (normalmente Roth), invierte en fondos de bajo costo y automatiza un aporte mensual. Mientras tanto, mantén tu ahorro de corto plazo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 

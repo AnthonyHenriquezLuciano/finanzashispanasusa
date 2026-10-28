@@ -82,7 +82,7 @@ Andrés enviaba $300 al mes en efectivo desde una agencia, con $8 de comisión y
 
 Tienes **180 días** desde la fecha prometida de entrega para reportar el error a la empresa. Ella debe investigar y resolver. Te explicamos el proceso completo en [mi remesa no llegó: cómo reclamar](/remesa-equivocada-no-llego-como-reclamar/).
 
-## Para seguir
+## Más sobre envíos a Colombia
 
 - Compara con otros países en [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
 - Planifica tus envíos sin descuidar tu ahorro con la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/).

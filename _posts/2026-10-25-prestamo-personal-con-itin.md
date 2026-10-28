@@ -39,7 +39,7 @@ Busca un CDFI cerca de ti en el [localizador del Fondo CDFI del Tesoro](https://
 
 El **APR (tasa de porcentaje anual)** incluye el interés y los cargos del préstamo en un solo número. Es la forma justa de comparar.
 
-### Ejemplo con números
+### $1,500 en cuatro préstamos distintos
 
 Necesitas **$1,500** para una reparación del carro y piensas pagarlo en 12 meses:
 
@@ -82,14 +82,14 @@ Un **préstamo para construir crédito** (credit-builder loan) funciona al revé
 - **Ayuda comunitaria:** organizaciones locales a veces ayudan con renta o servicios en emergencias.
 - **Tandas o préstamos familiares:** útiles, pero pon el acuerdo por escrito.
 
-## Errores comunes
+## Fallos al pedir prestado
 
 - **Mirar solo la cuota mensual** y no el APR ni el costo total.
 - **Renovar préstamos de día de pago** una y otra vez.
 - **Pedir más de lo necesario.**
-- **Firmar con prestamistas que piden pago por adelantado** para "aprobarte": es una estafa. Lee [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
+- **Firmar con prestamistas que piden pago por adelantado** para "aprobarte": es una estafa. Revisa cómo evitar [los engaños de falsos preparadores](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - **Dar tus datos bancarios** a sitios que no conoces.
 
-## Resumen
+## Por dónde empezar con ITIN
 
 Con ITIN, busca primero una cooperativa de crédito o un CDFI, compara siempre el APR y evita los préstamos de día de pago y de título de carro. Si no tienes historial, empieza con un préstamo para construir crédito y, cuanto antes, arma un fondo de emergencia para no depender de préstamos.

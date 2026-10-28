@@ -90,7 +90,7 @@ Una LLC de un solo miembro es, por defecto, una **entidad no considerada** (disr
 
 Todo esto está explicado en [impuestos para trabajadores independientes](/impuestos-para-trabajadores-independientes-en-estados-unidos/).
 
-### Ejemplo con números
+### Lo que Ana aparta para impuestos
 
 Ana limpia casas y factura **$48,000** al año a través de su LLC. Tiene **$9,000** de gastos (productos, gasolina, teléfono, seguro).
 
@@ -112,7 +112,7 @@ Con varios socios, la LLC se declara como sociedad (Formulario 1065). Con gananc
 - **Registros contables** de todos los ingresos y gastos.
 - **Reportes de información de beneficiarios (BOI):** las reglas federales cambiaron en 2025 y hoy las compañías creadas en EE.UU. están exentas; revisa la situación actual en [FinCEN](https://www.fincen.gov/boi).
 
-## Errores comunes
+## Fallos de dueños nuevos de una LLC
 
 - **Pagar cientos de dólares** a un sitio por un EIN que es gratis.
 - **Registrar la LLC en otro estado** sin necesitarlo.
@@ -121,6 +121,6 @@ Con varios socios, la LLC se declara como sociedad (Formulario 1065). Con gananc
 - **Creer que la LLC da estatus migratorio.**
 - **Contratar a un "notario"** para trámites legales; lee [estafas financieras comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Resumen
+## Tu LLC en orden desde el primer día
 
 Registra la LLC en tu estado, saca el EIN gratis en el IRS, abre una cuenta bancaria del negocio y aparta dinero para impuestos desde el primer pago. Con eso tu negocio empieza ordenado y protegido. Cuando tengas ingresos estables, considera una [IRA para independientes](/como-ahorrar-para-el-retiro-sin-401k-ira/) para tu retiro.

@@ -94,7 +94,7 @@ Con la cobertura de sobregiro activada, su banco le cobró **3 sobregiros de $34
 
 Pide tu informe gratis en ChexSystems, paga o disputa lo que aparezca y busca una **cuenta de segunda oportunidad** o una cuenta certificada **Bank On**, sin sobregiros. Lee también [cómo abrir una cuenta bancaria sin Seguro Social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/).
 
-## Para seguir
+## Ordena tu cuenta de cheques
 
 - Organiza tus fechas de pago con la calculadora de presupuesto de esta página.
 - Aprende a usar checking y savings juntas en [cuenta corriente vs. cuenta de ahorros](/cuenta-corriente-vs-cuenta-ahorros-estados-unidos/).

@@ -95,7 +95,7 @@ Una calculadora que solo muestra capital e interés diría $1,830. El costo real
 2. **Prueba de esfuerzo:** durante tres meses antes de comprar, aparta la diferencia entre tu renta actual y el costo real estimado. Si puedes hacerlo sin endeudarte, vas bien encaminado y además ahorras para el cierre.
 3. **Reserva después del cierre:** procura quedarte con al menos tres meses de cuota en el banco después de comprar.
 
-## Errores frecuentes
+## Costos que muchos compradores olvidan
 
 - Calcular solo con capital e interés.
 - Gastar todo el ahorro en el pago inicial y quedarte sin reserva para emergencias.
@@ -103,7 +103,7 @@ Una calculadora que solo muestra capital e interés diría $1,830. El costo real
 - Subestimar el HOA o no revisar sus finanzas.
 - Comprar muebles o un carro a crédito antes del cierre: puede cambiar tu DTI y tu aprobación.
 
-## Para seguir
+## Calcula tu propio presupuesto de casa
 
 - Estima tu precio máximo con la calculadora de esta página y la guía [cuánta casa puedo pagar](/cuanta-casa-puedo-pagar/).
 - Si eres inmigrante, consulta [cómo comprar casa en EE.UU. siendo inmigrante](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).

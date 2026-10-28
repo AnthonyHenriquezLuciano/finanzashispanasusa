@@ -80,10 +80,10 @@ Aprende más en [estafas de remesas: señales y cómo protegerte](/estafas-remes
 
 Si el dinero no llega, llega incompleto o al destinatario equivocado, tienes **180 días** para reclamar a la empresa en EE.UU. Te explicamos cómo en [mi remesa no llegó: cómo reclamar](/remesa-equivocada-no-llego-como-reclamar/).
 
-## Para seguir
+## Más sobre envíos a República Dominicana
 
 - Entiende cómo se forma el precio en [tipo de cambio en remesas](/tipo-cambio-remesas-costo-real-comparar/).
-- Compara con otros países en [cómo enviar dinero a Latinoamérica más barato](/como-enviar-dinero-a-latinoamerica-mas-barato/).
+- Si también envías a otros países, mira [la guía general de remesas a Latinoamérica](/como-enviar-dinero-a-latinoamerica-mas-barato/).
 - Organiza tus remesas dentro de tu [presupuesto mensual](/como-hacer-un-presupuesto-mensual-regla-50-30-20/).
 
 *Fuentes: [CFPB — Envío de remesas](https://www.consumerfinance.gov/es/), [Banco Central de la República Dominicana](https://www.bancentral.gov.do/). Tasas y comisiones del ejemplo ilustrativas.*

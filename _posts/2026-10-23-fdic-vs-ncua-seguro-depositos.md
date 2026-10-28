@@ -97,14 +97,14 @@ Algunas cooperativas estatales tienen seguro privado en lugar de NCUA. No es lo 
 - Si no hay comprador, te pagan directamente tus depósitos asegurados, por lo general en pocos días.
 - **No tienes que presentar ningún reclamo** para depósitos asegurados.
 
-## Errores comunes
+## Malentendidos sobre el seguro de depósitos
 
 - Creer que todo lo que vende un banco está asegurado, incluidas inversiones.
 - Guardar el dinero en casa por miedo a los bancos: el efectivo en casa no está protegido contra robo, incendio o inundación.
 - Pensar que tener cuentas en varias sucursales del mismo banco multiplica el seguro: las sucursales son la misma institución.
 - Usar una app sin comprobar con qué banco trabaja.
 
-## Para seguir
+## Elige dónde guardar tu dinero
 
 - Busca dónde guardar tu fondo de emergencia en [cuenta de ahorro de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 - Calcula cuánto necesitas con la calculadora de esta página.

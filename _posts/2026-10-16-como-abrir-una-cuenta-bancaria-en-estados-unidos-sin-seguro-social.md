@@ -93,15 +93,15 @@ Antes de depositar tu dinero, revisa las **comisiones**, la disponibilidad de ca
 
 Si además quieres construir historial, consulta [cómo hacer crédito en USA desde cero](/como-construir-credito-en-estados-unidos-desde-cero/): una cuenta de cheques no sustituye una línea de crédito reportada.
 
-## Resumen
+## Tu primera cuenta, en tres pasos
 
 Lleva pasaporte o matrícula consular, tu ITIN si lo tienes y un comprobante de domicilio. Empieza por una cooperativa de crédito o un banco comunitario, elige una cuenta sin cuota mensual y confirma que esté asegurada por la FDIC o la NCUA.
 
 **Sigue leyendo:** [cómo cambiar un cheque sin cuenta bancaria](/como-cambiar-un-cheque-sin-cuenta-bancaria/) , [las estafas financieras más comunes](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/) y [cómo abrir una LLC para tu negocio](/como-abrir-una-llc-siendo-inmigrante/).
 
-## Guías especializadas para seguir aprendiendo
+## Después de abrir tu cuenta
 
-Si quieres profundizar en situaciones concretas, consulta estos recursos prácticos, con ejemplos, precauciones y referencias oficiales:
+Con la cuenta ya abierta, estas guías te ayudan a usarla sin pagar cargos:
 
 - [cuenta corriente vs cuenta ahorros estados unidos](/cuenta-corriente-vs-cuenta-ahorros-estados-unidos/)
 - [evitar cargos sobregiro cuenta bancaria](/evitar-cargos-sobregiro-cuenta-bancaria/)

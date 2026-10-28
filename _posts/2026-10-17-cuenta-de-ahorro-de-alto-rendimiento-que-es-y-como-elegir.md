@@ -78,14 +78,14 @@ Si todavía no tienes cuenta de cheques, empieza por [cómo abrir una cuenta ban
 
 No es para inversiones de largo plazo, como el retiro, donde otras opciones suelen crecer más con los años.
 
-## Errores comunes
+## Trampas de las cuentas que parecen de alto rendimiento
 
 - **Dejar el dinero en la cuenta de ahorro tradicional** por costumbre.
 - **Perseguir la tasa más alta** cambiando de banco cada mes; la diferencia de unas décimas rara vez compensa.
 - **No revisar el APY** cada pocos meses: si baja mucho, compara de nuevo.
 - **Usar el ahorro como cuenta de gastos:** mantenla separada para no tocarla.
 
-## Resumen
+## Elige y abre la tuya hoy
 
 Una cuenta de ahorro de alto rendimiento asegurada por la FDIC o la NCUA hace que tu dinero gane mucho más sin riesgo. Compara por APY, evita cuotas, automatiza el ahorro y úsala para tu fondo de emergencia.
 

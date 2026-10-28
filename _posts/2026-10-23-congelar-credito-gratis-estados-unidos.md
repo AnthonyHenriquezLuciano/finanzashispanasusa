@@ -92,14 +92,14 @@ En unas semanas la cuenta desapareció de su reporte. Gracias al congelamiento, 
 - Fraudes médicos o de beneficios del gobierno.
 - Estafas en las que tú mismo envías dinero. Aprende a reconocerlas en [estafas financieras comunes contra hispanos](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 
-## Errores comunes
+## Descuidos al congelar tu crédito
 
 - Congelar solo en un buró.
 - Perder el PIN o la contraseña. Si la pierdes, puedes recuperarla verificando tu identidad, pero tarda más.
 - Olvidar descongelar antes de solicitar un apartamento o un préstamo, y que te rechacen. Pregunta siempre qué buró usarán.
 - Pagar por servicios de "protección" que hacen lo mismo que puedes hacer gratis.
 
-## Para seguir
+## Más formas de proteger tu identidad
 
 - Aprende a [leer tu reporte de crédito y disputar errores](/como-leer-tu-reporte-de-credito-y-disputar-errores/).
 - Si un cobrador te reclama una cuenta desconocida, revisa [qué hacer con un cobrador de deudas](/cobrador-deuda-que-no-reconozco-que-hacer/).
