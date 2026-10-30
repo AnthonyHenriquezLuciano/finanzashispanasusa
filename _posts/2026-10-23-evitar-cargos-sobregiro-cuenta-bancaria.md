@@ -101,3 +101,5 @@ Pide tu informe gratis en ChexSystems, paga o disputa lo que aparezca y busca un
 - Automatiza tu colchón con [ahorro automático en cada cheque](/automatizar-ahorro-con-cada-cheque/).
 
 *Fuentes: [CFPB — Sobregiros](https://www.consumerfinance.gov/es/), Regulación E (12 CFR 1005.17). Los cargos varían por banco y cambian con frecuencia.*
+
+**Sigue leyendo:** [por qué pagar el hotel con débito puede causarte un sobregiro](/tarjeta-de-debito-o-de-credito-cual-usar/).

@@ -88,3 +88,5 @@ Deposita una garantía, usa la tarjeta para compras pequeñas, paga el total cad
 ## Comprueba el reporte a los burós
 
 Una tarjeta asegurada solo ayuda a crear historial si el emisor **reporta la actividad** a las agencias correspondientes. Confirma cuota anual, interés APR, depósito, reglas de devolución del depósito y posibles cargos de apertura. La [CFPB ofrece información sobre cómo funcionan las tarjetas](https://www.consumerfinance.gov/consumer-tools/credit-cards/). No es necesario mantener una deuda con intereses para mejorar hábitos crediticios; **un puntaje concreto en doce meses nunca está garantizado**.
+
+**Sigue leyendo:** [cuándo usar débito y cuándo crédito](/tarjeta-de-debito-o-de-credito-cual-usar/).
