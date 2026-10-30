@@ -19,7 +19,6 @@ layout: default
     <aside class="toc" aria-label="En esta guía"><p>En esta guía</p><ol></ol></aside>
     <div class="post post-body">
       {% if page.resumen %}<section class="takeaways" aria-label="Lo esencial"><p class="tk-h">Lo esencial en 30 segundos</p><ul>{% for r in page.resumen %}<li>{{ r | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>{% endfor %}</ul></section>{% endif %}
-      {% include ad.html %}
       <div class="prose">{{ content }}</div>
       {% if page.herramienta %}{% assign t = site.data.herramientas | where: "include", page.herramienta | first %}{% include tools/{{ page.herramienta }}.html %}<p class="tool-link">¿Te sirvió? <a href="/herramientas/{{ t.slug }}/">Guarda la {{ t.titulo | downcase }}</a> para usarla cuando la necesites.</p>{% endif %}
       {% if page.faq %}

@@ -28,3 +28,8 @@ Una tarjeta con un límite de **$1,000** y un saldo reportado de **$400** muestr
 La utilización se calcula dividiendo el saldo reportado entre el límite disponible y multiplicando por 100. Por ejemplo, $600 reportados sobre un límite de $2,000 equivalen al 30 %. Ningún porcentaje garantiza un aumento concreto en el puntaje: también cuentan historial de pagos, antigüedad y otros factores. **Paga siempre al menos el mínimo antes del vencimiento**, aun cuando estés intentando reducir el saldo del corte.
 
 Consulta [la guía para mejorar tu puntaje](/como-subir-tu-puntaje-de-credito-rapido/) y [cómo interpretar tu reporte de crédito](/como-leer-tu-reporte-de-credito-y-disputar-errores/).
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.

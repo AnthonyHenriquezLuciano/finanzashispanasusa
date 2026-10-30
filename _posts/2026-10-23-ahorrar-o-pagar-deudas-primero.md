@@ -27,7 +27,7 @@ Esta guía explica por qué funciona ese orden, cuándo conviene romperlo y cóm
 
 ## Por qué la deuda cara casi siempre gana
 
-Piensa en cada dólar extra como una inversión. Si lo pones en una cuenta de ahorro de alto rendimiento, hoy puede ganar entre 3 % y 4 % al año. Si lo usas para reducir una tarjeta que cobra 24 % de APR, dejas de pagar 24 % sobre ese dólar. Es una "ganancia" garantizada y libre de impuestos que ninguna cuenta de ahorro iguala.
+Piensa en cada dólar extra como una inversión. Si lo pones en una cuenta de ahorro de alto rendimiento, hoy puede ganar entre 3 % y 4 % al año. Si lo usas para reducir una tarjeta que cobra 24 % de APR, dejas de pagar 24 % sobre ese dólar. Es un ahorro potencial en intereses, sujeto a las condiciones del préstamo y a cuánto tiempo permanezca reducido el saldo; no es un rendimiento de inversión garantizado.
 
 | Destino de $1,000 durante un año | Resultado aproximado |
 |---|---|
@@ -41,7 +41,7 @@ Por eso, una vez que tienes una red mínima, cada dólar adicional rinde más de
 
 El problema de mandar *todo* a la deuda es que la vida no espera. Si vacías tu cuenta y la semana siguiente se daña el carro, la reparación va directo a la tarjeta, muchas veces con un saldo más alto que antes. Ese círculo es la razón por la que muchas familias pagan durante años sin avanzar.
 
-La reserva inicial no busca cubrir meses de gastos; busca romper ese círculo. Con $500 a $1,000 cubres la mayoría de los imprevistos comunes: una llanta, una consulta de urgencia, un recibo de luz más alto de lo normal.
+La reserva inicial no busca cubrir meses de gastos; busca romper ese círculo. Una reserva de $500 a $1,000 puede ayudar en algunos imprevistos pequeños, pero puede ser insuficiente para una urgencia médica, una reparación importante o pérdida de ingresos.
 
 ## El orden recomendado, paso a paso
 
@@ -66,7 +66,7 @@ Carmen trabaja en un restaurante en Houston. Después de sus gastos le sobran $4
 
 **Mes 3 en adelante:** los $400 extra van a la Tarjeta A, además de su mínimo. En unos seis meses la liquida. Luego suma los $485 ($400 + $85 que ya no paga) a la Tarjeta B, que desaparece en unos tres meses.
 
-**Después:** los $520 que antes iban a tarjetas pasan a su fondo de emergencia. En menos de un año tendrá unos $6,000 ahorrados y cero deuda de tarjeta.
+**Después:** los $520 que antes iban a tarjetas pasan a su fondo de emergencia. El tiempo real de liquidación y ahorro depende del interés aplicado, del calendario de pagos y de que los gastos permanezcan estables; no se puede asegurar un resultado en un plazo fijo.
 
 Si en vez de eso hubiera repartido 50/50 entre ahorro y deuda desde el primer día, habría pagado varios cientos de dólares más en intereses y tardado meses adicionales. Puedes repetir el cálculo con tus números en la calculadora de esta página.
 

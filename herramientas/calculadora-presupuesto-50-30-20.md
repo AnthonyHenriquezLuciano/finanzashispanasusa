@@ -29,3 +29,8 @@ Introduce tu **sueldo después de impuestos**, no tu salario bruto. Si destinas 
 La regla es una guía, no una obligación. Si el alquiler y el transporte consumen más del 50 % de tu sueldo neto, comienza registrando gastos esenciales y reduce gradualmente los rubros que sí puedes modificar. Las remesas también deben tener una categoría fija para que el presupuesto no dependa del dinero que sobra.
 
 Antes de cambiar porcentajes, aprende [a preparar un presupuesto mensual](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y calcula [cuánto necesitas en tu fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/).
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.

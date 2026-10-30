@@ -6,7 +6,7 @@
   var num = new Intl.NumberFormat("es-US", { maximumFractionDigits: 2 });
   function $(root, sel) { return root.querySelector(sel); }
   function $$(root, sel) { return Array.prototype.slice.call(root.querySelectorAll(sel)); }
-  function val(root, name) { var el = $(root, '[name="' + name + '"]'); var v = parseFloat(String(el.value).replace(/,/g, "")); return isFinite(v) ? v : 0; }
+  function val(root, name) { var el = $(root, '[name="' + name + '"]'); var v = parseFloat(String(el.value).replace(/,/g, "")); return isFinite(v) ? Math.max(0, v) : 0; }
   function bind(root, fn) { $$(root, "input, select").forEach(function (el) { el.addEventListener("input", fn); el.addEventListener("change", fn); }); fn(); }
   function track(name) { try { if (window.gtag) window.gtag("event", "tool_use", { tool: name }); } catch (e) {} }
 
@@ -36,7 +36,7 @@
         var verdict = $(root, '[data-out="veredicto"]');
         if (amount <= 0 || !a.rate || !b.rate) { verdict.textContent = "Completa los datos para comparar."; return; }
         var anual = diff * 12;
-        verdict.innerHTML = "Con la <b>opción " + win.k.toUpperCase() + "</b> tu familia recibe <b>" + num.format(Math.round(Math.abs(diff))) + " en moneda local</b> más por el mismo costo. Si envías cada mes, son <b>" + num.format(Math.round(Math.abs(anual))) + "</b> más al año." + (tax ? " Pagando en efectivo sumas " + usd2.format(tax) + " de impuesto: hazlo desde tu cuenta bancaria y te lo ahorras." : "");
+        verdict.innerHTML = "Con la <b>opción " + win.k.toUpperCase() + "</b> tu familia recibe <b>" + num.format(Math.round(Math.abs(diff))) + " en moneda local</b> más por el mismo costo. Si envías cada mes, son <b>" + num.format(Math.round(Math.abs(anual))) + "</b> más al año." + (tax ? " Pagando en efectivo sumas " + usd2.format(tax) + " de impuesto: usar una cuenta bancaria elegible puede evitar ese impuesto, sujeto a las condiciones legales." : "");
         if (!used) { used = true; track("remesas"); }
       });
     },
@@ -57,7 +57,7 @@
         var tip = $(root, '[data-out="tip"]');
         if (!ingreso) tip.textContent = "";
         else if (pct > .4) tip.innerHTML = "Tu renta es el <b>" + Math.round(pct * 100) + " %</b> de tu ingreso. Está por encima de lo recomendado: recorta primero en deseos para no dejar de ahorrar.";
-        else if (real > 0) tip.innerHTML = "Tu renta es el <b>" + Math.round(pct * 100) + " %</b> de tu ingreso. Vas por buen camino.";
+        else if (real > 0) tip.innerHTML = "Tu renta es el <b>" + Math.round(pct * 100) + " %</b> de tu ingreso. Revisa además transporte, seguros y otros gastos esenciales.";
         else tip.textContent = "Añade tu renta para ver si encaja en el plan.";
         $(root, '[data-out="ahorro_anual"]').textContent = usd.format(ingreso * .2 * 12);
       });
@@ -72,13 +72,13 @@
         $$(r, "input").forEach(function (el) { el.addEventListener("input", calc); });
         $(r, ".uc-del").addEventListener("click", function () { if (rows.children.length > 1) { r.remove(); calc(); } });
       }
-      function n(el) { var v = parseFloat(String(el.value).replace(/,/g, "")); return isFinite(v) ? v : 0; }
+      function n(el) { var v = parseFloat(String(el.value).replace(/,/g, "")); return isFinite(v) ? Math.max(0, v) : 0; }
       function calc() {
         var saldo = 0, limite = 0;
         $$(rows, ".uc-row").forEach(function (r) { saldo += n($(r, '[name="saldo"]')); limite += n($(r, '[name="limite"]')); });
         var u = limite > 0 ? saldo / limite : 0, pct = Math.min(u * 100, 100);
         var meter = $(root, ".uc-fill"); meter.style.width = pct + "%";
-        var level = u < .1 ? ["Excelente", "ok"] : u < .3 ? ["Buena", "ok"] : u < .5 ? ["Regular", "warn"] : ["Alta", "bad"];
+        var level = u < .1 ? ["Menos del 10 %", "ok"] : u < .3 ? ["Del 10 al 30 %", "ok"] : u < .5 ? ["Del 30 al 50 %", "warn"] : ["Más del 50 %", "bad"];
         meter.dataset.level = level[1];
         $(root, '[data-out="pct"]').textContent = limite ? num.format(u * 100) + " %" : "—";
         $(root, '[data-out="nivel"]').textContent = limite ? level[0] : "";
@@ -86,8 +86,8 @@
         var to30 = Math.max(0, saldo - limite * .3), to10 = Math.max(0, saldo - limite * .1);
         $(root, '[data-out="consejo"]').innerHTML = !limite ? "Añade el saldo y el límite de tus tarjetas." :
           to30 > 0 ? "Paga <b>" + usd.format(Math.ceil(to30)) + "</b> antes de la fecha de cierre del estado de cuenta para bajar al 30 %, y <b>" + usd.format(Math.ceil(to10)) + "</b> para llegar al 10 %." :
-          to10 > 0 ? "Estás bajo el 30 %. Si pagas <b>" + usd.format(Math.ceil(to10)) + "</b> más antes del cierre, bajarás al 10 %, el rango de los mejores puntajes." :
-          "Tu utilización está en el rango ideal. Mantén los pagos a tiempo.";
+          to10 > 0 ? "Estás bajo el 30 %. Si pagas <b>" + usd.format(Math.ceil(to10)) + "</b> más antes del cierre, bajarás al 10 %; no hay aumento de puntos garantizado." :
+          "Tu utilización agregada está por debajo del 10 %. Sigue pagando a tiempo; el puntaje depende de otros factores.";
       }
       $(root, ".uc-add").addEventListener("click", function () { addRow(); track("credito"); });
       addRow(450, 1000); addRow(120, 500);

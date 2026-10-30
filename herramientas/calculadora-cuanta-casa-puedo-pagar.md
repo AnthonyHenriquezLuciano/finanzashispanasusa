@@ -1,7 +1,7 @@
 ---
 layout: herramienta
 title: "Calculadora: ¿cuánta casa puedo pagar?"
-description: "Calcula el precio máximo de casa que puedes pagar según tu ingreso, tus deudas, tu enganche y la tasa de interés. Incluye impuestos y seguro. Gratis y en español."
+description: "Estima un precio orientativo de vivienda según ingreso, deuda, enganche y tasa. No es una preaprobación ni incluye todos los costos."
 permalink: /herramientas/calculadora-cuanta-casa-puedo-pagar/
 include: hipoteca
 guia: /cuanta-casa-puedo-pagar/
@@ -15,3 +15,8 @@ El pago incluye capital, interés, impuesto a la propiedad y seguro de la casa. 
 ## Úsala como punto de partida
 
 Que un banco te apruebe un monto no significa que debas gastarlo todo. Deja margen para ahorrar, para reparaciones y para emergencias. Los resultados son estimados; tu prestamista hará el cálculo oficial.
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.

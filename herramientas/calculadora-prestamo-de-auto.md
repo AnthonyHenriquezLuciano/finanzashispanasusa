@@ -17,3 +17,8 @@ Una regla práctica es que la cuota no pase del **10 % de tu ingreso neto**, y q
 ## Antes de firmar
 
 Consigue una preaprobación en tu banco o cooperativa, negocia el precio final y no el pago mensual, y revisa que el contrato no incluya extras que no pediste. Los resultados son estimados.
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.

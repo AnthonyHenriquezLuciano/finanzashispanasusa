@@ -1,42 +1,36 @@
 ---
-title: Política de privacidad
+title: "Política de privacidad"
+description: "Información sobre datos, herramientas, cookies y proveedores externos de Finanzas Hispanas USA."
 permalink: /politica-de-privacidad/
-description: Cómo trata Finanzas Hispanas USA la información de sus visitantes.
 ---
-Última actualización: 16 de octubre de 2026.
+**Última revisión del documento:** 30 de octubre de 2026.
 
-En **finanzashispanasusa.com** ("el sitio") respetamos tu privacidad. Esta política explica qué información se recoge cuando visitas el sitio y cómo se usa.
+Finanzas Hispanas USA (finanzashispanasusa.com) es un sitio de información financiera en español. Esta página describe cómo tratamos los datos asociados a su uso. Para preguntas de privacidad, escribe a [{{ site.contact_email }}](mailto:{{ site.contact_email }}).
 
-## Información que recogemos
+## Información que puedes proporcionar
 
-- **Datos que nos envías:** si nos escribes por correo, usamos tu dirección y tu mensaje solo para responderte.
-- **Datos técnicos:** nuestro proveedor de alojamiento y los servicios de terceros indicados abajo pueden registrar información como tu dirección IP, tipo de navegador, páginas visitadas y fecha de la visita.
+Si nos contactas mediante correo electrónico, recibimos la dirección remitente y el contenido del mensaje. Usamos esa información para atender la consulta o una solicitud de corrección; **no nos envíes números de Seguro Social, ITIN completos, contraseñas, datos de tarjetas ni documentos privados**.
 
-No vendemos tu información personal.
+## Calculadoras y test
 
-## Cookies y publicidad de Google AdSense
+Las calculadoras y el test del sitio se ejecutan en el navegador mediante JavaScript. No requieren abrir una cuenta, y el código actual no envía los valores que introduces a nuestra propia base de datos. Sin embargo, el proveedor de alojamiento y los recursos externos pueden recibir datos técnicos habituales de la navegación.
 
-Este sitio muestra anuncios de **Google AdSense**. Google, como proveedor externo, utiliza cookies para publicar anuncios en este sitio.
+## Proveedores y registros técnicos
 
-- Google y sus socios usan cookies para mostrar anuncios basados en tus visitas anteriores a este y a otros sitios web.
-- Puedes inhabilitar la publicidad personalizada en la [Configuración de anuncios de Google](https://adssettings.google.com/).
-- También puedes inhabilitar las cookies de otros proveedores para publicidad personalizada en [www.aboutads.info](https://www.aboutads.info/choices/).
-- Más información en [Cómo utiliza Google la información de los sitios que usan sus servicios](https://policies.google.com/technologies/partner-sites).
+La web se publica mediante **GitHub Pages**. Los servicios de alojamiento y seguridad pueden procesar IP, fecha de solicitud, navegador y registros técnicos. También cargamos fuentes de Google Fonts. Sus políticas y prácticas de registro son independientes de nuestras calculadoras.
 
-En el Espacio Económico Europeo, el Reino Unido y Suiza, mostramos un mensaje de consentimiento antes de usar cookies publicitarias.
+## Publicidad y cookies
 
-## Enlaces a otros sitios
+El sitio dispone de integración técnica de verificación con **Google AdSense**, pero la presencia del código de verificación **no significa que haya anuncios autorizados o activos**. Cuando habilitemos publicidad, Google y sus socios podrían procesar identificadores y utilizar cookies conforme a sus políticas y a las opciones de consentimiento aplicables.
 
-Las guías enlazan a sitios oficiales y de terceros. No somos responsables de sus prácticas de privacidad.
+Consulta [cómo usa Google la información de los sitios que utilizan sus servicios](https://policies.google.com/technologies/partner-sites) y [configuración de anuncios](https://myadcenter.google.com/).
 
-## Menores de edad
+**No afirmamos contar actualmente con una plataforma de consentimiento certificada**. Antes de habilitar anuncios personalizados para visitantes del Espacio Económico Europeo, Reino Unido o Suiza, deberemos configurar una solución certificada que cumpla los requisitos de Google y las normas aplicables. La configuración de privacidad debe verificarse antes de activar anuncios.
 
-El sitio no está dirigido a menores de 13 años ni recoge conscientemente sus datos.
+## Enlaces externos y servicios comerciales
 
-## Tus derechos
+El sitio contiene enlaces a autoridades, bancos u otros proveedores, cuyas prácticas de privacidad pueden ser diferentes. Si se utilizan enlaces de afiliación o publicidad pagada, procuraremos identificarlos con claridad.
 
-Puedes pedirnos acceder a los datos que tengamos sobre ti o eliminarlos escribiendo a {{ site.contact_email }}. Si resides en California, la ley CCPA te da derechos adicionales que atenderemos por el mismo medio.
+## Solicitudes de privacidad y cambios
 
-## Cambios
-
-Podemos actualizar esta política. La fecha de arriba indica la última versión.
+Puedes escribir a la dirección indicada para consultar qué datos has enviado por correo o pedir que eliminemos comunicaciones en la medida en que estén bajo nuestro control. No podemos borrar directamente registros que estén en los sistemas de proveedores independientes. Actualizaremos este documento cuando cambie el funcionamiento real de los servicios utilizados.

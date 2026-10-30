@@ -1,7 +1,7 @@
 ---
 layout: herramienta
 title: "Calculadora para salir de deudas: avalancha vs. bola de nieve"
-description: "Escribe tus tarjetas y préstamos y descubre en cuántos meses sales de deudas, cuánto pagas de intereses y qué método te conviene. Gratis y en español."
+description: "Simula el pago de tus deudas mediante avalancha o bola de nieve, con intereses mensuales aproximados y pagos constantes."
 permalink: /herramientas/calculadora-salir-de-deudas/
 include: deudas
 guia: /como-salir-de-deudas-de-tarjetas-de-credito/
@@ -16,3 +16,8 @@ Cada mes la calculadora suma los intereses de cada deuda según su **APR**, paga
 ## Consejos
 
 Deja de usar las tarjetas mientras pagas, llama a tu banco para pedir una tasa más baja y, si tu crédito lo permite, considera una transferencia de saldo con 0 % de interés. Los resultados son estimados: las tasas y los mínimos reales pueden cambiar.
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.
