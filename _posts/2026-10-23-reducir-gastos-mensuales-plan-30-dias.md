@@ -4,7 +4,7 @@ description: "Plan de cuatro semanas para detectar fugas de dinero, negociar fac
 date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["reducir gastos mensuales", "plan ahorro 30 dias", "recortar suscripciones"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: presupuesto
 resumen:
 - "Semana 1: **descubre a dónde va tu dinero** revisando 60 días de movimientos. Semana 2: **suscripciones y cargos**. Semana 3: **facturas fijas**. Semana 4: **comida y compras**."
@@ -104,3 +104,8 @@ Si recortas gastos pero el dinero se queda en tu cuenta corriente, desaparece en
 - Pon todo en orden con la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y la calculadora de esta página.
 - Si tus ingresos cambian cada mes, lee [presupuesto con ingresos variables](/presupuesto-ingresos-variables-propinas-gig/).
 - Decide qué hacer con lo ahorrado en [¿ahorrar o pagar deudas primero?](/ahorrar-o-pagar-deudas-primero/).
+
+
+## Cómo comprobar que realmente ahorraste
+
+Antes de cancelar o cambiar un servicio, solicita el precio total y las posibles penalizaciones. **Ahorrar $20 mensuales equivaldría a $240 al año solo si el cambio se mantiene 12 meses y no aparecen cargos nuevos**. Para verificarlo, compara dos facturas consecutivas y registra la diferencia. La [CFPB ofrece herramientas generales para organizar ingresos, gastos y objetivos](https://www.consumerfinance.gov/consumer-tools/).

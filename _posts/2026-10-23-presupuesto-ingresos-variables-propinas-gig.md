@@ -4,7 +4,7 @@ description: "Aprende a presupuestar cuando cobras por horas, propinas o aplicac
 date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["presupuesto ingresos variables", "presupuesto propinas gig economy", "ahorrar con sueldo irregular"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: presupuesto
 resumen:
 - "Haz tu presupuesto con tu **mes más bajo** de los últimos 6 a 12 meses, no con el promedio."
@@ -109,3 +109,8 @@ No tienes retención, así que el primer paso cambia: **antes de calcular tu ing
 - Revisa la [regla 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) y aplícala a tu ingreso base con la calculadora de esta página.
 - Entiende tu tipo de ingreso en [W-2 vs. 1099](/w2-vs-1099-empleado-contratista/).
 - Automatiza tu sueldo semanal con [ahorro automático en cada cheque](/automatizar-ahorro-con-cada-cheque/).
+
+
+## Impuestos y reserva con ingresos irregulares
+
+Separar el **25–30 %** de cada cobro es una aproximación de planificación, **no una tasa legal de impuestos**. Lo que realmente debes depende de utilidad neta, deducciones, estado, créditos y otras retenciones. Confirma reglas y obligaciones mediante la [guía de impuestos estimados del IRS](https://www.irs.gov/es/businesses/small-businesses-self-employed/estimated-taxes). En semanas de poco ingreso, prioriza gastos esenciales y conserva registros de ingresos y costos del trabajo.

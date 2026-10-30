@@ -4,7 +4,7 @@ description: "Organiza gastos anuales como seguro, matrícula y reparaciones con
 date: 2026-10-23 00:00:00 -0400
 category: Ahorro
 keywords: ["sinking funds español", "fondos para gastos anuales", "ahorrar gastos irregulares"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: presupuesto
 resumen:
 - "Un **sinking fund** es un ahorro con nombre y fecha para un gasto que **sabes que vendrá**: seguro del carro, matrícula, regalos de diciembre, viaje al país."
@@ -103,3 +103,8 @@ Si eres trabajador independiente, uno de tus fondos más importantes debe ser **
 
 - Integra tus fondos en tu [presupuesto 50/30/20](/como-hacer-un-presupuesto-mensual-regla-50-30-20/) con la calculadora de esta página.
 - Si quieres liberar dinero para tus fondos, prueba el [plan de 30 días para reducir gastos](/reducir-gastos-mensuales-plan-30-dias/).
+
+
+## Reproduce los cálculos
+
+La fórmula correcta es **costo pendiente ÷ meses hasta el vencimiento** para cada fondo. Así, un seguro de $780 dentro de 6 meses requiere **$130 mensuales**; una reserva de $900 para mantenimiento dentro de 12 meses requiere **$75 al mes**. Sumar cuotas de vencimientos diferentes no es lo mismo que dividir todos los gastos entre doce. La [CFPB ofrece recomendaciones para crear ahorros según las necesidades del hogar](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/).

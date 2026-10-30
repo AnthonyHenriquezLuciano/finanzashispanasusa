@@ -19,6 +19,7 @@ faq:
   a: Solo si no tiene costo y lo necesitas de verdad. Algunos anticipos cobran comisiones o intereses que reducen lo que recibes.
 - q: ¿Llamar al IRS acelera el reembolso?
   a: No. El IRS recomienda llamar solo si la herramienta lo indica o si han pasado más de 21 días desde que presentaste en línea.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Para muchas familias, el reembolso de impuestos es el dinero más grande que reciben de una sola vez en el año. Saber cuándo llega te ayuda a planificar, y decidir de antemano en qué usarlo evita que desaparezca en pocas semanas.
 
@@ -79,3 +80,8 @@ Un reembolso grande significa que pagaste de más durante el año y el gobierno 
 ## Plan para tu próximo reembolso
 
 Declara en línea con depósito directo, rastrea con la herramienta oficial y planifica el uso del dinero antes de recibirlo: primero emergencias y deudas caras, después metas.
+
+
+## Verifica el estado en el IRS
+
+La herramienta oficial [¿Dónde está mi reembolso?](https://www.irs.gov/es/refunds/about-wheres-my-refund) permite comprobar declaraciones electrónicas del año actual aproximadamente **24 horas** después del envío y en papel unas **cuatro semanas** después. El sistema pide año, estatus tributario, SSN o ITIN y el monto exacto esperado. **No uses enlaces de mensajes inesperados** que prometen acelerar el reembolso a cambio de datos privados.

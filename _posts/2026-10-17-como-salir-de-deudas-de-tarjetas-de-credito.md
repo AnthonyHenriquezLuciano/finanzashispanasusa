@@ -19,6 +19,7 @@ faq:
   a: Ten mucho cuidado. Muchas cobran comisiones altas y te piden dejar de pagar, lo que daña tu crédito. Para asesoría, busca una agencia de consejería de crédito sin fines de lucro.
 - q: ¿Debo dejar de ahorrar para pagar deudas?
   a: Lo recomendable es mantener un colchón pequeño (unos $1,000) para no volver a usar la tarjeta ante un imprevisto, y poner el resto en las deudas.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Las tarjetas de crédito cobran algunos de los intereses más altos del sistema financiero. Si solo pagas el mínimo, una deuda de unos pocos miles de dólares puede tardar años en desaparecer y costarte mucho más de lo que compraste. La salida no es un truco: es un **plan** y la disciplina de seguirlo.
 
@@ -81,3 +82,8 @@ Al bajar tus saldos, tu **utilización** baja y tu puntaje suele subir. No cierr
 Lista tus deudas, paga el mínimo en todas y concentra lo extra en una: la de interés más alto (avalancha) o la más pequeña (bola de nieve). Baja tus tasas cuando puedas y no vuelvas a usar las tarjetas hasta terminar.
 
 **Sigue leyendo:** [préstamo personal con ITIN sin intereses abusivos](/prestamo-personal-con-itin/).
+
+
+## Qué hacer si no alcanzan los pagos mínimos
+
+Si tus pagos no cubren los intereses o hay riesgo de atraso, contacta al banco antes del vencimiento y pregunta por programas de dificultad financiera. La [CFPB ofrece información sobre tarjetas de crédito y deudas](https://www.consumerfinance.gov/consumer-tools/credit-cards/). El método avalancha presupone pagos mínimos constantes, que no aparezcan compras nuevas y que las tasas no cambien: **no garantiza una fecha de liquidación**.
