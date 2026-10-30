@@ -33,7 +33,7 @@ last_modified_at: 2026-10-24
 
 ## Qué es el puntaje de crédito
 
-Tu puntaje (el más usado es el **FICO Score**, de 300 a 850) resume cómo manejas tus deudas. Los modelos de puntuación lo calculan con información de agencias como **Equifax, Experian y TransUnion**. Diferentes modelos, versiones y fechas pueden producir puntuaciones distintas.
+Tu puntaje (uno de los modelos más conocidos es el **FICO Score**, generalmente de 300 a 850) resume información de tu historial crediticio. Si dos aplicaciones muestran números distintos, consulta [FICO frente a VantageScore: modelos y versiones](/fico-vs-vantagescore-diferencias/). Los modelos de puntuación lo calculan con información de agencias como **Equifax, Experian y TransUnion**. Diferentes modelos, versiones y fechas pueden producir puntuaciones distintas.
 
 Estos son los factores del FICO Score y su peso aproximado:
 
@@ -65,7 +65,7 @@ Lo ofrecen sobre todo cooperativas de crédito y algunos bancos digitales. El di
 
 ### 3. Usuario autorizado
 
-Si un familiar o amigo de confianza tiene una tarjeta con buen historial, puede añadirte como usuario autorizado. Su historial positivo puede aparecer en tu reporte. Funciona solo si esa persona paga a tiempo y mantiene baja la utilización; si se atrasa, también te afecta.
+Si un familiar o amigo de confianza tiene una tarjeta con buen historial, puede añadirte como **usuario autorizado**, pero el efecto depende de si el emisor reporta esa cuenta y del modelo que utilice el prestamista. Revisa [ventajas, riesgos y comprobaciones antes de aceptar](/usuario-autorizado-tarjeta-credito-pros-contras/) y no pagues a desconocidos por esta opción.
 
 ### 4. Reportar pagos que ya haces
 

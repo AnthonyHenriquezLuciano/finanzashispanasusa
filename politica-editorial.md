@@ -2,10 +2,11 @@
 title: "Política editorial, fuentes y correcciones"
 description: "Cómo elaboramos guías y ejemplos financieros, diferenciamos los supuestos de hechos verificables y comunicamos las correcciones."
 permalink: /politica-editorial/
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 ## Propósito y responsabilidad
 
-Nuestro público son personas hispanohablantes que buscan comprender herramientas financieras en Estados Unidos. La prioridad es **resolver preguntas prácticas**, no publicar páginas con variaciones de palabras clave. Cada guía debe aportar instrucciones comprensibles, ejemplos útiles y advertencias sobre sus límites.
+Nuestro público son personas hispanohablantes que buscan comprender herramientas financieras en Estados Unidos. El propósito de esta política es explicar cómo puede comprobarse y corregirse el contenido, incluso cuando una página no aparece en los resultados de Google. La prioridad es **resolver preguntas prácticas**, no publicar páginas con variaciones de palabras clave. Cada guía debe aportar instrucciones comprensibles, ejemplos útiles y advertencias sobre sus límites.
 
 La firma «Equipo de Finanzas Hispanas USA» identifica la responsabilidad editorial del proyecto y **no constituye una certificación profesional**. No presentamos una pieza como revisada por un experto independiente salvo que esa revisión haya ocurrido y pueda documentarse.
 
@@ -25,6 +26,17 @@ Al preparar o actualizar un material, nuestros criterios de comprobación incluy
 5. ¿Los enlaces llevan a recursos relevantes, y se distingue claramente la publicidad?
 
 **El hecho de publicar esta lista no implica que todos los artículos antiguos hayan superado ya una auditoría individual.** Los contenidos que no puedan verificarse deben corregirse o retirarse temporalmente hasta mejorar su calidad.
+
+## Cómo verificar y solicitar una corrección concreta
+
+Si una guía parece desactualizada, puedes compararla con el documento oficial enlazado en ella y solicitar una corrección en [Contacto](/contacto/). Para poder reproducir el problema, incluye **la URL, el dato dudoso, el año o estado al que se refiere y el documento de contraste**; no envíes información financiera confidencial.
+
+Por ejemplo, una fecha de declaración del IRS depende del **año tributario**, mientras que un modelo de crédito usado por un banco depende del **modelo y versión**. No debemos convertir recomendaciones generales en promesas de aprobación ni mezclar cifras de años distintos.
+
+### Correcciones documentadas
+
+- **30/10/2026:** se revisaron las guías de [pagos estimados al IRS](/pagos-trimestrales-impuestos-1040-es/), [usuario autorizado](/usuario-autorizado-tarjeta-credito-pros-contras/) y [FICO frente a VantageScore](/fico-vs-vantagescore-diferencias/) para precisar limitaciones, fuentes oficiales y situaciones de ejemplo. Los cambios se registran en el historial público del repositorio.
+- La auditoría general de las 65 guías está documentada internamente; haber inspeccionado una página **no implica** que cada afirmación haya recibido validación profesional independiente.
 
 ## Originalidad y herramientas
 

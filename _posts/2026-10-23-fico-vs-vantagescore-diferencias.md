@@ -7,11 +7,11 @@ keywords: ["fico vs vantagescore", "por que mi score es diferente", "puntaje cre
 image:
   path: /assets/img/blog/fico-vs-vantagescore-diferencias.webp
   alt: "Comparación gráfica de puntajes de crédito FICO y VantageScore"
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: credito
 resumen:
 - "FICO y VantageScore son **dos empresas distintas** que calculan puntajes de crédito con fórmulas diferentes, ambas en una escala de **300 a 850**."
-- "Las apps gratuitas suelen mostrar **VantageScore 3.0 o 4.0**; la mayoría de los prestamistas usan **FICO**, sobre todo FICO 8 y versiones específicas para hipotecas y autos."
+- "Las apps y los prestamistas pueden mostrar modelos diferentes; pregunta por la **versión, agencia y fecha** del puntaje. En hipotecas vendidas a Fannie Mae o Freddie Mac, se admite Classic FICO o VantageScore 4.0 según la fase de implementación."
 - "Es normal que tus puntajes difieran **20, 30 o hasta 50 puntos** entre modelos y burós."
 - "Ambos premian lo mismo: **pagar a tiempo**, **usar poco del límite**, historial largo y pocas solicitudes nuevas."
 faq:
@@ -35,7 +35,13 @@ faq:
 | Versiones comunes | FICO 8, FICO 9, FICO 10; FICO 2, 4 y 5 en hipotecas; FICO Auto Score | VantageScore 3.0 y 4.0 |
 | Historial mínimo | Una cuenta de al menos 6 meses y actividad en los últimos 6 meses | Una cuenta reportada en los últimos 24 meses |
 | Dónde lo ves | La mayoría de prestamistas; muchas apps de bancos | Apps gratuitas como Credit Karma; algunos bancos |
-| Uso en hipotecas | Históricamente obligatorio para Fannie Mae y Freddie Mac | Aceptado desde 2025 para préstamos de Fannie y Freddie (VantageScore 4.0), según la FHFA |
+| Uso en hipotecas | Classic FICO sigue aceptado para préstamos vendidos a Fannie Mae y Freddie Mac | VantageScore 4.0 se habilitó progresivamente y está disponible para prestamistas aprobados desde septiembre de 2026, según FHFA |
+
+## Qué cambió en hipotecas durante 2026
+
+La [FHFA informó el 9 de septiembre de 2026](https://www.fhfa.gov/policy/credit-scores) que los prestamistas aprobados por Fannie Mae y Freddie Mac ya podían utilizar **VantageScore 4.0** para préstamos elegibles, sin pedir aprobación previa especial. **Classic FICO continúa permitido** y la disponibilidad no significa que tu banco utilice VantageScore en todos sus préstamos.
+
+Por eso, si piensas comprar casa, pregunta al prestamista **qué modelo utilizará para tu solicitud específica**, no solo cuál te enseña una aplicación de monitoreo. El historial y los criterios de evaluación siguen importando.
 
 ## Qué pesa cada factor
 
@@ -49,17 +55,27 @@ Ambos modelos coinciden en lo esencial. FICO publica estos pesos aproximados:
 | Combinación de crédito | 10 % | Tener tarjetas y algún préstamo a plazos ayuda, pero no es necesario |
 | Crédito nuevo | 10 % | Evitar muchas solicitudes en poco tiempo |
 
-VantageScore usa categorías parecidas, con más peso relativo en el historial de pagos y la utilización, y trata con algo más de flexibilidad a quienes tienen poco historial.
+VantageScore utiliza un algoritmo distinto y sus factores no deben equipararse con los porcentajes de FICO. Los porcentajes de esta tabla son aproximaciones publicadas para **modelos FICO clásicos**, no una fórmula que puedas aplicar directamente a todos los modelos.
 
 ## Por qué tu puntaje cambia de un lugar a otro
 
 1. **Modelo distinto:** FICO 8 frente a VantageScore 3.0, por ejemplo.
-2. **Versión distinta:** las hipotecas usan versiones más antiguas de FICO; las tarjetas, FICO 8 o 9.
+2. **Versión distinta:** los prestamistas hipotecarios pueden utilizar Classic FICO o VantageScore 4.0 en operaciones elegibles; otros productos utilizan modelos diversos.
 3. **Buró distinto:** no todos los acreedores reportan a los tres burós.
 4. **Fecha distinta:** cada buró actualiza cuando recibe los datos; una app puede mostrar tu puntaje de hace semanas.
 5. **Tratamiento de deudas en cobranza:** FICO 9 y VantageScore ignoran las cuentas en cobranza ya pagadas; FICO 8 no.
 
-## Ejemplo: Luis ve tres números distintos
+## Ejemplo: cómo comparar los datos
+
+| Dato que debes anotar | Ejemplo ficticio |
+|---|---|
+| Aplicación de seguimiento | VantageScore 3.0, TransUnion, actualizado el 5 de octubre |
+| Banco | FICO 8, Experian, actualizado el 14 de octubre |
+| Prestamista hipotecario | Modelo y burós que efectivamente utilice para la solicitud |
+
+**Conclusión:** incluso con el mismo titular, modelos, burós y fechas diferentes pueden generar números diferentes. No intentes convertir un puntaje VantageScore a FICO mediante una regla fija: no existe una equivalencia garantizada.
+
+## Ejemplo hipotético: Luis ve tres números distintos
 
 Luis quiere comprar un carro. Revisa:
 
@@ -67,7 +83,7 @@ Luis quiere comprar un carro. Revisa:
 - La app de su banco (FICO 8, Experian): **694**.
 - El concesionario (FICO Auto Score 8, Equifax): **681**.
 
-Ninguno es un error. El FICO Auto Score pesa más el historial con préstamos de carro, y Luis tuvo un atraso hace tres años en un préstamo de auto. Antes de negociar, Luis debería preguntar qué modelo y buró usará el prestamista, y revisar su reporte de Equifax para confirmar que no hay errores.
+Los tres resultados podrían ser válidos; un modelo especializado puede evaluar distintos componentes del historial y Luis pudo tener un atraso hace tres años en un préstamo de automóvil. Antes de negociar, Luis debería preguntar qué modelo y buró usará el prestamista, y revisar su reporte de Equifax para confirmar que no hay errores.
 
 ## Rangos de puntaje, en general
 

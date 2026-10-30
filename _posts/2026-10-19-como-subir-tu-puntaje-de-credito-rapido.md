@@ -24,7 +24,7 @@ La forma más rápida de subir tu puntaje de crédito es **pagar el saldo de tus
 
 ## Qué mueve tu puntaje
 
-El modelo FICO, el más usado por los prestamistas, pesa estos factores:
+Para algunos modelos FICO clásicos, la importancia aproximada de los factores es la siguiente. Distintos prestamistas pueden usar versiones diferentes: consulta [cómo comparar FICO y VantageScore](/fico-vs-vantagescore-diferencias/) antes de interpretar la cifra que ves en una app.
 
 | Factor | Peso aproximado | Qué tan rápido puedes cambiarlo |
 |---|---|---|
@@ -69,7 +69,7 @@ Un límite más alto baja tu utilización sin pagar nada extra, siempre que no g
 
 ## 6. Hazte usuario autorizado
 
-Si un familiar de confianza tiene una tarjeta **antigua, con límite alto y pagos perfectos**, puede añadirte como usuario autorizado. Ese historial puede aparecer en tu reporte. Confirma antes que el emisor reporta usuarios autorizados a los tres burós. Si esa persona se atrasa, también te afecta.
+Si un familiar de confianza tiene una tarjeta **antigua, con límite alto y pagos perfectos**, puede añadirte como usuario autorizado. Ese historial **podría** aparecer en tu reporte. Confirma qué burós reciben los datos y comprende los [riesgos del usuario autorizado](/usuario-autorizado-tarjeta-credito-pros-contras/), porque el impacto no está garantizado.
 
 ## 7. Reporta tu renta y servicios
 
