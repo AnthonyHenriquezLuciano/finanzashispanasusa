@@ -39,7 +39,7 @@ Un cheque semanal de **$600** cambiado con una comisión del 2 %:
 - $12 por semana
 - **$624 al año**
 
-Con una cuenta bancaria y depósito directo, ese costo es **$0**.
+Con una cuenta adecuada sin cargos por depósito directo o mantenimiento, ese gasto por cambiar cheques puede reducirse a **$0**; confirma las tarifas de la entidad.
 
 ## Cómo cambiarlo paso a paso
 
@@ -55,7 +55,7 @@ Con una cuenta bancaria puedes:
 
 - Recibir **depósito directo** de tu nómina y de tu [reembolso de impuestos](/reembolso-de-impuestos-cuando-llega-y-como-usarlo/).
 - **Depositar cheques con foto** desde la app.
-- Construir un historial para [construir crédito](/como-construir-credito-en-estados-unidos-desde-cero/) más adelante.
+- Organizar tus movimientos bancarios; si quieres construir crédito también necesitarás una cuenta o producto que reporte pagos a los burós, como explicamos en [construir crédito](/como-construir-credito-en-estados-unidos-desde-cero/).
 - [Enviar remesas](/como-enviar-dinero-a-latinoamerica-mas-barato/) a tu familia con menores costos.
 
 Muchos bancos y cooperativas abren cuentas con **ITIN, pasaporte o matrícula consular**. Te lo explicamos en [cómo abrir una cuenta sin Seguro Social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/). Busca cuentas certificadas "Bank On", diseñadas sin cargos por sobregiro y con costos bajos.
@@ -72,4 +72,4 @@ Aunque el banco te deje usar el dinero en pocos días, si el cheque es falso **t
 
 ## La opción más barata para tu próximo cheque
 
-Para cambiar un cheque sin cuenta, ve primero al banco emisor o a una tienda grande y evita los check cashers. Mejor aún: abre una cuenta con depósito directo y ahórrate esas comisiones para siempre. Si envías dinero a tu país, compara costos con la calculadora de abajo.
+Antes de cambiar un cheque sin cuenta, compara las tarifas y requisitos del banco emisor, una tienda y otros proveedores. No todos los bancos cambian cheques a no clientes. Mejor aún: abre una cuenta con depósito directo y ahórrate esas comisiones para siempre. Si envías dinero a tu país, compara costos con la calculadora de abajo.

@@ -3,8 +3,6 @@ title: "Metodología de nuestras calculadoras financieras"
 description: "Fórmulas, supuestos, pruebas numéricas y límites de las herramientas gratuitas de remesas, crédito, deudas, presupuesto, ahorro y préstamos."
 permalink: /metodologia-calculadoras/
 ---
-# Cómo calculamos: fórmulas, ejemplos y límites
-
 En Finanzas Hispanas USA preferimos mostrar **qué calcula realmente una herramienta** antes que ofrecer un «resultado perfecto». Esta página documenta los métodos de las calculadoras del sitio, para que puedas comprobarlos con papel, Excel o una hoja de cálculo.
 
 **Importante:** todas las calculadoras ofrecen estimaciones educativas. No consultan tu información en agencias de crédito, no acceden a cotizaciones bancarias en tiempo real, no predicen aprobación de préstamos y no sustituyen contratos o regulaciones.
@@ -73,9 +71,7 @@ El simulador asume pagos mensuales constantes y una tasa APR que no cambia. No a
 
 Se emplea la fórmula usual de **cuota fija para préstamo amortizable**:
 
-\[
- C=P\frac{r}{1-(1+r)^{-n}}
-\]
+**Cuota = P × r ÷ [1 − (1 + r) elevado a −n]**
 
 donde **P** es el principal financiado, **r** es la tasa mensual APR ÷ 1,200 y **n** el número de mensualidades. Si la tasa es 0 %, la cuota es P ÷ n.
 

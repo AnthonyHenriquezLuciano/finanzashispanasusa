@@ -3,8 +3,6 @@ title: "Casos prácticos de finanzas en Estados Unidos"
 description: "Cuatro casos financieros resueltos con operaciones verificables: crédito, remesas, presupuesto familiar y tarjetas con intereses."
 permalink: /casos-practicos/
 ---
-# Casos prácticos: decide con números, no con promesas
-
 Esta colección reúne **cuatro situaciones hipotéticas** y los pasos concretos para evaluarlas. No son testimonios ni resultados de clientes reales. Usamos datos inventados expresamente para mostrar los cálculos, y señalamos qué no puede deducirse de ellos. Puedes sustituir las cifras por las tuyas con las [calculadoras gratuitas](/herramientas/).
 
 ## Caso 1. Ana quiere reducir la utilización de su tarjeta
@@ -14,7 +12,7 @@ Ana tiene una tarjeta con **$600 de límite** y un saldo de **$180**. No ha teni
 | Concepto | Cálculo | Resultado |
 |---|---|---:|
 | Utilización inicial | $180 ÷ $600 × 100 | 30 % |
-| Pago previsto | $180 − $126 | $126 |
+| Pago para llegar a $54 | $180 − $54 | $126 |
 | Saldo después del pago | $180 − $126 | $54 |
 | Utilización si se reporta $54 | $54 ÷ $600 × 100 | 9 % |
 
