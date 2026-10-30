@@ -20,6 +20,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 defaults:
+  - scope: {path: "feed.xml"}
+    values: {sitemap: false}
   - scope: {path: "", type: posts}
     values: {layout: post}
   - scope: {path: ""}

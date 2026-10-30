@@ -7,13 +7,13 @@ keywords: ["usuario autorizado tarjeta credito", "authorized user credit card", 
 image:
   path: /assets/img/blog/usuario-autorizado-tarjeta-credito-pros-contras.webp
   alt: "Pareja revisando ventajas y riesgos de ser usuario autorizado en tarjeta de crédito"
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: credito
 resumen:
 - "Un **usuario autorizado** recibe una tarjeta de la cuenta de otra persona, pero **no es responsable de pagar la deuda**: la responsabilidad es del titular."
 - "Si el emisor reporta la cuenta a los burós, **el historial de esa tarjeta puede aparecer en tu reporte** y ayudarte a construir crédito."
-- "Funciona solo si el titular **paga siempre a tiempo** y mantiene **baja la utilización**. Si se atrasa, te perjudica a ti también."
-- "Puedes **pedir que te quiten** en cualquier momento y, por lo general, la cuenta desaparece de tu reporte."
+- "El efecto depende de si el emisor reporta la cuenta, de los datos informados y del modelo de puntuación; una cuenta con atrasos o saldos altos puede perjudicar el historial."
+- "Puedes solicitar que te retiren, pero el plazo de actualización del reporte y la eliminación de datos dependen del emisor y del buró: compruébalo después."
 faq:
 - q: "¿Todas las tarjetas reportan a los usuarios autorizados?"
   a: "La mayoría de los grandes emisores lo hacen a los tres burós, pero no todos. Pregunta al emisor antes de agregar a alguien si el objetivo es construir crédito."
@@ -24,7 +24,7 @@ faq:
 - q: "¿Es buena idea pagar por ser usuario autorizado de un desconocido?"
   a: "No. Existen empresas que venden 'tradelines'. Es arriesgado, puede ser considerado engañoso por los prestamistas y algunos modelos de puntaje lo filtran."
 ---
-**Ser usuario autorizado significa que el titular de una tarjeta de crédito te agrega a su cuenta: recibes una tarjeta a tu nombre, pero la deuda sigue siendo del titular.** Si el emisor reporta la cuenta a los burós de crédito, el historial de esa tarjeta puede aparecer en tu reporte. Para alguien que está empezando, recién llegado al país o reconstruyendo su crédito, puede ser una forma rápida de crear historial. Pero solo funciona si el titular es muy responsable.
+**Ser usuario autorizado significa que el titular de una tarjeta de crédito te agrega a su cuenta: recibes una tarjeta a tu nombre, pero la deuda sigue siendo del titular.** Si el emisor reporta la cuenta a los burós de crédito, el historial de esa tarjeta puede aparecer en tu reporte. Para alguien que está empezando, recién llegado al país o reconstruyendo su crédito, puede ser una forma de **aportar datos a su historial**, pero no garantiza puntaje ni aprobación. Requiere confirmar las políticas del emisor y el estado real de la cuenta.
 
 ## Cómo funciona
 
@@ -54,13 +54,21 @@ faq:
 - Si planeas pedir una hipoteca pronto y la cuenta tiene un saldo alto: los prestamistas pueden preguntar por ella.
 - Si el emisor **no reporta** usuarios autorizados.
 
-## Ejemplo: Kevin y la tarjeta de su tía
+## Ejemplo hipotético: Kevin y la tarjeta de su tía
 
 Kevin llegó a Houston hace un año y obtuvo su ITIN. No tenía puntaje de crédito. Su tía Rosa tiene una tarjeta abierta hace 9 años, con límite de $8,000, saldo habitual de $300 y cero atrasos.
 
-Rosa lo agregó como usuario autorizado, pero guardó la tarjeta física. Dos meses después, la cuenta apareció en el reporte de Kevin con 9 años de antigüedad y 4 % de utilización. Kevin ya tenía un puntaje y, con él, consiguió su propia [tarjeta asegurada](/tarjeta-de-credito-asegurada-como-funciona/). Un año después, con su propio historial, pudo solicitar una tarjeta normal.
+Rosa lo agregó como usuario autorizado, pero guardó la tarjeta física. **Supongamos** que dos meses después la cuenta aparece en su reporte con nueve años de antigüedad y una utilización aproximada del 4 %. Esto permitiría a Kevin comprobar si su historial refleja correctamente el dato. **No implica que aparezca un puntaje** ni que el emisor lo apruebe para una nueva [tarjeta asegurada](/tarjeta-de-credito-asegurada-como-funciona/).
 
-Si Rosa hubiera tenido un saldo de $6,000 (75 % de utilización), el efecto en el reporte de Kevin habría sido negativo.
+Si Rosa tuviera un saldo de $6,000 sobre $8,000 (75 %), la cuenta **podría** perjudicar su evaluación, según el modelo y el resto de su historial.
+
+## Comprueba que la opción realmente te ayuda
+
+Antes de aceptar, el titular puede preguntar al emisor: **«¿Reportan usuarios autorizados a Equifax, Experian y TransUnion? ¿Qué datos necesitan? ¿Cuándo actualizan el reporte?»**. Después de algunas semanas, comprueba tus informes oficiales en [AnnualCreditReport.com](https://www.annualcreditreport.com/).
+
+Un usuario autorizado **generalmente no está obligado a pagar** la deuda por esa condición; no debe confundirse con un titular conjunto o codeudor. Consulta la [explicación de la CFPB sobre responsabilidad del usuario autorizado](https://www.consumerfinance.gov/ask-cfpb/i-was-an-authorized-user-on-my-deceased-relatives-credit-card-account-am-i-liable-to-repay-the-debt-en-1485/).
+
+**No pagues** a desconocidos por que te añadan como usuario autorizado. Además de la posibilidad de fraude, un prestamista puede evaluar la cuenta de manera diferente de una cuenta abierta a tu nombre.
 
 ## Reglas claras antes de aceptar
 
