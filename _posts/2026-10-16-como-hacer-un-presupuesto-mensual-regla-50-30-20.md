@@ -23,6 +23,7 @@ faq:
 image:
   path: /assets/img/blog/como-hacer-un-presupuesto-mensual-regla-50-30-20.jpg
   alt: "Organización de un presupuesto mensual según la regla 50 30 20 con calculadora y categorías"
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Si llegas a fin de mes sin saber en qué se fue el sueldo, no es falta de disciplina: es falta de un plan. Un presupuesto es simplemente decidir **antes** a dónde va cada dólar. Aquí tienes un método que funciona aunque tus ingresos cambien de semana a semana.
 
@@ -76,7 +77,7 @@ Pon un límite a cada categoría y revisa cada domingo cuánto te queda. Diez mi
 
 ## Una herramienta lista para usar
 
-Si prefieres no armar la hoja desde cero, nuestro [Planificador de Finanzas Personales](https://payhip.com/b/uMcUx) es una plantilla de Excel en español que calcula sola tu presupuesto 50/30/20, tus gastos por categoría y el avance de tus metas de ahorro.
+Si prefieres no armar la hoja desde cero, nuestro [plantilla gratuita para registrar gastos](/assets/recursos/registro-mensual.csv) es una plantilla de Excel en español que calcula sola tu presupuesto 50/30/20, tus gastos por categoría y el avance de tus metas de ahorro.
 
 ## Tu presupuesto en una tarde
 
@@ -93,3 +94,8 @@ Si tu ingreso cambia cada mes o no te alcanza, estas guías adaptan el método:
 - [fondos para gastos irregulares sinking funds](/fondos-para-gastos-irregulares-sinking-funds/)
 - [presupuesto ingresos variables propinas gig](/presupuesto-ingresos-variables-propinas-gig/)
 - [reducir gastos mensuales plan 30 dias](/reducir-gastos-mensuales-plan-30-dias/)
+
+
+## Comprobación y recurso gratuito
+
+La regla 50/30/20 es una **herramienta de planificación**, no una distribución obligatoria. Puedes descargar el [registro de ingresos y gastos](/assets/recursos/registro-mensual.csv) y contrastar las categorías con las [herramientas de la CFPB](https://www.consumerfinance.gov/consumer-tools/). Calcula siempre porcentajes con tu ingreso **neto** y adapta necesidades y remesas familiares a tu situación real.

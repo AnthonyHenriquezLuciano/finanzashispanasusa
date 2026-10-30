@@ -4,7 +4,7 @@ description: "Conoce cómo se diferencian los ingresos W-2 y 1099, quién retien
 date: 2026-10-23 00:00:00 -0400
 category: Impuestos
 keywords: ["W2 vs 1099", "empleado o contratista independiente", "taxes 1099 hispanos"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 resumen:
 - "**W-2** = eres **empleado**: tu empresa retiene impuestos, paga la mitad del Seguro Social y Medicare, y tienes protecciones como salario mínimo, horas extra y seguro de desempleo."
 - "**1099** = eres **contratista independiente**: cobras sin retención, pagas tú el **impuesto de trabajo por cuenta propia (≈15.3 %)** y haces pagos trimestrales, pero puedes deducir gastos del trabajo."
@@ -31,7 +31,7 @@ faq:
 | Pagos trimestrales | No (normalmente) | Sí, si esperas deber $1,000 o más |
 | Deducir gastos de trabajo | No (a nivel federal) | Sí: herramientas, millas, teléfono, materiales |
 | Salario mínimo y horas extra | Sí | No |
-| Compensación laboral si te lesionas | Sí | Normalmente no |
+| Compensación laboral si te lesionas | Depende de la cobertura y ley estatal | Depende de la clasificación real y ley estatal |
 | Seguro de desempleo | Sí | Normalmente no |
 | Beneficios (seguro médico, 401(k), vacaciones) | Frecuentes | No, salvo que los pagues tú |
 | Formulario que recibes en enero | W-2 | 1099-NEC (o 1099-K si cobras por plataformas) |
@@ -58,7 +58,7 @@ Marcos trabaja en remodelación. Le ofrecen el mismo trabajo de dos formas: $40,
 | Compensación laboral y desempleo | Incluidos | No |
 | Gastos del trabajo que paga él | $0 | $5,000 |
 
-Solo en Seguro Social y Medicare, Marcos paga casi **$1,900 más** como 1099, además de los gastos y la falta de protecciones. Para que el 1099 sea equivalente, la tarifa debería ser de un **20 % a 30 % más alta** que el sueldo de empleado. Antes de aceptar, haz esta cuenta.
+Solo en Seguro Social y Medicare, Marcos paga casi **$1,900 más** como 1099, además de los gastos y la falta de protecciones. **No existe un incremento universal del 20 % al 30 %** que haga equivalentes ambos contratos. Compara ingresos, gastos empresariales reales, impuestos, seguro, beneficios, tiempos no facturables, vacaciones y protecciones antes de aceptar una oferta como independiente. Antes de aceptar, haz esta cuenta.
 
 ## Si recibes un 1099
 

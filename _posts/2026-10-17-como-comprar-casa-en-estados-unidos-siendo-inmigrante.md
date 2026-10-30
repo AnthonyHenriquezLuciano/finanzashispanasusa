@@ -6,7 +6,7 @@ category: Vivienda
 herramienta: emergencia
 keywords: [comprar casa siendo inmigrante, prestamo FHA, hipoteca con ITIN, enganche para casa, primera casa en estados unidos]
 resumen:
-- "Los préstamos **FHA** permiten enganche desde **3.5 %** con puntaje de 580 o más (requieren residencia legal y SSN)."
+- "Los préstamos **FHA** permiten enganche desde **3.5 %** con puntaje de 580 o más (exigen requisitos de residencia específicos y SSN; desde mayo de 2025 se excluye a residentes no permanentes)."
 - "Con **ITIN** existen hipotecas de prestamistas privados, normalmente con enganche y tasas más altos."
 - "Además del enganche, ahorra **2 % a 5 %** para costos de cierre y un fondo de reserva."
 - "Busca **asesoría gratuita** en agencias de vivienda aprobadas por HUD y programas de ayuda de tu estado."
@@ -37,13 +37,13 @@ Tener casa propia es una de las metas más comunes en nuestra comunidad. Con un 
 
 | Préstamo | Enganche mínimo | Puntaje típico | Para quién |
 |---|---|---|---|
-| **FHA** | 3.5 % (con 580+) | 580+ (500 con 10 %) | Residentes legales con SSN, primera casa común |
+| **FHA** | 3.5 % (con 580+) | 580+ (500 con 10 %) | Ciudadanos y residentes permanentes elegibles; no residentes no permanentes en nuevos casos desde 25/05/2025 |
 | **Convencional** | 3 % a 5 % | 620+ | Buen crédito; PMI si das menos de 20 % |
 | **VA** | 0 % | Varía | Veteranos y militares |
 | **USDA** | 0 % | Varía | Zonas rurales elegibles, ingresos moderados |
 | **ITIN / non-QM** | Normalmente 10 % a 20 % | Varía (a veces historial alternativo) | Quienes declaran con ITIN |
 
-Los requisitos cambian; confírmalos con el prestamista y en HUD.gov.
+**Atención:** el préstamo FHA ya no está abierto a residentes no permanentes bajo las nuevas reglas aplicables desde el 25 de mayo de 2025. Verifica tu residencia y los requisitos del programa antes de pagar solicitudes. Los demás programas tienen criterios distintos. Consulta [HUD Mortgagee Letter 2025-09](https://www.hud.gov/sites/dfiles/OCHCO/documents/2025-09hsgml.pdf).
 
 ## Paso 3: calcula cuánto necesitas ahorrar
 
