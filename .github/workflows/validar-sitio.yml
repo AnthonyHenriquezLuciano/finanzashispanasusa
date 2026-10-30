@@ -18,3 +18,5 @@ jobs:
         run: node --check assets/js/tools.js
       - name: Revisar las 65 guías y sus referencias
         run: python3 scripts/revisar_contenido.py
+      - name: Verificar cuatro URLs de Search Console, canonical y feed
+        run: python3 scripts/verificar_indexacion.py
