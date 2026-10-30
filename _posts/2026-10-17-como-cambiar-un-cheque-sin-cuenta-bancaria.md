@@ -19,6 +19,7 @@ faq:
   a: Solo si esa persona lo endosa a tu favor y el lugar lo acepta; muchos no aceptan cheques de terceros.
 - q: ¿Un cheque que "se acreditó" ya es seguro?
   a: No necesariamente. El banco pone el dinero disponible en pocos días, pero un cheque falso puede descubrirse semanas después y tú tendrías que devolver el dinero.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Cobrar tu sueldo con cheque y cambiarlo cada semana en un local de *check cashing* puede costarte cientos de dólares al año. Estas son tus opciones, de la más barata a la más cara.
 
@@ -73,3 +74,8 @@ Aunque el banco te deje usar el dinero en pocos días, si el cheque es falso **t
 ## La opción más barata para tu próximo cheque
 
 Antes de cambiar un cheque sin cuenta, compara las tarifas y requisitos del banco emisor, una tienda y otros proveedores. No todos los bancos cambian cheques a no clientes. Mejor aún: abre una cuenta con depósito directo y ahórrate esas comisiones para siempre. Si envías dinero a tu país, compara costos con la calculadora de abajo.
+
+
+## Señales para identificar un cheque falso
+
+Que un cheque figure como **dinero disponible** no prueba que sea auténtico: el banco podría detectar el fraude más adelante. La [FTC detalla cómo reconocer estafas con cheques](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams). Nunca devuelvas una supuesta diferencia de un cheque a desconocidos mediante transferencia o tarjetas de regalo. El banco emisor **puede cobrar comisiones o rechazar el cambio a no clientes**: confirma antes de desplazarte.

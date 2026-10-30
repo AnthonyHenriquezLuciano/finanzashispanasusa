@@ -19,6 +19,7 @@ faq:
   a: "Según la guía actual de USCIS, Medicaid no se considera para la carga pública, salvo la atención institucional a largo plazo. Los beneficios que usan tus familiares tampoco se cuentan contra ti. Las reglas pueden cambiar: consulta a un abogado de inmigración si tienes dudas."
 - q: "¿Cuánto cuesta un plan del Mercado?"
   a: "Depende de tu edad, tu estado, tu ingreso y el plan. Con ayuda para la prima, muchas familias de ingresos bajos y medios pagan bastante menos que el precio completo."
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Si eres inmigrante, **sí puedes tener seguro médico en Estados Unidos**. La opción exacta depende de tu estatus migratorio, tus ingresos y tu estado. Una sola visita a emergencias sin seguro puede costar miles de dólares, así que vale la pena conocer cada opción, incluso si hoy no calificas para la más común.
 
@@ -43,7 +44,7 @@ Si tu empleador ofrece seguro, suele ser la opción más barata porque la empres
 El **Mercado** es donde compras un plan privado con ayuda del gobierno según tus ingresos.
 
 - **Quién califica:** ciudadanos e inmigrantes con presencia legal que viven en EE.UU. y no están en prisión.
-- **Ayuda para la prima:** si tus ingresos están dentro de los límites, recibes un crédito fiscal que baja tu pago mensual. Los montos y límites de esta ayuda **cambian según las leyes de cada año**, así que revisa la cifra actualizada al solicitar.
+- **Ayuda para la prima:** si cumples los requisitos, podrías obtener un crédito fiscal. **Los ahorros federales adicionales de la etapa de pandemia terminaron el 31 de diciembre de 2025**, por lo que muchos hogares pagan más en 2026. Revisa tus condiciones en [HealthCare.gov](https://www.healthcare.gov/lower-costs/save-on-monthly-premiums/) antes de comparar planes.
 - **Cuándo inscribirte:** la **inscripción abierta** va normalmente del **1 de noviembre al 15 de enero**. Algunos estados con su propio Mercado tienen fechas distintas.
 - **Dónde:** en [CuidadoDeSalud.gov](https://www.cuidadodesalud.gov/es/) o en el sitio de tu estado. Hay **asistentes gratuitos** (navegadores) que te ayudan en español.
 
@@ -64,7 +65,7 @@ Imagina dos planes para una familia:
 - **Plan Bronce:** prima de $120 al mes, deducible de $7,000.
 - **Plan Plata:** prima de $210 al mes, deducible de $2,500.
 
-Si casi no van al médico, el Bronce cuesta $1,440 al año. Si alguien necesita una cirugía de $10,000, con el Bronce pagarían unos $1,440 de primas más $7,000 de deducible: **$8,440**. Con el Plata, $2,520 de primas más $2,500 de deducible: **$5,020**, sin contar coaseguro. Elige pensando en el peor año, no solo en la prima más baja.
+Las primas anuales serían **$1,440** para el Bronce y **$2,520** para el Plata. Pero **no es válido calcular el costo de una cirugía sumando simplemente la prima y el deducible**: faltan el coaseguro, copagos, la red de proveedores, los servicios cubiertos y el máximo de desembolso. Para comparar ambos planes debes ver sus documentos de cobertura y simular el mismo tratamiento. Los importes anteriores son ficticios, no cotizaciones reales.
 
 > Si tus ingresos son modestos, los planes **Plata** pueden incluir **reducciones de costos compartidos** que bajan el deducible. Revísalo al comparar.
 

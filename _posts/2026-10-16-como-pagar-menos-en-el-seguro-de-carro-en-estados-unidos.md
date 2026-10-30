@@ -17,6 +17,7 @@ faq:
   a: Es la parte que pagas tú de una reclamación antes de que pague la aseguradora. Un deducible de $1,000 significa que, en un choque cubierto, pagas los primeros $1,000.
 - q: ¿Me conviene solo la cobertura mínima?
   a: Es la más barata, pero si causas un accidente grave los daños pueden superar el límite y tendrías que pagar la diferencia. Compara el costo de subir los límites; suele ser menor de lo que parece.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 El seguro de carro es obligatorio en casi todo Estados Unidos y, para muchas familias hispanas, es uno de los gastos fijos más altos después de la renta. La buena noticia es que el precio varía mucho de una compañía a otra, y con unos ajustes puedes pagar bastante menos sin quedar desprotegido.
 
@@ -80,3 +81,8 @@ El seguro de carro es una **necesidad** dentro de la regla 50/30/20. Usa la calc
 Conoce los mínimos de tu estado, compara al menos tres cotizaciones con los mismos límites, pide todos los descuentos y ajusta el deducible a lo que tengas ahorrado. Revisarlo una vez al año puede ahorrarte cientos de dólares.
 
 **Sigue leyendo:** [cómo financiar un carro sin pagar de más](/como-financiar-un-carro-en-estados-unidos/) y [seguro médico para inmigrantes](/seguro-medico-para-inmigrantes-en-estados-unidos/).
+
+
+## Comprobación de cobertura y precio
+
+Para comparar cotizaciones de forma justa, pide **los mismos límites de responsabilidad, deducibles y coberturas**. Una prima inferior puede significar menos protección. La [NAIC explica los puntos que debes comparar](https://content.naic.org/consumer/auto-insurance.htm); comprueba también los mínimos obligatorios de tu estado, que no son uniformes en EE.UU.

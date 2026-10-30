@@ -19,6 +19,7 @@ faq:
   a: Solo si dejas de pagar. Si la cuenta se cierra con saldo pendiente, el banco usa el depósito para cubrir la deuda.
 - q: ¿Hay tarjetas aseguradas que acepten ITIN?
   a: Algunas sí, sobre todo en cooperativas de crédito y algunos bancos. Pregunta antes de solicitar, porque los requisitos cambian.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Si no tienes historial de crédito en Estados Unidos, los bancos no tienen cómo saber si pagarás a tiempo. La **tarjeta de crédito asegurada** resuelve ese problema: tú pones un depósito como garantía y, a cambio, recibes una tarjeta que te permite demostrar que eres responsable. Es la forma más usada de empezar desde cero.
 
@@ -82,3 +83,8 @@ Combina la tarjeta asegurada con los demás hábitos de [cómo construir crédit
 Deposita una garantía, usa la tarjeta para compras pequeñas, paga el total cada mes y mantén la utilización bajo el 30 %. En un año puedes tener un puntaje sólido y recuperar tu depósito.
 
 **Sigue leyendo:** [cómo subir tu puntaje de crédito rápido](/como-subir-tu-puntaje-de-credito-rapido/).
+
+
+## Comprueba el reporte a los burós
+
+Una tarjeta asegurada solo ayuda a crear historial si el emisor **reporta la actividad** a las agencias correspondientes. Confirma cuota anual, interés APR, depósito, reglas de devolución del depósito y posibles cargos de apertura. La [CFPB ofrece información sobre cómo funcionan las tarjetas](https://www.consumerfinance.gov/consumer-tools/credit-cards/). No es necesario mantener una deuda con intereses para mejorar hábitos crediticios; **un puntaje concreto en doce meses nunca está garantizado**.

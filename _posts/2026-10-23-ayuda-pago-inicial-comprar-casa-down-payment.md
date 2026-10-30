@@ -4,7 +4,7 @@ description: "Cómo buscar programas locales de asistencia para el pago inicial,
 date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["ayuda down payment estados unidos", "asistencia pago inicial casa", "programas first time homebuyer"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: hipoteca
 resumen:
 - "La ayuda para el pago inicial (DPA) suele venir de la **agencia de vivienda de tu estado**, de tu ciudad o condado, o de organizaciones sin fines de lucro."
@@ -32,11 +32,13 @@ Mucha gente cree que necesita el 20 %. No es así. Estos son los mínimos habitu
 | Tipo de préstamo | Pago inicial mínimo | Quién suele usarlo |
 |---|---|---|
 | Convencional para primera vivienda (por ejemplo, HomeReady o Home Possible) | 3 % | Buen crédito, ingresos moderados |
-| FHA | 3.5 % con puntaje de 580 o más | Crédito en construcción |
+| FHA | 3.5 % con puntaje de 580 o más | Solo solicitantes que cumplan requisitos del programa y residencia aplicables desde mayo de 2025 |
 | VA | 0 % | Veteranos y militares elegibles |
 | USDA | 0 % | Zonas rurales y suburbanas elegibles, con límite de ingresos |
 
 Con un precio de $300,000, el 3.5 % de una FHA son **$10,500**. A eso hay que sumar los costos de cierre, que suelen estar entre el 2 % y el 5 % del precio. Ahí es donde un programa de ayuda marca la diferencia.
+
+**Importante para compradores inmigrantes:** desde el 25 de mayo de 2025, FHA excluye a los residentes no permanentes en nuevos casos sujetos al cambio. Comprueba la [actualización oficial de HUD](https://www.hud.gov/sites/dfiles/OCHCO/documents/2025-09hsgml.pdf) antes de asumir que un programa de pago inicial combina con una hipoteca FHA.
 
 ## Los tres tipos de ayuda
 

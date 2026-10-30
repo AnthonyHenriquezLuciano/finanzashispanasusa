@@ -20,6 +20,7 @@ faq:
   a: Lo habitual es juntar primero un colchón pequeño (unos $1,000) y después atacar las deudas con interés alto, sin dejar de ahorrar un poco.
 - q: ¿Cuánto necesito si trabajo por cuenta propia?
   a: Al menos 6 meses de gastos esenciales, porque tus ingresos pueden variar mucho de un mes a otro.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Un carro que se daña, una semana sin trabajo o una visita al médico pueden convertirse en una deuda de tarjeta de crédito si no tienes un colchón. El **fondo de emergencia** es el dinero que guardas solo para imprevistos, y es la base de cualquier plan financiero.
 
@@ -83,3 +84,8 @@ Junta primero $1,000, después de 3 a 6 meses de gastos esenciales, guárdalo en
 **Sigue leyendo:** [seguro médico para inmigrantes: Mercado y Medicaid](/seguro-medico-para-inmigrantes-en-estados-unidos/).
 
 **Sigue leyendo:** [qué hacer si pierdes tu trabajo: plan de 30 días](/que-hacer-si-pierdes-tu-trabajo/).
+
+
+## Verifica una meta viable
+
+Los **tres a seis meses de gastos** son una referencia, no una obligación universal. Empieza por estimar alquiler, alimentación, transporte y pagos mínimos. La [CFPB aconseja separar el fondo y automatizar los aportes cuando sea viable](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/), sin arriesgarte a un sobregiro. Revisa la liquidez real de cualquier cuenta o certificado antes de utilizarlo como reserva inmediata.

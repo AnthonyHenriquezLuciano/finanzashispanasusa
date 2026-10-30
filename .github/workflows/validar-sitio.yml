@@ -16,3 +16,5 @@ jobs:
         run: python3 scripts/auditar_sitio.py
       - name: Validar sintaxis de calculadoras
         run: node --check assets/js/tools.js
+      - name: Revisar las 65 guías y sus referencias
+        run: python3 scripts/revisar_contenido.py

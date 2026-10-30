@@ -19,6 +19,7 @@ faq:
   a: Lo ideal es un 10 % a 20 % del precio. Un enganche mayor baja el interés total y evita deber más de lo que vale el carro.
 - q: ¿Refinanciar un préstamo de auto vale la pena?
   a: Sí, si tu crédito mejoró o bajaron las tasas. Compara el APR nuevo y revisa si hay cargos por pago anticipado.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Un carro suele ser la segunda compra más grande de una familia, y el préstamo puede costarte miles de dólares extra si firmas sin comparar. Estos pasos te ayudan a comprar con la cabeza fría.
 
@@ -85,3 +86,8 @@ La cuota de 84 meses parece cómoda, pero pagas unos **$3,100 más** que a 48 me
 ## Checklist antes de firmar en el concesionario
 
 Fija tu presupuesto total, revisa tu crédito, llega preaprobado, negocia el precio final y evita plazos largos. Ahorrar unos meses para un enganche mayor puede ahorrarte miles.
+
+
+## Cómo verificar una oferta antes de firmar
+
+Compara el **APR, importe total financiado, plazo, cargos y suma de pagos**, no solo la cuota mensual. Un plazo mayor puede bajar la cuota pero aumentar el total de intereses. La [CFPB ofrece una guía para comparar ofertas de auto](https://www.consumerfinance.gov/ask-cfpb/how-do-i-compare-auto-loan-offers-what-should-i-look-at-besides-the-monthly-payment-en-753/). Añade seguro, mantenimiento y gasolina a tu presupuesto: la regla de porcentaje del ingreso es orientativa, no un criterio legal de aprobación.

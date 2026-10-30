@@ -19,8 +19,11 @@ faq:
   a: "Por ley, el IRS no puede enviar reembolsos que incluyan EITC o el crédito adicional por hijos antes de mediados de febrero."
 - q: "¿Puedo reclamar a un hijo que vive en otro país?"
   a: "Para el crédito por hijos y el EITC, el hijo debe haber vivido contigo en EE.UU. más de la mitad del año. Hay excepciones limitadas para algunos dependientes de México y Canadá en el crédito por otros dependientes."
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Si tienes hijos y trabajas en Estados Unidos, los créditos tributarios pueden ser **el dinero más grande que recibas del gobierno en todo el año**. El Crédito Tributario por Hijos y el Crédito por Ingreso del Trabajo (EITC) pueden sumar varios miles de dólares en tu reembolso. Pero muchas familias hispanas los pierden porque no saben si califican o porque cometen errores con los números de identificación.
+
+Los importes indicados en esta guía corresponden al **año tributario 2025** (declaraciones normalmente presentadas en 2026). Los montos y algunos requisitos pueden cambiar en años posteriores. Comprueba las [instrucciones oficiales del Anexo 8812 del IRS](https://www.irs.gov/instructions/i1040s8) antes de presentar.
 
 ## Los tres créditos que debes conocer
 
@@ -54,7 +57,7 @@ Además, tus ingresos deben estar por debajo del límite: el crédito empieza a 
 
 ### ¿Y si mis hijos o yo tenemos ITIN?
 
-- Si el **hijo** tiene ITIN, no califica para el CTC, pero sí puedes reclamar el **crédito por otros dependientes**.
+- Si el **hijo** tiene ITIN, no califica para el CTC; **podría** ser elegible para el crédito por otros dependientes, sujeto a requisitos de dependencia, identificación, residencia y situación tributaria.
 - La ley tributaria aprobada en 2025 exige que **al menos uno de los padres** que declaran tenga SSN para el CTC. Si ambos declaran con ITIN, revisa el crédito por otros dependientes.
 - Aprende las diferencias entre ambos números en [ITIN vs. SSN](/itin-vs-ssn-diferencias-y-como-solicitar-el-itin/).
 
@@ -111,6 +114,6 @@ Un reembolso grande es una oportunidad para cambiar tus finanzas:
 
 ## Qué reclamar según el número de tus hijos
 
-Si tus hijos tienen SSN, reclama el Crédito Tributario por Hijos y revisa si calificas al EITC. Si tienen ITIN, no pierdas el crédito por otros dependientes. Declara aunque ganes poco, guarda pruebas de que los niños viven contigo y usa VITA para hacerlo gratis.
+Si tus hijos tienen SSN, reclama el Crédito Tributario por Hijos y revisa si calificas al EITC. Si tienen ITIN, **verifica si** califican para el crédito por otros dependientes; no es automático. Declara aunque ganes poco, guarda pruebas de que los niños viven contigo y usa VITA para hacerlo gratis.
 
 **Sigue leyendo:** [cómo ahorrar para la universidad con un plan 529](/plan-529-ahorrar-para-la-universidad-de-tus-hijos/).

@@ -4,7 +4,7 @@ description: "Antes de pagar un depósito de alquiler, verifica condiciones, inv
 date: 2026-10-23 00:00:00 -0400
 category: Vivienda
 keywords: ["deposito seguridad renta", "security deposit inquilino", "devolucion deposito alquiler usa"]
-last_modified_at: 2026-10-27 10:00:00 -0400
+last_modified_at: 2026-10-30 12:00:00 -0400
 herramienta: presupuesto
 resumen:
 - "El depósito de seguridad garantiza al dueño contra **renta impaga o daños más allá del desgaste normal**. Debe devolverse al salir, con o sin descuentos detallados."
@@ -90,3 +90,8 @@ Algunos edificios ofrecen un **seguro de depósito** (pagas una cuota mensual o 
 - Haz tu presupuesto de mudanza con la calculadora de esta página.
 
 *Este artículo es informativo y no sustituye asesoría legal. Las leyes de vivienda cambian; confirma la normativa vigente de tu estado y ciudad.*
+
+
+## La normativa depende de tu localidad
+
+No existe un plazo federal único que rija todas las devoluciones de depósitos de seguridad en alquileres privados. Verifica las reglas **de tu estado y municipio**, el contrato y las deducciones permitidas. El [HUD mantiene recursos de orientación para arrendatarios](https://www.hud.gov/topics/rental_assistance). Haz fotografías del estado inicial y final, guarda el contrato y solicita comprobantes de cualquier deducción.

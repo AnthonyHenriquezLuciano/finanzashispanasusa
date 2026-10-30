@@ -19,6 +19,7 @@ faq:
   a: Abogados de inmigración con licencia y representantes acreditados de organizaciones reconocidas por el Departamento de Justicia (EOIR).
 - q: ¿Cómo protejo mi cuenta bancaria?
   a: Activa la autenticación en dos pasos, alertas de transacciones y nunca compartas códigos de verificación que te lleguen por mensaje.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Los estafadores saben que muchos inmigrantes tienen miedo de las autoridades, no conocen todas las reglas o prefieren tratar en su idioma. Por eso crean engaños dirigidos a nuestra comunidad. Reconocerlos es la mejor defensa.
 
@@ -83,3 +84,8 @@ Reportar no afecta tu estatus migratorio y ayuda a detener a los estafadores.
 ## Tres preguntas antes de pagar a alguien
 
 Desconfía de la presión, de los pagos raros y de las amenazas. Verifica siempre por canales oficiales y reporta. Haz el test de abajo para ver qué tan protegidas están tus finanzas.
+
+
+## Cómo denunciar y guardar pruebas
+
+Ante una solicitud inesperada de dinero, **verifica la identidad por un medio independiente antes de transferir**. Puedes denunciar intentos de fraude mediante [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/). Si ya enviaste dinero, llama inmediatamente a tu banco o al proveedor y conserva recibos y mensajes; la devolución no está garantizada. Evita enviar contraseñas o códigos de verificación a personas que te llamen inesperadamente.

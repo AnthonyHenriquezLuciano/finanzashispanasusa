@@ -19,6 +19,7 @@ faq:
   a: La cuenta sigue siendo tuya. Puedes mantenerla o retirarla siguiendo las reglas de impuestos. Consulta con un profesional sobre tratados fiscales con tu país.
 - q: ¿Qué es una SEP IRA?
   a: Una IRA para trabajadores independientes y pequeños negocios que permite aportes mucho mayores que una IRA normal.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Muchos trabajadores hispanos trabajan en empresas pequeñas, por su cuenta o en empleos que no ofrecen plan de retiro. Eso no significa que no puedas ahorrar para tu futuro con ventajas fiscales: para eso existe la **IRA (Cuenta Individual de Retiro)**.
 
@@ -82,3 +83,8 @@ Empezar 10 años antes puede más que duplicar el resultado. Lo importante es **
 Si no tienes 401(k), abre una IRA (normalmente Roth), invierte en fondos de bajo costo y automatiza un aporte mensual. Mientras tanto, mantén tu ahorro de corto plazo en una [cuenta de alto rendimiento](/cuenta-de-ahorro-de-alto-rendimiento-que-es-y-como-elegir/).
 
 **Sigue leyendo:** [plan 529 para la universidad de tus hijos](/plan-529-ahorrar-para-la-universidad-de-tus-hijos/).
+
+
+## Reglas que debes verificar antes de abrir una IRA
+
+Una IRA tradicional y una Roth IRA tienen **reglas tributarias diferentes**; no todas las aportaciones son deducibles ni todos los retiros son libres de impuestos. Comprueba compensación tributable, límites de aportación y condiciones de retiro en [el Tema 451 del IRS](https://www.irs.gov/es/taxtopics/tc451). Los rendimientos de ejemplo son supuestos de cálculo, **no garantías** de rentabilidad.

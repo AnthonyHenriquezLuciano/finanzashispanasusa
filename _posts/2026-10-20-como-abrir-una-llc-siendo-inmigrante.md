@@ -19,6 +19,7 @@ faq:
   a: "Separa tus bienes personales de las deudas del negocio en muchos casos, pero no si mezclas el dinero personal con el del negocio, si firmas garantías personales o si cometes fraude."
 - q: "¿Puedo tener una LLC y seguir declarando con ITIN?"
   a: "Sí. Si eres el único dueño, reportas las ganancias en el Anexo C de tu declaración personal con tu ITIN y pagas el impuesto de trabajo por cuenta propia."
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Sí, **puedes abrir una LLC en Estados Unidos siendo inmigrante**, incluso si declaras impuestos con ITIN o no tienes Seguro Social. Registrar la empresa es un trámite estatal que no exige ciudadanía. Lo que sí necesitas es elegir el estado correcto, conseguir un **EIN** para el negocio y llevar las cuentas separadas desde el primer día.
 
@@ -110,7 +111,7 @@ Con varios socios, la LLC se declara como sociedad (Formulario 1065). Con gananc
 - **Informe o tarifa anual** del estado, si aplica. Si no lo presentas, el estado puede disolver tu LLC.
 - **Renovación de licencias** locales.
 - **Registros contables** de todos los ingresos y gastos.
-- **Reportes de información de beneficiarios (BOI):** las reglas federales cambiaron en 2025 y hoy las compañías creadas en EE.UU. están exentas; revisa la situación actual en [FinCEN](https://www.fincen.gov/boi).
+- **Información de beneficiarios (BOI):** FinCEN confirmó mediante regla final vigente desde agosto de 2026 que **las compañías constituidas en Estados Unidos están exentas del reporte federal BOI**. Algunas compañías creadas bajo legislación extranjera y registradas en EE.UU. pueden tener obligaciones diferentes. Verifica siempre en [FinCEN](https://www.fincen.gov/boi).
 
 ## Fallos de dueños nuevos de una LLC
 
