@@ -22,6 +22,7 @@ faq:
 image:
   path: /assets/img/blog/como-comprar-casa-en-estados-unidos-siendo-inmigrante.jpg
   alt: "Pareja hispana revisando una hipoteca y los documentos para comprar casa en Estados Unidos"
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Tener casa propia es una de las metas más comunes en nuestra comunidad. Con un plan claro y paciencia, es posible incluso si llegaste hace pocos años o declaras con ITIN.
 
@@ -93,3 +94,8 @@ Según en qué etapa estés, estas son las lecturas que siguen:
 - [hipoteca tasa fija vs ajustable arm](/hipoteca-tasa-fija-vs-ajustable-arm/)
 
 **Sigue leyendo:** [¿cuánta casa puedo pagar?](/cuanta-casa-puedo-pagar/) y usa la [calculadora de casa](/herramientas/calculadora-cuanta-casa-puedo-pagar/).
+
+
+## Regla FHA de residencia actualizada
+
+**Desde el 25 de mayo de 2025**, los nuevos casos sujetos a la modificación de FHA **no admiten a residentes no permanentes** como solicitantes elegibles. Tener permiso de trabajo o una visa válida no equivale necesariamente a tener residencia permanente para este programa. Consulta la [Mortgagee Letter 2025-09 de HUD](https://www.hud.gov/sites/dfiles/OCHCO/documents/2025-09hsgml.pdf). **Poder comprar una propiedad y ser elegible para financiarla mediante FHA son cuestiones distintas**; otras hipotecas tienen requisitos propios.

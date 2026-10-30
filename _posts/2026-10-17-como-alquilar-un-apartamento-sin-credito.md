@@ -19,6 +19,7 @@ faq:
   a: Puede ayudar si el pago se reporta a los burós. Algunos arrendadores lo hacen, y existen servicios que lo reportan por ti.
 - q: ¿Qué hago si el arrendador no me devuelve el depósito?
   a: Pide por escrito el detalle de los descuentos. Si no corresponden, puedes reclamar en la corte de reclamos menores de tu estado.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Llegar a un país nuevo y encontrar dónde vivir es uno de los primeros retos. Sin historial de crédito o sin Seguro Social, muchos arrendadores dudan, pero hay formas legales y comunes de calificar.
 
@@ -73,3 +74,8 @@ Más señales de alerta en nuestra guía de [estafas financieras comunes](/estaf
 Sin crédito sí se puede alquilar: llega con pruebas de ingreso, ofrece codeudor o depósito mayor, conoce tus derechos y nunca pagues sin verificar. Y empieza hoy a construir crédito para tu próximo contrato o tu [primera casa](/como-comprar-casa-en-estados-unidos-siendo-inmigrante/).
 
 **Sigue leyendo:** [seguro de inquilino: qué cubre y cuánto cuesta](/seguro-de-inquilino-que-cubre-y-cuanto-cuesta/).
+
+
+## Revisa tus derechos antes de pagar un depósito
+
+La admisión de documentos alternativos, los depósitos y los requisitos de verificación pueden variar por arrendador, estado y ciudad. Pide las condiciones por escrito y verifica que la persona pueda alquilar el inmueble antes de transferir dinero. La [CFPB explica cómo consultar reportes y disputar información incorrecta](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/), incluyendo datos relevantes para evaluaciones de inquilinos.

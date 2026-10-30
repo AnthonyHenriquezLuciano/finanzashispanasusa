@@ -19,6 +19,7 @@ faq:
   a: Normalmente el 15 de abril. Si cae en fin de semana o feriado, pasa al siguiente día hábil. Puedes pedir una prórroga para presentar, pero no para pagar lo que debas.
 - q: ¿Qué hago si no puedo pagar lo que debo?
   a: Presenta tu declaración a tiempo de todas formas para evitar la multa por no presentar, y solicita un plan de pagos al IRS.
+last_modified_at: 2026-10-30 12:00:00 -0400
 ---
 Pagar $200 o $300 para que alguien prepare una declaración sencilla es un gasto que muchas familias pueden evitar. El IRS ofrece varias formas **oficiales y gratuitas** de presentar tus impuestos, y varias tienen atención en español.
 
@@ -81,3 +82,8 @@ Si te preocupa una llamada o mensaje del "IRS", lee nuestra guía de [estafas fi
 Antes de pagar a un preparador, revisa si calificas para VITA o IRS Free File. Lleva todos tus documentos, exige que el reembolso llegue a tu cuenta y nunca firmes algo que no entiendas.
 
 **Sigue leyendo:** [crédito tributario por hijos y EITC](/credito-tributario-por-hijos-y-eitc/).
+
+
+## Disponibilidad de programas a octubre de 2026
+
+**IRS Free File cerró su temporada y el IRS indica volver a consultar en enero de 2027.** La elegibilidad del software guiado depende del AGI y de la oferta del socio; confirma en [IRS Free File en español](https://www.irs.gov/es/e-file-do-your-taxes-for-free) antes de comenzar. **Direct File fue suspendido** y no debe anunciarse como alternativa disponible; consulta la [revisión de GAO](https://www.gao.gov/products/b-337954). Los requisitos de VITA pueden diferir por sede y tipo de declaración.
