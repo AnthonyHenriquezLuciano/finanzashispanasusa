@@ -10,6 +10,10 @@ author: Equipo de Finanzas Hispanas USA
 contact_email: contacto@finanzashispanasusa.com
 # ID de editor de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = sin anuncios.
 adsense_client: "ca-pub-7854535344264296"
+# During AdSense review, do not create in-article or calculator ad slots.
+# Keep the client loader for ownership/site verification only.
+# IMPORTANT: disable Auto ads in the AdSense dashboard until content review is complete.
+adsense_manual_slots_enabled: false
 permalink: /:title/
 plugins:
   - jekyll-seo-tag

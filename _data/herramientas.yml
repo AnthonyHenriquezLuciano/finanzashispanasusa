@@ -11,17 +11,17 @@
 - slug: calculadora-utilizacion-credito
   include: credito
   titulo: Calculadora de utilización de crédito
-  corto: Descubre cuánto pagar para subir tu puntaje.
+  corto: Calcula la utilización y simula pagos; no predice cambios de puntaje.
   icono: "▲"
 - slug: calculadora-fondo-de-emergencia
   include: emergencia
   titulo: Calculadora de fondo de emergencia
-  corto: Tu meta exacta y la fecha en que la alcanzarás.
+  corto: Estima tu meta de emergencia según gastos y aportaciones.
   icono: "◆"
 - slug: test-salud-financiera
   include: quiz
   titulo: Test de salud financiera
-  corto: 8 preguntas y un plan personalizado.
+  corto: 8 preguntas y recomendaciones educativas según tus respuestas.
   icono: "✓"
 - slug: calculadora-salir-de-deudas
   include: deudas
