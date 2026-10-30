@@ -29,3 +29,8 @@ Desde el 1 de enero de 2026 las remesas pagadas en **efectivo, money order o che
 El tipo de cambio anunciado puede diferir del tipo de cambio de referencia y de la tasa final que verá el destinatario. Introduce el mismo monto, país de destino y método de cobro en cada proveedor. Confirma si la oferta incluye promociones temporales y cuándo estará disponible el dinero. El resultado no es una cotización en vivo.
 
 Si envías a México, consulta [la guía específica para México](/como-enviar-dinero-a-mexico/); si tienes dudas sobre comisiones y derechos, revisa [cómo enviar dinero a Latinoamérica](/como-enviar-dinero-a-latinoamerica-mas-barato/).
+
+
+## Comprueba los resultados
+
+Este cálculo es **educativo**, con supuestos simplificados y sin acceso a datos bancarios o cotizaciones de mercado en vivo. Revisa las [fórmulas, ejemplos y limitaciones de las calculadoras](/metodologia-calculadoras/) y consulta los [casos prácticos resueltos](/casos-practicos/) antes de tomar una decisión.
