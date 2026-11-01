@@ -92,3 +92,5 @@ Lee la guía completa de [impuestos para trabajadores independientes](/impuestos
 - Si quieres formalizar tu negocio, mira [cómo abrir una LLC siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/).
 
 *Fuentes: [IRS — ¿Contratista independiente o empleado?](https://www.irs.gov/es/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee), Formularios SS-8 y 8919, [Departamento de Trabajo de EE.UU.](https://www.dol.gov/). Tasas y umbrales sujetos a cambios anuales.*
+
+**Sigue leyendo:** los impuestos de autoempleo también te dan créditos para tu pensión; mira [cómo funciona la jubilación del Seguro Social](/seguro-social-jubilacion-cuanto-recibiras-y-cuando-pedirlo/).
