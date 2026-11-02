@@ -1,0 +1,15 @@
+<section class="tool" data-tool="segurosocial" aria-labelledby="t-ss">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-ss" class="tool-title">Seguro Social: ¿a qué edad te conviene pedirlo?</h2><p>Compara tu cheque y el total que cobrarías de por vida si lo pides entre los 62 y los 70.</p></header>
+  <div class="tool-grid">
+    <label>Año en que naciste<input name="nac" inputmode="numeric" value="1965"></label>
+    <label>Beneficio a edad plena (USD al mes)<input name="pia" inputmode="decimal" value="1600"></label>
+    <label>Edad hasta la que planeas cobrar<input name="vida" inputmode="numeric" value="85"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Tu edad plena</span><b data-out="fra">—</b></div>
+    <div><span>Cheque a los 62</span><b data-out="c62">—</b></div>
+    <div><span>Cheque a los 70</span><b data-out="c70">—</b></div>
+  </div>
+  <table class="pl-tab"><thead><tr><th>Edad</th><th>Cheque</th><th>Total cobrado</th></tr></thead><tbody data-out="tabla"></tbody></table>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

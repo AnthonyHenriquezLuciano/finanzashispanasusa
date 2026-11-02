@@ -3,7 +3,7 @@ title: "Jubilación del Seguro Social: cuánto recibirás y a qué edad pedirla"
 description: "Cómo ganas los 40 créditos, cómo calcula la SSA tu beneficio, cuánto pierdes si lo pides a los 62 y cuánto ganas si esperas a los 70. Ejemplo con números."
 date: 2026-11-01 07:00:00 -0400
 category: Ahorro
-herramienta: presupuesto
+herramienta: seguro-social
 keywords: [seguro social jubilacion, cuanto voy a recibir de seguro social, jubilarse a los 62, creditos seguro social, edad plena de jubilacion]
 resumen:
 - "Necesitas **40 créditos** (unos 10 años de trabajo con impuestos de Seguro Social) para tener derecho a la jubilación."

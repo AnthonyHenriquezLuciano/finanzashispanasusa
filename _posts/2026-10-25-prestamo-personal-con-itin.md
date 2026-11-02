@@ -93,3 +93,5 @@ Un **préstamo para construir crédito** (credit-builder loan) funciona al revé
 ## Por dónde empezar con ITIN
 
 Con ITIN, busca primero una cooperativa de crédito o un CDFI, compara siempre el APR y evita los préstamos de día de pago y de título de carro. Si no tienes historial, empieza con un préstamo para construir crédito y, cuanto antes, arma un fondo de emergencia para no depender de préstamos.
+
+**Sigue leyendo:** si te ofrecen un préstamo rápido sin revisar crédito, compara antes [cuánto cuesta de verdad un payday loan](/prestamos-de-dia-de-pago-payday-por-que-evitarlos/).

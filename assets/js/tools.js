@@ -175,6 +175,25 @@
       });
     },
 
+    segurosocial: function (root) {
+      bind(root, function () {
+        var nac = val(root, "nac"), pia = val(root, "pia"), vida = val(root, "vida"), out = $(root, '[data-out="veredicto"]');
+        if (!pia || nac < 1900) { out.textContent = "Escribe tu año de nacimiento y tu beneficio estimado a edad plena (lo ves en ssa.gov)."; return; }
+        var fra = nac <= 1954 ? 792 : nac >= 1960 ? 804 : 792 + 2 * (nac - 1954);
+        function pct(age) { var m = fra - age * 12; if (m > 0) return 1 - (m <= 36 ? m * 5 / 900 : 0.2 + (m - 36) * 5 / 1200); return 1 + Math.min(-m, 840 - fra) * 2 / 300; }
+        var rows = "", best = 0, bestAge = 62, data = [], max = 0;
+        for (var a = 62; a <= 70; a++) { var c = pia * pct(a), t = Math.max(0, (vida - a) * 12) * c; data.push([a, c, t]); max = Math.max(max, t); if (t > best) { best = t; bestAge = a; } }
+        data.forEach(function (d) { rows += '<tr' + (d[0] === bestAge ? ' class="on"' : "") + "><td>" + d[0] + " años</td><td>" + usd.format(d[1]) + '</td><td><span class="pl-bar" style="width:' + (max ? d[2] / max * 100 : 0) + '%"></span>' + usd.format(d[2]) + "</td></tr>"; });
+        $(root, '[data-out="tabla"]').innerHTML = rows;
+        $(root, '[data-out="fra"]').textContent = Math.floor(fra / 12) + (fra % 12 ? " y " + fra % 12 + " meses" : " años");
+        $(root, '[data-out="c62"]').textContent = usd.format(data[0][1]);
+        $(root, '[data-out="c70"]').textContent = usd.format(data[8][1]);
+        var g = data[0][2] - data[8][2];
+        out.innerHTML = vida <= 62 ? "Escribe una edad mayor de 62." : "Si cobras hasta los " + vida + " años, el mayor total sale pidiéndolo a los <b>" + bestAge + "</b> (" + usd.format(best) + "). " + (g > 0 ? "Pedirlo a los 62 te da " + usd.format(g) + " más que esperar a los 70." : "Esperar a los 70 te da " + usd.format(-g) + " más que pedirlo a los 62.") + " Si tu cónyuge depende de tu cheque, esperar también sube su pensión de viudez.";
+        track("segurosocial");
+      });
+    },
+
     hipoteca: function (root) {
       bind(root, function () {
         var ing = val(root, "ingreso"), deu = val(root, "deudas"), eng = val(root, "enganche"), tasa = val(root, "tasa"), n = val(root, "plazo") * 12, dti = val(root, "tipo") / 100, tax = val(root, "tax") / 100;

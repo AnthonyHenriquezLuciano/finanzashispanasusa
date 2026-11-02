@@ -38,3 +38,8 @@
   titulo: "¿Cuánta casa puedo pagar?"
   corto: Precio máximo y pago mensual según tus ingresos y deudas.
   icono: "⌂"
+- slug: calculadora-seguro-social
+  include: seguro-social
+  titulo: Calculadora del Seguro Social
+  corto: Compara tu cheque y el total cobrado si lo pides entre los 62 y los 70.
+  icono: "◷"

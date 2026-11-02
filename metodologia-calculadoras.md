@@ -89,6 +89,12 @@ El cuestionario evalúa **ocho hábitos** con puntuaciones educativas de 0, 1 o 
 
 **No es** un score bancario, una evaluación clínica, una puntuación FICO ni una predicción de solvencia. No requiere registro y no necesitas compartir números de cuenta. [Abrir test](/herramientas/test-salud-financiera/).
 
+## 9. Seguro Social: edad para pedirlo
+
+Con el año de nacimiento se fija la edad plena (66 para nacidos hasta 1954, dos meses más por año entre 1955 y 1959, y 67 desde 1960). El beneficio baja 5/9 de 1 % por mes en los primeros 36 meses de adelanto y 5/12 de 1 % en los siguientes, y sube 2/3 de 1 % por mes de espera hasta los 70. Ejemplo: con $1,600 a los 67, el cheque a los 62 es $1,120 (70 %) y a los 70 es $1,984 (124 %). El total es cheque × 12 × (edad final − edad al pedirlo).
+
+**No incluye** ajustes por costo de vida, impuestos sobre el beneficio, el límite de ingresos si trabajas antes de la edad plena ni beneficios de cónyuge o viudez. [Abrir calculadora del Seguro Social](/herramientas/calculadora-seguro-social/). Fuente: [Administración del Seguro Social](https://www.ssa.gov/espanol/).
+
 ## Cómo detectar un resultado sospechoso
 
 1. Revisa si usaste dólares, porcentajes anuales o moneda local correctamente.

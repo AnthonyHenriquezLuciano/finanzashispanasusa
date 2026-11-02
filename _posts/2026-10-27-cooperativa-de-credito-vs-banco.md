@@ -105,3 +105,5 @@ Muchas familias usan **las dos**: un banco para el día a día y una cooperativa
 ## Nuestra recomendación
 
 Si estás empezando, tienes ITIN o necesitas un préstamo, una cooperativa de crédito suele darte mejores condiciones. Si necesitas presencia nacional y más tecnología, un banco puede servirte mejor. Las dos son seguras si están aseguradas, y puedes usar ambas. Con tu cuenta abierta, empieza a [construir crédito](/como-construir-credito-en-estados-unidos-desde-cero/).
+
+**Sigue leyendo:** una alternativa barata a los préstamos de día de pago son los PAL de las cooperativas; te lo explicamos en [qué hacer en lugar de un payday loan](/prestamos-de-dia-de-pago-payday-por-que-evitarlos/).
