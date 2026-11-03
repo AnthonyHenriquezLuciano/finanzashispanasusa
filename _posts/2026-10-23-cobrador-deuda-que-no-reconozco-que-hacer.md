@@ -104,3 +104,5 @@ Luis recibió llamadas por una deuda de $640 de una compañía de celular que nu
 - Organiza tus deudas reales con la calculadora de esta página y la guía para [salir de deudas de tarjetas de crédito](/como-salir-de-deudas-de-tarjetas-de-credito/).
 - Aprende a detectar fraudes en [estafas financieras comunes contra hispanos](/estafas-financieras-comunes-contra-hispanos-como-evitarlas/).
 - Si la deuda es médica, revisa [cómo reducir o negociar facturas médicas](/como-reducir-o-negociar-facturas-medicas/).
+
+**Sigue leyendo:** cuando un cobrador demanda o embarga tu sueldo, la bancarrota puede frenarlo; revisa [qué cambia con el Capítulo 7 o el 13](/bancarrota-capitulo-7-o-13-cuando-conviene/).
