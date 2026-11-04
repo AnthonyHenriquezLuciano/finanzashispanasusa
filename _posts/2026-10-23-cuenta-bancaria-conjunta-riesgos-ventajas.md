@@ -96,3 +96,5 @@ Aportar en proporción al ingreso suele sentirse más justo que dividir 50/50 cu
 Si aún no tienes cuenta, empieza por [cómo abrir una cuenta bancaria sin Seguro Social](/como-abrir-una-cuenta-bancaria-en-estados-unidos-sin-seguro-social/) o por la comparación entre [cooperativa de crédito y banco](/cooperativa-de-credito-vs-banco/).
 
 *Fuentes: [FDIC — Cobertura de cuentas conjuntas](https://www.fdic.gov/); [CFPB — Cuentas bancarias](https://www.consumerfinance.gov/es/). Las reglas de embargo y herencia varían por estado; para casos concretos consulta a un abogado.*
+
+**Sigue leyendo:** una cuenta conjunta no es la única forma de dejar dinero a tu familia; mira [qué son los beneficiarios POD y cómo funcionan](/testamento-y-beneficiarios-que-pasa-con-tu-dinero/).

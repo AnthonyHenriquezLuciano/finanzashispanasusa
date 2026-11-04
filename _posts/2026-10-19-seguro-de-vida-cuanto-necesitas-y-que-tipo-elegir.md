@@ -143,3 +143,5 @@ El cálculo de 10–12 veces el ingreso es solo una **regla aproximada**, no una
 ## Compra tu póliza en una semana
 
 Si alguien depende de ti, compra un seguro a término con una cobertura calculada con el método DIME, compara tres cotizaciones y nombra bien a tus beneficiarios. Es una de las decisiones más baratas que más protegen a tu familia.
+
+**Sigue leyendo:** el seguro solo protege si el beneficiario está bien puesto; revisa [cómo dejar tu dinero y a tus hijos protegidos con un testamento](/testamento-y-beneficiarios-que-pasa-con-tu-dinero/).
