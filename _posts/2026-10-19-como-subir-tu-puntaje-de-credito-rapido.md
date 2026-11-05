@@ -118,3 +118,5 @@ Si Carlos usa su reembolso de impuestos para pagar $1,450 antes de la fecha de c
 ## Tu plan de 90 días
 
 Para subir tu puntaje rápido, baja la utilización pagando antes de la fecha de corte, corrige errores y evita solicitudes nuevas. Para un puntaje alto a largo plazo, paga siempre a tiempo y deja que tu historial crezca. Si estás empezando desde cero, lee [cómo construir crédito en EE.UU.](/como-construir-credito-en-estados-unidos-desde-cero/). Más información oficial en la [CFPB](https://www.consumerfinance.gov/es/).
+
+**Sigue leyendo:** mover tu deuda a una tarjeta sin intereses también baja tu utilización si lo haces bien; mira [cómo funciona la transferencia de saldo](/transferencia-de-saldo-al-0-cuando-conviene/).

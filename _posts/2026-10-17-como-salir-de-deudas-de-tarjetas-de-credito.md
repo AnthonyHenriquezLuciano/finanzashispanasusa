@@ -89,3 +89,5 @@ Lista tus deudas, paga el mínimo en todas y concentra lo extra en una: la de in
 Si tus pagos no cubren los intereses o hay riesgo de atraso, contacta al banco antes del vencimiento y pregunta por programas de dificultad financiera. La [CFPB ofrece información sobre tarjetas de crédito y deudas](https://www.consumerfinance.gov/consumer-tools/credit-cards/). El método avalancha presupone pagos mínimos constantes, que no aparezcan compras nuevas y que las tasas no cambien: **no garantiza una fecha de liquidación**.
 
 **Sigue leyendo:** si las deudas ya no tienen salida, conoce [cuándo conviene la bancarrota Capítulo 7 o 13](/bancarrota-capitulo-7-o-13-cuando-conviene/).
+
+**Sigue leyendo:** si tu crédito es bueno, una tarjeta al 0 % puede acelerar el plan; revisa [cuándo conviene una transferencia de saldo](/transferencia-de-saldo-al-0-cuando-conviene/).
