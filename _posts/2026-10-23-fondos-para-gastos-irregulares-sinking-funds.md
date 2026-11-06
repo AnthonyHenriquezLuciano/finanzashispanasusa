@@ -108,3 +108,5 @@ Si eres trabajador independiente, uno de tus fondos más importantes debe ser **
 ## Reproduce los cálculos
 
 La fórmula correcta es **costo pendiente ÷ meses hasta el vencimiento** para cada fondo. Así, un seguro de $780 dentro de 6 meses requiere **$130 mensuales**; una reserva de $900 para mantenimiento dentro de 12 meses requiere **$75 al mes**. Sumar cuotas de vencimientos diferentes no es lo mismo que dividir todos los gastos entre doce. La [CFPB ofrece recomendaciones para crear ahorros según las necesidades del hogar](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/).
+
+**Sigue leyendo:** antes de las compras de fin de año, revisa [cómo funcionan los pagos en 4 cuotas sin interés](/compra-ahora-paga-despues-klarna-afterpay-riesgos/) y sus riesgos.
