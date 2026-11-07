@@ -93,3 +93,5 @@ Fija tu presupuesto total, revisa tu crédito, llega preaprobado, negocia el pre
 Compara el **APR, importe total financiado, plazo, cargos y suma de pagos**, no solo la cuota mensual. Un plazo mayor puede bajar la cuota pero aumentar el total de intereses. La [CFPB ofrece una guía para comparar ofertas de auto](https://www.consumerfinance.gov/ask-cfpb/how-do-i-compare-auto-loan-offers-what-should-i-look-at-besides-the-monthly-payment-en-753/). Añade seguro, mantenimiento y gasolina a tu presupuesto: la regla de porcentaje del ingreso es orientativa, no un criterio legal de aprobación.
 
 **Sigue leyendo:** antes de firmar, repasa [qué revisar al comprar un carro usado](/como-comprar-un-carro-usado-sin-que-te-enganen/) para no pagar por problemas ocultos.
+
+**Sigue leyendo:** si ya tienes el préstamo y tu crédito mejoró, revisa [cuándo conviene refinanciar el préstamo del carro](/refinanciar-prestamo-de-carro-cuando-conviene/).

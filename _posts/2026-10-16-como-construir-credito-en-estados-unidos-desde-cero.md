@@ -132,3 +132,5 @@ Cuando ya tengas tus primeras cuentas reportando, sigue con estos temas:
 - [fico vs vantagescore diferencias](/fico-vs-vantagescore-diferencias/)
 - [usuario autorizado tarjeta credito pros contras](/usuario-autorizado-tarjeta-credito-pros-contras/)
 - [cobrador deuda que no reconozco que hacer](/cobrador-deuda-que-no-reconozco-que-hacer/)
+
+**Sigue leyendo:** cuando tu puntaje sube, también puedes bajar la tasa de deudas que ya tienes; mira el ejemplo de [refinanciar un préstamo de auto](/refinanciar-prestamo-de-carro-cuando-conviene/).
