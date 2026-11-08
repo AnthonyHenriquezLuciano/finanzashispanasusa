@@ -90,3 +90,5 @@ Si no tienes 401(k), abre una IRA (normalmente Roth), invierte en fondos de bajo
 Una IRA tradicional y una Roth IRA tienen **reglas tributarias diferentes**; no todas las aportaciones son deducibles ni todos los retiros son libres de impuestos. Comprueba compensación tributable, límites de aportación y condiciones de retiro en [el Tema 451 del IRS](https://www.irs.gov/es/taxtopics/tc451). Los rendimientos de ejemplo son supuestos de cálculo, **no garantías** de rentabilidad.
 
 **Sigue leyendo:** suma a tu plan lo que te pagará el gobierno: [cuánto recibirás del Seguro Social y a qué edad pedirlo](/seguro-social-jubilacion-cuanto-recibiras-y-cuando-pedirlo/).
+
+**Sigue leyendo:** cuando tengas la IRA abierta, aprende a escoger dónde poner el dinero en [cómo empezar a invertir con fondos indexados](/como-empezar-a-invertir-con-poco-dinero-fondos-indexados/).
