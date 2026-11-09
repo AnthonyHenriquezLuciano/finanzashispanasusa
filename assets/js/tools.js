@@ -194,6 +194,26 @@
       });
     },
 
+    inversion: function (root) {
+      function fv(ini, m, r, n) { var i = r / 1200; return i ? ini * Math.pow(1 + i, n) + m * (Math.pow(1 + i, n) - 1) / i : ini + m * n; }
+      bind(root, function () {
+        var ini = val(root, "inicial"), m = val(root, "mensual"), y = Math.min(60, Math.round(val(root, "anos"))), r = val(root, "rend"), fee = val(root, "fee"), out = $(root, '[data-out="veredicto"]');
+        if (!y || (!ini && !m)) { out.textContent = "Escribe un aporte y el número de años."; return; }
+        var net = r - fee, fin = fv(ini, m, net, y * 12), sin = fv(ini, m, r, y * 12), ap = ini + m * 12 * y;
+        $(root, '[data-out="final"]').textContent = usd.format(fin);
+        $(root, '[data-out="aporte"]').textContent = usd.format(ap);
+        $(root, '[data-out="costo"]').textContent = usd.format(sin - fin);
+        var rows = "", step = y <= 10 ? 1 : 5, max = fin, list = [];
+        for (var k = step; k <= y; k += step) list.push(k);
+        if (list[list.length - 1] !== y) list.push(y);
+        list.forEach(function (k) { var v = fv(ini, m, net, k * 12); rows += "<tr" + (k === y ? ' class="on"' : "") + "><td>" + k + "</td><td>" + usd.format(ini + m * 12 * k) + '</td><td><span class="pl-bar" style="width:' + (max ? v / max * 100 : 0) + '%"></span>' + usd.format(v) + "</td></tr>"; });
+        $(root, '[data-out="tabla"]').innerHTML = rows;
+        var g = fin - ap, alt = fv(ini, m, r - 1, y * 12);
+        out.innerHTML = "En " + y + " años aportas " + usd.format(ap) + " y el interés compuesto añade <b>" + usd.format(g) + "</b>." + (fee < 1 ? " Con un fondo que cobrara 1 % al año tendrías " + usd.format(fin - alt) + " menos." : " Una comisión tan alta se come buena parte de tu ganancia: compara con fondos indexados de menos de 0.2 %.") + " Es un supuesto: los rendimientos reales suben y bajan cada año.";
+        track("inversion");
+      });
+    },
+
     hipoteca: function (root) {
       bind(root, function () {
         var ing = val(root, "ingreso"), deu = val(root, "deudas"), eng = val(root, "enganche"), tasa = val(root, "tasa"), n = val(root, "plazo") * 12, dti = val(root, "tipo") / 100, tax = val(root, "tax") / 100;

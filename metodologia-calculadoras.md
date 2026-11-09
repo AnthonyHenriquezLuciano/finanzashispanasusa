@@ -95,6 +95,12 @@ Con el año de nacimiento se fija la edad plena (66 para nacidos hasta 1954, dos
 
 **No incluye** ajustes por costo de vida, impuestos sobre el beneficio, el límite de ingresos si trabajas antes de la edad plena ni beneficios de cónyuge o viudez. [Abrir calculadora del Seguro Social](/herramientas/calculadora-seguro-social/). Fuente: [Administración del Seguro Social](https://www.ssa.gov/espanol/).
 
+## 10. Interés compuesto
+
+El valor futuro se calcula mes a mes: monto inicial × (1 + i)^n + aporte × ((1 + i)^n − 1) ÷ i, donde i es (rendimiento − comisión) ÷ 12 y n el número de meses. Ejemplo: $100 al mes durante 30 años con 7 % y comisión de 0.05 % dan unos $120,800; con 1 % de comisión, unos $100,452. El costo de la comisión es la diferencia frente al mismo cálculo sin comisión.
+
+**No incluye** impuestos, inflación ni la variación real de los mercados: el rendimiento es un supuesto constante y los resultados reales pueden ser mucho mayores o menores. [Abrir calculadora de interés compuesto](/herramientas/calculadora-interes-compuesto/). Fuente: [Investor.gov, de la SEC](https://www.investor.gov/).
+
 ## Cómo detectar un resultado sospechoso
 
 1. Revisa si usaste dólares, porcentajes anuales o moneda local correctamente.

@@ -3,7 +3,7 @@ title: "Cómo empezar a invertir con poco dinero: fondos indexados paso a paso"
 description: "Qué es un fondo indexado, cómo abrir una cuenta de inversión con $100, cuánto pueden crecer $100 al mes en 30 años y por qué una comisión del 1 % te cuesta más de $20,000."
 date: 2026-11-08 07:00:00 -0400
 category: Ahorro
-herramienta: presupuesto
+herramienta: inversion
 keywords: [como empezar a invertir, fondos indexados en español, invertir con poco dinero, cuenta de corretaje, invertir en la bolsa estados unidos]
 resumen:
 - "Un **fondo indexado** compra de una vez cientos de empresas, como las del S&P 500, con comisiones muy bajas."
@@ -91,4 +91,4 @@ Una diferencia de menos de un punto le cuesta a Óscar **$20,348**. Antes de com
 
 ## Tu primer paso esta semana
 
-Revisa tu presupuesto con la calculadora de abajo y busca $25, $50 o $100 al mes para invertir. Abre la cuenta, programa la compra automática y olvídate de ella. El hábito importa más que la cantidad.
+Prueba con la calculadora de abajo cuánto crecerían $25, $50 o $100 al mes y busca esa cantidad en tu presupuesto. Abre la cuenta, programa la compra automática y olvídate de ella. El hábito importa más que la cantidad.

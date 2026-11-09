@@ -87,3 +87,5 @@ Antes de pagar a un preparador, revisa si calificas para VITA o IRS Free File. L
 ## Disponibilidad de programas a octubre de 2026
 
 **IRS Free File cerró su temporada y el IRS indica volver a consultar en enero de 2027.** La elegibilidad del software guiado depende del AGI y de la oferta del socio; confirma en [IRS Free File en español](https://www.irs.gov/es/e-file-do-your-taxes-for-free) antes de comenzar. **Direct File fue suspendido** y no debe anunciarse como alternativa disponible; consulta la [revisión de GAO](https://www.gao.gov/products/b-337954). Los requisitos de VITA pueden diferir por sede y tipo de declaración.
+
+**Sigue leyendo:** antes de ir a VITA, compara [la deducción estándar y la detallada](/deduccion-estandar-o-detallada-cual-te-conviene/) con tus propios gastos.

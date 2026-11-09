@@ -1,0 +1,17 @@
+<section class="tool" data-tool="inversion" aria-labelledby="t-inv">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-inv" class="tool-title">Interés compuesto: ¿cuánto crece lo que inviertes?</h2><p>Mira cuánto podría valer tu aporte mensual y cuánto te quita la comisión del fondo.</p></header>
+  <div class="tool-grid">
+    <label>Monto inicial (USD)<input name="inicial" inputmode="decimal" value="0"></label>
+    <label>Aporte mensual (USD)<input name="mensual" inputmode="decimal" value="100"></label>
+    <label>Años<input name="anos" inputmode="numeric" value="30"></label>
+    <label>Rendimiento anual supuesto (%)<input name="rend" inputmode="decimal" value="7"></label>
+    <label>Comisión anual del fondo (%)<input name="fee" inputmode="decimal" value="0.05"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Valor estimado</span><b data-out="final">—</b></div>
+    <div><span>Lo que aportas</span><b data-out="aporte">—</b></div>
+    <div><span>Lo que te cuesta la comisión</span><b data-out="costo">—</b></div>
+  </div>
+  <table class="pl-tab"><thead><tr><th>Año</th><th>Aportado</th><th>Valor estimado</th></tr></thead><tbody data-out="tabla"></tbody></table>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

@@ -43,3 +43,8 @@
   titulo: Calculadora del Seguro Social
   corto: Compara tu cheque y el total cobrado si lo pides entre los 62 y los 70.
   icono: "◷"
+- slug: calculadora-interes-compuesto
+  include: inversion
+  titulo: Calculadora de interés compuesto
+  corto: Cuánto crece tu aporte mensual y cuánto te cuesta la comisión del fondo.
+  icono: "↗"
