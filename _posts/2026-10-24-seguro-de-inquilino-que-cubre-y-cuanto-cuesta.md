@@ -119,3 +119,5 @@ Verifica que la aseguradora tenga licencia en tu estado. Puedes consultarlo en e
 ## Asegura tus cosas antes de la mudanza
 
 El seguro de inquilino protege tus cosas, te protege de demandas y paga tu hotel si no puedes vivir en casa. Haz un inventario, elige costo de reemplazo y compara tres cotizaciones. Si estás buscando dónde vivir, lee también [cómo alquilar sin crédito](/como-alquilar-un-apartamento-sin-credito/) y [tus derechos con el depósito de seguridad](/deposito-seguridad-alquiler-derechos-inquilino/).
+
+**Sigue leyendo:** si ya eres dueño, la póliza es otra; mira [qué cubre el seguro de vivienda y qué deja fuera](/seguro-de-vivienda-que-cubre-y-como-pagar-menos/).

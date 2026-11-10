@@ -111,3 +111,5 @@ Una calculadora que solo muestra capital e interés diría $1,830. El costo real
 *Fuentes: [CFPB — Comprar una vivienda](https://www.consumerfinance.gov/es/obtener-respuestas/), formularios Loan Estimate y Closing Disclosure; [HUD — FHA](https://www.hud.gov/espanol).*
 
 **Sigue leyendo:** si pagas hipoteca, revisa si te conviene [detallar tus deducciones o tomar la estándar](/deduccion-estandar-o-detallada-cual-te-conviene/).
+
+**Sigue leyendo:** cuando compres, compara bien la póliza; te explicamos [qué cubre el seguro de vivienda y cómo pagar menos](/seguro-de-vivienda-que-cubre-y-como-pagar-menos/).
