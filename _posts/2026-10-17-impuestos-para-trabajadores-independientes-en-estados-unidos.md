@@ -141,3 +141,5 @@ Para organizar los impuestos de tu negocio durante el año:
 - [pagos trimestrales impuestos 1040 es](/pagos-trimestrales-impuestos-1040-es/)
 - [corregir declaracion impuestos 1040x](/corregir-declaracion-impuestos-1040x/)
 - [ip pin irs robo identidad impuestos](/ip-pin-irs-robo-identidad-impuestos/)
+
+**Sigue leyendo:** si manejas para una app, tu mayor ahorro está en [la deducción por millaje y cómo registrarla](/deduccion-por-millaje-conductores-y-repartidores/).

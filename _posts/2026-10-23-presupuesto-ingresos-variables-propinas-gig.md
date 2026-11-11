@@ -114,3 +114,5 @@ No tienes retención, así que el primer paso cambia: **antes de calcular tu ing
 ## Impuestos y reserva con ingresos irregulares
 
 Separar el **25–30 %** de cada cobro es una aproximación de planificación, **no una tasa legal de impuestos**. Lo que realmente debes depende de utilidad neta, deducciones, estado, créditos y otras retenciones. Confirma reglas y obligaciones mediante la [guía de impuestos estimados del IRS](https://www.irs.gov/es/businesses/small-businesses-self-employed/estimated-taxes). En semanas de poco ingreso, prioriza gastos esenciales y conserva registros de ingresos y costos del trabajo.
+
+**Sigue leyendo:** los repartidores y conductores pueden bajar mucho sus impuestos con [la deducción por millaje](/deduccion-por-millaje-conductores-y-repartidores/).
