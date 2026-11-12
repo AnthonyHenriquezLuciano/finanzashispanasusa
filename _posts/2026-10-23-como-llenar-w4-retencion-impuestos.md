@@ -108,3 +108,5 @@ Algunas familias prefieren un reembolso grande como "ahorro forzado". Si es tu c
 - Si ya presentaste tu declaración y descubriste un error, mira [cómo corregirla con el 1040-X](/corregir-declaracion-impuestos-1040x/).
 - Aprende a presentar sin pagar en [cómo declarar impuestos gratis](/como-declarar-impuestos-gratis/).
 - Calcula tu presupuesto con el sueldo neto real usando la calculadora 50/30/20 en la [sección de herramientas](/herramientas/).
+
+**Sigue leyendo:** para ver el efecto de tu W-4 en cada cheque, aprende a [leer tu talón de pago línea por línea](/como-leer-tu-talon-de-pago-pay-stub/).

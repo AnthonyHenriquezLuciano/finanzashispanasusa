@@ -99,3 +99,5 @@ Si tu ingreso cambia cada mes o no te alcanza, estas guías adaptan el método:
 ## Comprobación y recurso gratuito
 
 La regla 50/30/20 es una **herramienta de planificación**, no una distribución obligatoria. Puedes descargar el [registro de ingresos y gastos](/assets/recursos/registro-mensual.csv) y contrastar las categorías con las [herramientas de la CFPB](https://www.consumerfinance.gov/consumer-tools/). Calcula siempre porcentajes con tu ingreso **neto** y adapta necesidades y remesas familiares a tu situación real.
+
+**Sigue leyendo:** antes de repartir tu dinero, confirma tu ingreso neto real; te enseñamos a [leer tu talón de pago](/como-leer-tu-talon-de-pago-pay-stub/).
