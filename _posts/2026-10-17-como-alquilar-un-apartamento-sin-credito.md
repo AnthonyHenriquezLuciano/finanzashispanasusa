@@ -79,3 +79,5 @@ Sin crédito sí se puede alquilar: llega con pruebas de ingreso, ofrece codeudo
 ## Revisa tus derechos antes de pagar un depósito
 
 La admisión de documentos alternativos, los depósitos y los requisitos de verificación pueden variar por arrendador, estado y ciudad. Pide las condiciones por escrito y verifica que la persona pueda alquilar el inmueble antes de transferir dinero. La [CFPB explica cómo consultar reportes y disputar información incorrecta](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/), incluyendo datos relevantes para evaluaciones de inquilinos.
+
+**Sigue leyendo:** cuando tu contrato venza, evalúa [si te conviene seguir rentando o comprar casa](/rentar-o-comprar-casa-como-decidir-con-numeros/).

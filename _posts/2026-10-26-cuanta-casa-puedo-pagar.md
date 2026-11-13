@@ -96,3 +96,5 @@ Si declaras con ITIN, las reglas y tasas son distintas; lee [cómo comprar casa 
 ## Tu presupuesto de casa en tres números
 
 Calcula tu pago máximo con la regla 28/36, réstale tus deudas, y deja que la tasa y tu enganche decidan el precio. Antes de buscar casa, paga deudas, sube tu puntaje y deja un colchón. Las cifras de esta guía son aproximadas; tu prestamista hará el cálculo oficial. Más información en la [CFPB](https://www.consumerfinance.gov/es/obtener-respuestas/).
+
+**Sigue leyendo:** antes de decidir, compara con números [si te conviene más rentar o comprar](/rentar-o-comprar-casa-como-decidir-con-numeros/).
