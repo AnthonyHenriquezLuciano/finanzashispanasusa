@@ -115,3 +115,5 @@ Si tienes presencia legal, revisa el Mercado durante la inscripción abierta y c
 **Sigue leyendo:** [seguro de vida: cuánto necesitas y qué tipo elegir](/seguro-de-vida-cuanto-necesitas-y-que-tipo-elegir/).
 
 **Sigue leyendo:** [cómo reducir o negociar una factura médica](/como-reducir-o-negociar-facturas-medicas/).
+
+**Sigue leyendo:** si eliges un plan con deducible alto, aprovecha [la cuenta de ahorro para la salud (HSA)](/cuenta-de-ahorro-para-la-salud-hsa-como-funciona/).

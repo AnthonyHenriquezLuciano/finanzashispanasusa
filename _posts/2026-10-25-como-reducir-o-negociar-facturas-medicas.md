@@ -110,3 +110,5 @@ Una regla federal de 2025 que buscaba eliminar casi todas las deudas médicas de
 ## Guion para tu llamada al hospital
 
 Ante una factura médica: no pagues de inmediato, pide la factura detallada, solicita la ayuda financiera del hospital y negocia un descuento o un plan sin intereses. Así una factura de miles de dólares puede quedar en una fracción.
+
+**Sigue leyendo:** si tu plan de salud lo permite, una [cuenta HSA](/cuenta-de-ahorro-para-la-salud-hsa-como-funciona/) te ayuda a pagar estas facturas sin impuestos.
