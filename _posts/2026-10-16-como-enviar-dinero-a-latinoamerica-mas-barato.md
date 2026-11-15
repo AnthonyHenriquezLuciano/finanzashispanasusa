@@ -100,3 +100,5 @@ Si envías a un país concreto o tuviste un problema con un envío, empieza aqu�
 - [remesa equivocada no llego como reclamar](/remesa-equivocada-no-llego-como-reclamar/)
 - [tipo cambio remesas costo real comparar](/tipo-cambio-remesas-costo-real-comparar/)
 - [estafas remesas transferencias internacionales](/estafas-remesas-transferencias-internacionales/)
+
+**Sigue leyendo:** si tu familia está en Guatemala, mira el ejemplo completo de [cómo enviar dinero a Guatemala sin perder quetzales](/enviar-dinero-a-guatemala-desde-estados-unidos/).

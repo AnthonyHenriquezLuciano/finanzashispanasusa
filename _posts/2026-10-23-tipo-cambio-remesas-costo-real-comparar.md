@@ -90,3 +90,5 @@ El Banco Mundial mide el costo de enviar $200 en su base **Remittance Prices Wor
 - Si algo sale mal, [cómo reclamar una remesa](/remesa-equivocada-no-llego-como-reclamar/).
 
 *Fuentes: [Banco Mundial — Remittance Prices Worldwide](https://remittanceprices.worldbank.org/), [CFPB — Remesas](https://www.consumerfinance.gov/es/). Tipos de cambio y comisiones del ejemplo ilustrativos.*
+
+**Sigue leyendo:** aplicamos este mismo método con quetzales en [enviar dinero a Guatemala](/enviar-dinero-a-guatemala-desde-estados-unidos/).
