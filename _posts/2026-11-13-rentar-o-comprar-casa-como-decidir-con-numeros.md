@@ -3,7 +3,7 @@ title: "¿Rentar o comprar casa? Cómo decidir con números y no con presión"
 description: "Comprar no siempre gana a rentar. Compara el costo real de cada opción a 3, 5, 7 y 10 años con un ejemplo completo: hipoteca, impuestos, PMI, mantenimiento y costo de vender."
 date: 2026-11-13 07:00:00 -0400
 category: Vivienda
-herramienta: hipoteca
+herramienta: rentar-comprar
 keywords: [rentar o comprar casa, alquilar o comprar vivienda, conviene comprar casa, rentar es tirar el dinero, cuando comprar casa]
 resumen:
 - "Rentar no es tirar el dinero: comprar también tiene costos que no recuperas, como intereses, impuestos, seguro y mantenimiento."
@@ -64,7 +64,7 @@ El cálculo es conservador para el inquilino: no supone que invierta los $25,600
 
 - Piensas quedarte en la zona **al menos cinco a siete años**.
 - Tienes el enganche y los costos de cierre **sin vaciar tu fondo de emergencia**.
-- El pago total, con impuestos, seguro y mantenimiento, cabe en tu presupuesto. La calculadora de abajo te dice cuánta casa puedes pagar.
+- El pago total, con impuestos, seguro y mantenimiento, cabe en tu presupuesto. Confírmalo con la [calculadora de cuánta casa puedo pagar](/herramientas/calculadora-cuanta-casa-puedo-pagar/).
 - Tu trabajo es estable y tus deudas están bajo control; revisa tu [relación deuda-ingreso](/debt-to-income-dti-hipoteca-como-calcular/).
 
 ## Cuándo seguir rentando es lo inteligente
@@ -81,6 +81,6 @@ Mientras rentas, puedes prepararte: ahorra el enganche en una cuenta de alto ren
 1. Anota tu renta actual y cuánto sube cada año.
 2. Pide una cotización de hipoteca real y suma impuestos, seguro, PMI y un 1 % anual de mantenimiento.
 3. Suma enganche y costos de cierre.
-4. Elige cuántos años piensas quedarte y calcula el costo neto como en la tabla de arriba.
+4. Elige cuántos años piensas quedarte y pon tus cifras en la calculadora de abajo, que hace el cálculo de la tabla por ti.
 
 El [CFPB tiene herramientas en español](https://www.consumerfinance.gov/es/) para preparar la compra de una vivienda, y nuestra guía del [costo real de comprar casa](/costo-real-comprar-casa-hipoteca-impuestos-seguro/) detalla cada gasto.

@@ -1,0 +1,20 @@
+<section class="tool" data-tool="rentarcomprar" aria-labelledby="t-rc">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-rc" class="tool-title">¿Rentar o comprar? Compara el costo real</h2><p>Mira qué te sale más barato según los años que piensas quedarte.</p></header>
+  <div class="tool-grid">
+    <label>Renta mensual (USD)<input name="renta" inputmode="decimal" value="1900"></label>
+    <label>Aumento anual de la renta (%)<input name="subida" inputmode="decimal" value="3"></label>
+    <label>Precio de la casa (USD)<input name="precio" inputmode="decimal" value="320000"></label>
+    <label>Enganche (%)<input name="eng" inputmode="decimal" value="5"></label>
+    <label>Tasa de la hipoteca (%)<input name="tasa" inputmode="decimal" value="6.5"></label>
+    <label>Impuesto a la propiedad (% anual)<input name="ptax" inputmode="decimal" value="1.1"></label>
+    <label>Seguro de vivienda (USD al mes)<input name="seg" inputmode="decimal" value="150"></label>
+    <label>Plusvalía anual supuesta (%)<input name="plus" inputmode="decimal" value="3"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Pago mensual como dueño</span><b data-out="pago">—</b></div>
+    <div><span>Dinero para comprar</span><b data-out="inicial">—</b></div>
+    <div><span>Comprar gana desde</span><b data-out="equil">—</b></div>
+  </div>
+  <table class="pl-tab"><thead><tr><th>Años</th><th>Costo de rentar</th><th>Costo neto de comprar</th></tr></thead><tbody data-out="tabla"></tbody></table>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>

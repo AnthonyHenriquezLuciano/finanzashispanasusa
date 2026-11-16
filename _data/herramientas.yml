@@ -48,3 +48,8 @@
   titulo: Calculadora de interés compuesto
   corto: Cuánto crece tu aporte mensual y cuánto te cuesta la comisión del fondo.
   icono: "↗"
+- slug: calculadora-rentar-o-comprar
+  include: rentar-comprar
+  titulo: Calculadora ¿rentar o comprar?
+  corto: Compara el costo real de rentar y de ser dueño según los años que te quedes.
+  icono: "⇄"

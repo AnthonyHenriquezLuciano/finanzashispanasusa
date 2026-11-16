@@ -81,3 +81,5 @@ El [CFPB explica en español](https://www.consumerfinance.gov/es/obtener-respues
 ## Para que no vuelva a pasar
 
 El payday loan suele aparecer cuando no hay colchón. Aunque sean $20 por quincena, empieza un [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/): con $500 guardados, la mayoría de estos préstamos dejan de ser necesarios.
+
+**Sigue leyendo:** otro préstamo rápido igual de caro es el que usa tu carro como garantía; lee [los riesgos del title loan](/prestamo-con-titulo-de-carro-title-loan-riesgos/).

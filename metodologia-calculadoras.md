@@ -101,6 +101,12 @@ El valor futuro se calcula mes a mes: monto inicial × (1 + i)^n + aporte × ((1
 
 **No incluye** impuestos, inflación ni la variación real de los mercados: el rendimiento es un supuesto constante y los resultados reales pueden ser mucho mayores o menores. [Abrir calculadora de interés compuesto](/herramientas/calculadora-interes-compuesto/). Fuente: [Investor.gov, de la SEC](https://www.investor.gov/).
 
+## 11. ¿Rentar o comprar?
+
+El costo de rentar suma la renta de cada año, con el aumento anual elegido, más $15 al mes de seguro de inquilino. El costo neto de comprar suma el enganche, un 3 % de costos de cierre y el pago mensual completo (capital e intereses a 30 años, impuesto a la propiedad, seguro, PMI de 0.6 % anual si el enganche es menor al 20 % y mantenimiento de 1 % anual), y le resta lo que recuperarías al vender: el valor de la casa con la plusvalía elegida, menos el saldo del préstamo y un 6 % de costos de venta. Ejemplo: con renta de $1,900 y una casa de $320,000 con 5 % de enganche al 6.5 %, rentar gana a 5 años ($121,948 frente a $128,477) y comprar gana a 7 ($164,332 frente a $175,964).
+
+**No incluye** el rendimiento que tendría el inquilino si invirtiera el enganche, deducciones de impuestos, cuotas de HOA ni cambios de tasa. La plusvalía es un supuesto. [Abrir calculadora rentar o comprar](/herramientas/calculadora-rentar-o-comprar/). Fuente: [CFPB, comprar una vivienda](https://www.consumerfinance.gov/owning-a-home/).
+
 ## Cómo detectar un resultado sospechoso
 
 1. Revisa si usaste dólares, porcentajes anuales o moneda local correctamente.

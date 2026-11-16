@@ -214,6 +214,33 @@
       });
     },
 
+    rentarcomprar: function (root) {
+      bind(root, function () {
+        var renta = val(root, "renta"), sub = val(root, "subida") / 100, precio = val(root, "precio"), engP = val(root, "eng") / 100, tasa = val(root, "tasa"), ptax = val(root, "ptax") / 100, seg = val(root, "seg"), plus = val(root, "plus") / 100, out = $(root, '[data-out="veredicto"]');
+        if (!renta || !precio) { out.textContent = "Escribe tu renta y el precio de la casa."; return; }
+        var eng = precio * engP, cierre = precio * 0.03, P = precio - eng, r = tasa / 1200, n = 360;
+        var c = r ? P * r / (1 - Math.pow(1 + r, -n)) : P / n;
+        var pmi = engP < 0.2 ? P * 0.006 / 12 : 0, mes = c + precio * ptax / 12 + seg + pmi + precio * 0.01 / 12;
+        function bal(k) { return r ? P * Math.pow(1 + r, k) - c * (Math.pow(1 + r, k) - 1) / r : P - c * k; }
+        function costos(y) {
+          var k = y * 12, v = precio * Math.pow(1 + plus, y), own = eng + cierre + mes * k - (v - bal(k) - v * 0.06), rent = 0;
+          for (var i = 0; i < y; i++) rent += renta * Math.pow(1 + sub, i) * 12;
+          return [rent + 15 * k, own];
+        }
+        var eq = 0;
+        for (var y = 1; y <= 30; y++) { var cc = costos(y); if (cc[1] < cc[0]) { eq = y; break; } }
+        $(root, '[data-out="pago"]').textContent = usd.format(mes);
+        $(root, '[data-out="inicial"]').textContent = usd.format(eng + cierre);
+        $(root, '[data-out="equil"]').textContent = eq ? "el año " + eq : "más de 30 años";
+        var rows = "";
+        [1, 3, 5, 7, 10, 15].forEach(function (y) { var cc = costos(y), win = cc[1] < cc[0]; rows += "<tr" + (y === eq ? ' class="on"' : "") + "><td>" + y + "</td><td>" + (win ? "" : "<b>") + usd.format(cc[0]) + (win ? "" : "</b>") + "</td><td>" + (win ? "<b>" : "") + usd.format(cc[1]) + (win ? "</b>" : "") + "</td></tr>"; });
+        $(root, '[data-out="tabla"]').innerHTML = rows;
+        var dif = mes - renta;
+        out.innerHTML = (eq ? "Si te quedas <b>" + eq + " años o más</b>, comprar te sale más barato con estos supuestos. Si te mudas antes, rentar gana." : "Con estos supuestos, rentar sale más barato durante 30 años.") + (dif > 0 ? " Ser dueño te costaría " + usd.format(dif) + " más al mes que la renta actual." : "") + (engP < 0.2 ? " Incluye PMI porque el enganche es menor al 20 %." : "");
+        track("rentarcomprar");
+      });
+    },
+
     hipoteca: function (root) {
       bind(root, function () {
         var ing = val(root, "ingreso"), deu = val(root, "deudas"), eng = val(root, "enganche"), tasa = val(root, "tasa"), n = val(root, "plazo") * 12, dti = val(root, "tipo") / 100, tax = val(root, "tax") / 100;

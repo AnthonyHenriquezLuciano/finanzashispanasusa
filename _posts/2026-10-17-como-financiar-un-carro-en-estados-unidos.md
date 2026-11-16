@@ -95,3 +95,5 @@ Compara el **APR, importe total financiado, plazo, cargos y suma de pagos**, no 
 **Sigue leyendo:** antes de firmar, repasa [qué revisar al comprar un carro usado](/como-comprar-un-carro-usado-sin-que-te-enganen/) para no pagar por problemas ocultos.
 
 **Sigue leyendo:** si ya tienes el préstamo y tu crédito mejoró, revisa [cuándo conviene refinanciar el préstamo del carro](/refinanciar-prestamo-de-carro-cuando-conviene/).
+
+**Sigue leyendo:** si te ofrecen dinero rápido a cambio del título de tu vehículo, revisa antes [cuánto cuesta un title loan](/prestamo-con-titulo-de-carro-title-loan-riesgos/).
