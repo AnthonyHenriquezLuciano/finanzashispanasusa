@@ -88,3 +88,5 @@ Conoce los mínimos de tu estado, compara al menos tres cotizaciones con los mis
 Para comparar cotizaciones de forma justa, pide **los mismos límites de responsabilidad, deducibles y coberturas**. Una prima inferior puede significar menos protección. La [NAIC explica los puntos que debes comparar](https://content.naic.org/consumer/auto-insurance.htm); comprueba también los mínimos obligatorios de tu estado, que no son uniformes en EE.UU.
 
 **Sigue leyendo:** si estás por cambiar de vehículo, mira [cómo comprar un carro usado sin sorpresas](/como-comprar-un-carro-usado-sin-que-te-enganen/).
+
+**Sigue leyendo:** si llegas a chocar, sigue [los pasos para que el seguro te pague bien](/que-hacer-despues-de-un-choque-seguro-y-reclamacion/).

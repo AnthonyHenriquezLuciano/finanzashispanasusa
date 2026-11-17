@@ -106,3 +106,5 @@ En algunos estados el impuesto sobre la venta en una compra a particular se paga
 ## Lo que no debes olvidar
 
 Un carro usado barato puede salir caro si no lo revisas. Lee la Guía del Comprador, busca el VIN en las fuentes gratuitas, págale a tu mecánico y suma impuestos y cargos antes de comparar precios. Y si vas a financiarlo, llega con tu préstamo aprobado.
+
+**Sigue leyendo:** si financias con poco enganche, revisa por qué el seguro GAP importa en [qué hacer después de un choque](/que-hacer-despues-de-un-choque-seguro-y-reclamacion/).
