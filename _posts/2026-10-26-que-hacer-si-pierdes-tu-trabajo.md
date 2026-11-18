@@ -119,3 +119,5 @@ Pide todo acuerdo por escrito. Si ya tienes deudas en cobranza, lee [qué hacer 
 Si pierdes tu trabajo: cobra lo que te deben, solicita desempleo la primera semana, protege tu seguro médico, recorta a un presupuesto de supervivencia y habla con tus acreedores antes de atrasarte. Y cuando vuelvas a trabajar, reconstruye tu [fondo de emergencia](/fondo-de-emergencia-cuanto-ahorrar-y-donde-guardarlo/) para la próxima vez.
 
 **Sigue leyendo:** [qué hacer si te lesionas en el trabajo](/compensacion-laboral-si-te-lesionas-en-el-trabajo/).
+
+Sigue leyendo: [cómo mover tu 401(k) sin multas](/que-hacer-con-tu-401k-al-cambiar-de-trabajo-rollover/) cuando dejas un empleo.

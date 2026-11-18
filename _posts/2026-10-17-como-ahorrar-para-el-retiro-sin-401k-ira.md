@@ -92,3 +92,5 @@ Una IRA tradicional y una Roth IRA tienen **reglas tributarias diferentes**; no 
 **Sigue leyendo:** suma a tu plan lo que te pagará el gobierno: [cuánto recibirás del Seguro Social y a qué edad pedirlo](/seguro-social-jubilacion-cuanto-recibiras-y-cuando-pedirlo/).
 
 **Sigue leyendo:** cuando tengas la IRA abierta, aprende a escoger dónde poner el dinero en [cómo empezar a invertir con fondos indexados](/como-empezar-a-invertir-con-poco-dinero-fondos-indexados/).
+
+Sigue leyendo: [qué hacer con tu 401(k) al cambiar de trabajo](/que-hacer-con-tu-401k-al-cambiar-de-trabajo-rollover/), con el costo real de cobrarlo en efectivo.
