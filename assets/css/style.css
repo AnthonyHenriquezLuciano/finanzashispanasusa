@@ -209,3 +209,4 @@ nav a:hover{color:var(--brand)}
 .hp-leg b{color:var(--ink);font-weight:600}
 .hp-leg span{white-space:nowrap}
 .hp-tx{background:#d4a017}
+pre{max-width:100%;overflow-x:auto}

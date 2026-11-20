@@ -127,3 +127,5 @@ Guarda la confirmación de cada pago. Al presentar tu declaración, sumarás los
 - Si tienes negocio, mira [cómo abrir una LLC siendo inmigrante](/como-abrir-una-llc-siendo-inmigrante/).
 
 *Fuentes: [IRS — Impuestos estimados](https://www.irs.gov/es/businesses/small-businesses-self-employed/estimated-taxes), Formulario 1040-ES y Publicación 505. Las cifras cambian cada año fiscal.*
+
+Sigue leyendo: [qué hacer si debes al IRS y no puedes pagar](/plan-de-pagos-con-el-irs-si-no-puedes-pagar-impuestos/), con el plan de pagos paso a paso.

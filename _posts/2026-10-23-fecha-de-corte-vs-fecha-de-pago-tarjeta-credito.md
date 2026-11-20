@@ -28,11 +28,10 @@ faq:
 
 ## Las dos fechas en una línea de tiempo
 
-```
-Ciclo de compras (≈30 días) ──► FECHA DE CORTE ──► (21 a 25 días) ──► FECHA DE PAGO
-                                 Se calcula el saldo                Último día sin
-                                 y se reporta al buró               cargos ni intereses
-```
+1. **Ciclo de compras (unos 30 días):** usas la tarjeta.
+2. **Fecha de corte:** se calcula el saldo y se reporta al buró de crédito.
+3. **Entre 21 y 25 días después:** tienes tiempo para pagar sin intereses.
+4. **Fecha de pago:** último día para pagar sin cargos ni intereses.
 
 | | Fecha de corte | Fecha de pago |
 |---|---|---|
@@ -101,3 +100,5 @@ Si te atrasaste una sola vez por descuido, llama al emisor y pide que te reembol
 - Entiende por qué ves puntajes distintos en [FICO vs. VantageScore](/fico-vs-vantagescore-diferencias/).
 
 *Fuentes: [CFPB — Tarjetas de crédito](https://www.consumerfinance.gov/es/), Ley CARD de 2009 y Regulación Z.*
+
+Sigue leyendo: [cómo se calcula el interés de tu tarjeta](/como-se-calcula-el-interes-de-tu-tarjeta-de-credito-apr/), con el saldo diario promedio en dólares.
