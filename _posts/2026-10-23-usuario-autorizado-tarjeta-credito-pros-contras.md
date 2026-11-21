@@ -100,3 +100,5 @@ Ser **codeudor** es mucho más riesgoso que agregar a alguien como usuario autor
 - Calcula tu utilización con la calculadora de esta página.
 
 *Fuentes: [CFPB](https://www.consumerfinance.gov/es/), [myFICO — Usuarios autorizados](https://www.myfico.com/).*
+
+Sigue leyendo: [cuándo conviene cancelar una tarjeta](/como-cancelar-una-tarjeta-de-credito-sin-danar-tu-puntaje/) y cómo hacerlo sin perder puntos.
