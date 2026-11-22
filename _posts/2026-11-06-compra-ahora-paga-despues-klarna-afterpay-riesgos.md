@@ -76,3 +76,5 @@ El [CFPB tiene información en español](https://www.consumerfinance.gov/es/) so
 - **Usa la calculadora 50/30/20 de abajo** para ver cuánto cabe en tus gastos personales sin tocar las necesidades.
 - **Paga en efectivo o con débito** lo que puedas, y deja las cuotas solo para una compra grande que ya planeaste.
 - **Empieza en enero un fondo para fiestas** con unos dólares por cheque; lo explicamos en [fondos para gastos irregulares](/fondos-para-gastos-irregulares-sinking-funds/).
+
+Sigue leyendo: [Black Friday sin deudas](/black-friday-como-comprar-sin-endeudarte/): cuánto cuesta una oferta pagada a plazos.
