@@ -107,6 +107,12 @@ El costo de rentar suma la renta de cada año, con el aumento anual elegido, má
 
 **No incluye** el rendimiento que tendría el inquilino si invirtiera el enganche, deducciones de impuestos, cuotas de HOA ni cambios de tasa. La plusvalía es un supuesto. [Abrir calculadora rentar o comprar](/herramientas/calculadora-rentar-o-comprar/). Fuente: [CFPB, comprar una vivienda](https://www.consumerfinance.gov/owning-a-home/).
 
+## 12. ¿Cobrar o mover tu 401(k)?
+
+El costo de cobrarlo suma el impuesto federal (saldo × tu tramo), el impuesto estatal (saldo × tu tasa) y la multa del 10 % si tienes menos de 55 años. La retención es el 20 % del saldo; si es menor que el impuesto federal más la multa, la diferencia se debe al presentar la declaración. El valor al retiro es saldo × (1 + rendimiento)^años. Ejemplo: $18,000 a los 34 años, tramo de 12 % y estado de 5 %: costo de $4,860, te quedan $13,140 y, movido a una IRA con 7 % hasta los 65, podría valer unos $146,612.
+
+**No incluye** el cambio de tramo por sumar el retiro a tu ingreso, otras excepciones a la multa ni las reglas propias del dinero Roth. La regla de los 55 se aplica de forma simplificada a cualquier edad de 55 o más. [Abrir calculadora cobrar o mover tu 401(k)](/herramientas/calculadora-cobrar-o-mover-401k/). Fuente: [IRS, tema 413](https://www.irs.gov/taxtopics/tc413).
+
 ## Cómo detectar un resultado sospechoso
 
 1. Revisa si usaste dólares, porcentajes anuales o moneda local correctamente.

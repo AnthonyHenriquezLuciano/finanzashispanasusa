@@ -3,7 +3,7 @@ title: "Qué hacer con tu 401(k) al cambiar de trabajo: rollover sin multas"
 description: "Tus 4 opciones con el 401(k) cuando dejas un empleo, cuánto pierdes si lo cobras en efectivo y cómo hacer un rollover directo sin la retención del 20 % ni la multa del 10 %."
 date: 2026-11-18 07:00:00 -0400
 category: Ahorro
-herramienta: inversion
+herramienta: retiro401k
 keywords: [401k al cambiar de trabajo, rollover 401k a IRA, cobrar 401k multa, rollover directo, que hacer con mi 401k]
 resumen:
 - "Tienes 4 opciones: dejarlo en el plan viejo, pasarlo al plan nuevo, pasarlo a una IRA o cobrarlo."
@@ -49,7 +49,7 @@ Rosa tiene 34 años y deja su trabajo en una bodega con **$18,000** en el 401(k)
 
 La retención de $3,600 no alcanza para el impuesto federal más la multa ($3,960), así que en abril aún debe **$360** al IRS, más los $900 del estado.
 
-Si en cambio mueve los $18,000 a una IRA y el dinero creciera un 7 % al año (supuesto, no garantía), a los 65 años tendría cerca de **$146,600**. Haz tu propia proyección con la calculadora de interés compuesto de esta página.
+Si en cambio mueve los $18,000 a una IRA y el dinero creciera un 7 % al año (supuesto, no garantía), a los 65 años tendría cerca de **$146,600**. Prueba tus propios números con la calculadora de esta página.
 
 ## Rollover directo o indirecto: la trampa del 60
 

@@ -241,6 +241,22 @@
       });
     },
 
+    retiro401k: function (root) {
+      bind(root, function () {
+        var saldo = val(root, "saldo"), edad = val(root, "edad"), fed = val(root, "fed") / 100, est = val(root, "est") / 100, rend = val(root, "rend") / 100, ret = val(root, "ret"), out = $(root, '[data-out="veredicto"]');
+        if (!saldo || !edad) { out.textContent = "Escribe el saldo de tu 401(k) y tu edad."; return; }
+        var multa = edad >= 55 ? 0 : saldo * 0.10, retencion = saldo * 0.20, impF = saldo * fed, impE = saldo * est;
+        var costo = impF + impE + multa, neto = saldo - costo, anos = Math.max(0, ret - edad), futuro = saldo * Math.pow(1 + rend, anos), saldoIRS = impF + multa - retencion;
+        $(root, '[data-out="costo"]').textContent = usd.format(costo);
+        $(root, '[data-out="neto"]').textContent = usd.format(neto);
+        $(root, '[data-out="futuro"]').textContent = usd.format(futuro);
+        var filas = [["Retención obligatoria del 20 %", retencion], ["Cheque que recibes", saldo - retencion], ["Impuesto federal", impF], ["Multa del 10 %", multa], ["Impuesto estatal", impE], ["<b>Costo total</b>", costo], ["<b>Te queda</b>", neto]];
+        $(root, '[data-out="tabla"]').innerHTML = filas.map(function (r) { return "<tr><td>" + r[0] + "</td><td>" + usd.format(r[1]) + "</td></tr>"; }).join("");
+        out.innerHTML = "Cobrarlo te cuesta <b>" + Math.round(costo / saldo * 100) + " %</b> del saldo. " + (saldoIRS > 0 ? "La retención no alcanza: en tu declaración deberías unos " + usd.format(saldoIRS) + " más al IRS, además del estado. " : "La retención cubre el impuesto federal; la diferencia volvería en tu reembolso. ") + (edad >= 55 ? "Calculado sin multa por la regla de los 55: aplica solo si dejaste el empleo en el año en que cumples 55 o después. " : "") + (anos ? "Movido a una IRA con " + Math.round(rend * 1000) / 10 + " % al año, podría valer " + usd.format(futuro) + " en " + anos + " años (supuesto, no garantía)." : "");
+        track("retiro401k");
+      });
+    },
+
     hipoteca: function (root) {
       bind(root, function () {
         var ing = val(root, "ingreso"), deu = val(root, "deudas"), eng = val(root, "enganche"), tasa = val(root, "tasa"), n = val(root, "plazo") * 12, dti = val(root, "tipo") / 100, tax = val(root, "tax") / 100;

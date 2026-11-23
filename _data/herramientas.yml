@@ -53,3 +53,8 @@
   titulo: Calculadora ¿rentar o comprar?
   corto: Compara el costo real de rentar y de ser dueño según los años que te quedes.
   icono: "⇄"
+- slug: calculadora-cobrar-o-mover-401k
+  include: retiro401k
+  titulo: Calculadora ¿cobrar o mover tu 401(k)?
+  corto: Cuánto pierdes en impuestos y multa si cobras tu 401(k) al dejar un empleo.
+  icono: "⤳"

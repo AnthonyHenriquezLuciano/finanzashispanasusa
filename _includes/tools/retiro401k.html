@@ -1,0 +1,18 @@
+<section class="tool" data-tool="retiro401k" aria-labelledby="t-401">
+  <header class="tool-h"><p class="tool-tag">Calculadora</p><h2 id="t-401" class="tool-title">¿Cobrar o mover tu 401(k)? Mira cuánto pierdes</h2><p>Compara el cheque que recibirías hoy con lo que podría valer el dinero si lo mueves a una IRA.</p></header>
+  <div class="tool-grid">
+    <label>Saldo del 401(k) (USD)<input name="saldo" inputmode="decimal" value="18000"></label>
+    <label>Tu edad al dejar el empleo<input name="edad" inputmode="decimal" value="34"></label>
+    <label>Tramo federal de impuestos (%)<input name="fed" inputmode="decimal" value="12"></label>
+    <label>Impuesto estatal (%)<input name="est" inputmode="decimal" value="5"></label>
+    <label>Rendimiento anual supuesto (%)<input name="rend" inputmode="decimal" value="7"></label>
+    <label>Edad de retiro<input name="ret" inputmode="decimal" value="65"></label>
+  </div>
+  <div class="pl-sum">
+    <div><span>Costo de cobrarlo hoy</span><b data-out="costo">—</b></div>
+    <div><span>Lo que te queda</span><b data-out="neto">—</b></div>
+    <div><span>Si lo mueves, al retiro</span><b data-out="futuro">—</b></div>
+  </div>
+  <table class="pl-tab"><thead><tr><th>Concepto</th><th>Monto</th></tr></thead><tbody data-out="tabla"></tbody></table>
+  <p class="tool-result" data-out="veredicto" aria-live="polite"></p>
+</section>
