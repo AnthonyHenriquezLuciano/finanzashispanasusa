@@ -134,3 +134,5 @@ Cuando ya tengas tus primeras cuentas reportando, sigue con estos temas:
 - [cobrador deuda que no reconozco que hacer](/cobrador-deuda-que-no-reconozco-que-hacer/)
 
 **Sigue leyendo:** cuando tu puntaje sube, también puedes bajar la tasa de deudas que ya tienes; mira el ejemplo de [refinanciar un préstamo de auto](/refinanciar-prestamo-de-carro-cuando-conviene/).
+
+Sigue leyendo: [si reportar tu renta al buró de crédito sube tu puntaje](/reportar-tu-renta-al-buro-de-credito-funciona/) y cuánto cuesta.
