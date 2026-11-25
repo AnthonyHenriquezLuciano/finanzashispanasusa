@@ -91,3 +91,5 @@ Si tus pagos no cubren los intereses o hay riesgo de atraso, contacta al banco a
 **Sigue leyendo:** si las deudas ya no tienen salida, conoce [cuándo conviene la bancarrota Capítulo 7 o 13](/bancarrota-capitulo-7-o-13-cuando-conviene/).
 
 **Sigue leyendo:** si tu crédito es bueno, una tarjeta al 0 % puede acelerar el plan; revisa [cuándo conviene una transferencia de saldo](/transferencia-de-saldo-al-0-cuando-conviene/).
+
+Sigue leyendo: [cuándo conviene un préstamo de consolidación](/prestamo-de-consolidacion-de-deudas-cuando-conviene/), con la comisión de apertura incluida en el cálculo.

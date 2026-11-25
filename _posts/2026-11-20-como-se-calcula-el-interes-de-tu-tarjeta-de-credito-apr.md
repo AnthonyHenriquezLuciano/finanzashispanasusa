@@ -65,3 +65,5 @@ Duplicar el pago reduce el plazo a menos de la mitad y ahorra **$967**. Tu estad
 - **APR promocional:** 0 % por un tiempo; al terminar, el saldo restante pasa a la tasa normal.
 
 La Oficina para la Protección Financiera del Consumidor explica estos términos en su página sobre [tarjetas de crédito](https://www.consumerfinance.gov/es/obtener-respuestas/tarjetas-de-credito/). Revisa tu acuerdo de tarjeta: cada tasa aparece en la tabla de Schumer, el recuadro de tasas y cargos que acompaña la solicitud.
+
+Sigue leyendo: [préstamo de consolidación de deudas](/prestamo-de-consolidacion-de-deudas-cuando-conviene/): cuándo ahorra y cuándo es una trampa.
