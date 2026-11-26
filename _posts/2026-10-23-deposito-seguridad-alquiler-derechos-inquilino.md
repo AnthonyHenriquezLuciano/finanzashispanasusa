@@ -95,3 +95,5 @@ Algunos edificios ofrecen un **seguro de depósito** (pagas una cuota mensual o 
 ## La normativa depende de tu localidad
 
 No existe un plazo federal único que rija todas las devoluciones de depósitos de seguridad en alquileres privados. Verifica las reglas **de tu estado y municipio**, el contrato y las deducciones permitidas. El [HUD mantiene recursos de orientación para arrendatarios](https://www.hud.gov/topics/rental_assistance). Haz fotografías del estado inicial y final, guarda el contrato y solicita comprobantes de cualquier deducción.
+
+Sigue leyendo: [cómo buscar dinero no reclamado](/dinero-no-reclamado-como-buscar-si-tienes-dinero-olvidado/) si el arrendador nunca te devolvió el depósito.
