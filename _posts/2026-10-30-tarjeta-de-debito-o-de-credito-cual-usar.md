@@ -109,3 +109,5 @@ En esos casos, guarda la tarjeta de crédito para compras en línea y gasolina, 
 ## La regla para recordar
 
 Crédito para comprar, débito para tu efectivo. Si pagas completo cada mes, la tarjeta de crédito te protege más y construye tu historial. Si todavía no puedes pagar completo, el débito es la opción segura mientras te pones al día.
+
+Sigue leyendo: [cómo disputar un cargo de tarjeta](/como-disputar-un-cargo-de-tarjeta-de-credito/), con plazos y una carta modelo.

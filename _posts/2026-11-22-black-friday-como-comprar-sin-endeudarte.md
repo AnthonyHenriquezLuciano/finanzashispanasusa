@@ -64,3 +64,5 @@ La FTC tiene consejos en español para comprar en línea de forma segura en su s
 ## El plan para el próximo año
 
 Divide el gasto de fiestas entre 12 y aparta esa cantidad cada mes en una cuenta separada. Con $600 serían $50 al mes, sin tocar la tarjeta en noviembre. Así funcionan los [fondos para gastos irregulares](/fondos-para-gastos-irregulares-sinking-funds/): el gasto no desaparece, pero deja de ser una sorpresa.
+
+Sigue leyendo: [qué hacer si una compra no llega](/como-disputar-un-cargo-de-tarjeta-de-credito/): los pasos para disputar el cargo con tu banco.
