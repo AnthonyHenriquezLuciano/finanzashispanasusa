@@ -109,3 +109,5 @@ Si recortas gastos pero el dinero se queda en tu cuenta corriente, desaparece en
 ## Cómo comprobar que realmente ahorraste
 
 Antes de cancelar o cambiar un servicio, solicita el precio total y las posibles penalizaciones. **Ahorrar $20 mensuales equivaldría a $240 al año solo si el cambio se mantiene 12 meses y no aparecen cargos nuevos**. Para verificarlo, compara dos facturas consecutivas y registra la diferencia. La [CFPB ofrece herramientas generales para organizar ingresos, gastos y objetivos](https://www.consumerfinance.gov/consumer-tools/).
+
+Sigue leyendo: [cómo pagar menos en tu plan de celular](/como-pagar-menos-en-tu-plan-de-celular/), paso a paso y sin perder tu número.
